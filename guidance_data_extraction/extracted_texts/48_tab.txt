@@ -1,0 +1,46 @@
+('[[[{DAT}Data type]]]', '[[[{DAT}Location]]]', '[[[{DAT}Personal info]]]', '[[[{DAT}Financial info]]]', '[[[{DAT}Health and fitness]]]', '[[[{DAT}Messages]]]', '[[[{DAT}Photos or videos]]]', '[[[{DAT}Audio files]]]', '[[[{DAT}Files and docs]]]', '[[[{DAT}Calendar]]]', '[[[{DAT}Contacts]]]', '[[[{DAT}App activity]]]', '[[[{DAT}Web browsing]]]', '[[[{DAT}App info and performance]]]', '[[[{DAT}Device or other IDs]]]') ('[[[{PRA}MyTracker data collection (default configuration)]]]', '[[[{DAT}Location]]]', '[[[{DAT}Personal info]]]', '[[[{DAT}Financial info]]]', '[[[{DAT}Health and fitness]]]', '[[[{DAT}Messages]]]', '[[[{DAT}Photos or videos]]]', '[[[{DAT}Audio files]]]', '[[[{DAT}Files and docs]]]', '[[[{DAT}Calendar]]]', '[[[{DAT}Contacts]]]', '[[[{DAT}App activity]]]', '[[[{DAT}Web browsing]]]', '[[[{DAT}App info and performance]]]', '[[[{DAT}Device or other IDs]]]') ('Comment', '[[[{DAT}Location]]]', '[[[{DAT}Personal info]]]', '[[[{DAT}Financial info]]]', '[[[{DAT}Health and fitness]]]', '[[[{DAT}Messages]]]', '[[[{DAT}Photos or videos]]]', '[[[{DAT}Audio files]]]', '[[[{DAT}Files and docs]]]', '[[[{DAT}Calendar]]]', '[[[{DAT}Contacts]]]', '[[[{DAT}App activity]]]', '[[[{DAT}Web browsing]]]', '[[[{DAT}App info and performance]]]', '[[[{DAT}Device or other IDs]]]').
+[[[{DAT}Approximate location]]] ? [[[{PRA}No  Collection of this data is disabled by default  in all SDK versions starting 3.0.9]]] [[[{PRA}App developers may configure  the transmission of this data  by enabling  TrackingLocationEnabled]]].
+[[[{DAT}Precise location]]] ? [[[{PRA}No  Collection of this data is disabled by default  in all SDK versions starting 3.0.9]]] [[[{PRA}App developers may configure  the transmission of this data  by enabling  TrackingLocationEnabled]]].
+[[[{DAT}Name]]] [[[{PRA}No]]] nan.
+[[[{DAT}Email address]]] [[[{PRA}No]]] nan.
+[[[{DAT}User IDs]]] ? [[[{PRA}No]]] [[[{PRA}App developers may configure the transmission of this data]]].
+[[[{DAT}Address]]] [[[{PRA}No]]] nan.
+[[[{DAT}Phone number]]] [[[{PRA}No]]] nan.
+[[[{DAT}Race and ethnicity]]] [[[{PRA}No]]] nan.
+[[[{DAT}Political or religious beliefs]]] [[[{PRA}No]]] nan.
+[[[{DAT}Sexual orientation]]] [[[{PRA}No]]] nan.
+[[[{DAT}Other info]]] [[[{PRA}No]]] nan.
+[[[{DAT}User payment info]]] [[[{PRA}No]]] nan.
+[[[{DAT}Purchase history]]] [[[{PRA}No]]] [[[{PRA}App developers may configure the transmission of this data]]].
+[[[{DAT}Credit score]]] [[[{PRA}No]]] nan.
+[[[{DAT}Other financial info]]] [[[{PRA}No]]] nan.
+[[[{DAT}Health info]]] [[[{PRA}No]]] nan.
+[[[{DAT}Fitness info]]] [[[{PRA}No]]] nan.
+[[[{DAT}Emails]]] [[[{PRA}No]]] nan.
+[[[{DAT}SMS or MMS]]] [[[{PRA}No]]] nan.
+[[[{DAT}Other in-app messages]]] [[[{PRA}No]]] nan.
+[[[{DAT}Photos]]] [[[{PRA}No]]] nan.
+[[[{DAT}Videos]]] [[[{PRA}No]]] nan.
+[[[{DAT}Voice or sound recordings]]] [[[{PRA}No]]] nan.
+[[[{DAT}Music files]]] [[[{PRA}No]]] nan.
+[[[{DAT}Other audio files]]] [[[{PRA}No]]] nan.
+[[[{DAT}Files and docs]]] [[[{PRA}No]]] nan.
+[[[{DAT}Calendar events]]] [[[{PRA}No]]] nan.
+[[[{DAT}Contacts]]] [[[{PRA}No]]] nan.
+[[[{DAT}App interactions]]] ? [[[{PRA}No]]] [[[{PRA}App developers may configure the transmission of this data  using custom events]]].
+[[[{DAT}In-app search history]]] [[[{PRA}No]]] [[[{PRA}App developers may configure the transmission of this data  using custom events]]].
+[[[{DAT}Installed apps]]] [[[{PRA}No]]] nan.
+[[[{DAT}Other user-generated content]]] ? [[[{PRA}No]]] [[[{PRA}App developers may configure the transmission of this data  using custom events]]].
+[[[{DAT}Other actions]]] ? [[[{PRA}No]]] [[[{PRA}App developers may configure the transmission of this data  using custom events]]].
+[[[{DAT}Web browsing history]]] [[[{PRA}No]]] nan.
+[[[{DAT}Crash logs]]] [[[{PRA}No]]] nan.
+[[[{DAT}Diagnostics]]] [[[{PRA}Yes]]] [[[{PRA}MyTracker can collect on battery levels]]] [[[{PUR}for fraud detection purposes]]].
+[[[{DAT}Other app performance data]]] [[[{PRA}Yes]]] [[[{PRA}MyTracker can collect additional data]]], [[[{DES}for example,  device info such as an OS version, screen type, and so on]]].
+[[[{DAT}Device or other IDs]]] ? [[[{PRA}Yes, if the app received the user’s permission]]] nan.
+[[[{PUR}Purpose]]], [[[{PUR}App functionality]]]. [[[{PUR}Data use]]], [[[{PUR}Optional. Select if you use data to enable app features,  or authenticate users]]].
+[[[{PUR}Purpose]]], [[[{PUR}Analytics]]]. [[[{PUR}Data use]]], [[[{PUR}Yes]]].
+[[[{PUR}Purpose]]], [[[{PUR}Developer communications]]]. [[[{PUR}Data use]]], [[[{PUR}Optional. Select if you use data for sending a push notification  to inform users about an important security update,  or informing users about new features of the app]]].
+[[[{PUR}Purpose]]], [[[{PUR}Advertising or marketing]]]. [[[{PUR}Data use]]], [[[{PUR}Optional. Select if you display ads in your app,  send push notifications to promote other products or services,  or share data with advertising partners]]].
+[[[{PUR}Purpose]]], [[[{PUR}Fraud prevention, security, and compliance]]]. [[[{PUR}Data use]]], [[[{PUR}Yes]]].
+[[[{PUR}Purpose]]], [[[{PUR}Personalization]]]. [[[{PUR}Data use]]], [[[{PUR}Optional. Select if you use data for product personalization,  such as suggesting playlists or news based on the user's habits]]].
+[[[{PUR}Purpose]]], [[[{PUR}Account management]]]. [[[{PUR}Data use]]], [[[{PUR}Optional. Select if you use data the setup or management  of a user’s account with the developer]]].

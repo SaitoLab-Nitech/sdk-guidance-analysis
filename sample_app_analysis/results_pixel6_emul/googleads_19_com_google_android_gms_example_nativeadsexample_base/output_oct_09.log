@@ -1,0 +1,23 @@
+project.emulator.get_num_leaks() = 1
+Sources
+[{'clss': 'Lcom/google/android/gms/internal/ads/zzbzm;',
+  'method': 'zzy(Landroid/content/Context;)Ljava/lang/String;',
+  'name': ['AndroidID'],
+  'num': 1557,
+  'source_class': 'Landroid/provider/Settings$Secure;',
+  'source_method': 'getString(Landroid/content/ContentResolver;Ljava/lang/String;)Ljava/lang/String;'},
+ {'clss': 'Lcom/google/android/gms/internal/ads/zzbzm;',
+  'method': 'zzy(Landroid/content/Context;)Ljava/lang/String;',
+  'name': ['AndroidID'],
+  'num': 1557,
+  'source_class': 'Landroid/provider/Settings$Secure;',
+  'source_method': 'getString(Landroid/content/ContentResolver;Ljava/lang/String;)Ljava/lang/String;'},
+ {'clss': 'Lcom/google/android/gms/internal/ads/zzduu;',
+  'method': 'zzb()Ljava/lang/Object;',
+  'name': ['UUID'],
+  'num': 40,
+  'source_class': 'Ljava/util/UUID;',
+  'source_method': 'toString()Ljava/lang/String;'},
+ {'clss': 'Lcom/google/android/gms/internal/ads/zzflx;', 'method': '<clinit>()V', 'name': ['UUID'], 'num': 34, 'source_class': 'Ljava/util/UUID;', 'source_method': 'toString()Ljava/lang/String;'}]
+Sinks
+[{"smali_tag": "6041_154", "clss": "Lcom/google/android/gms/internal/ads/zzalx;", "method": "zza(Lcom/google/android/gms/internal/ads/zzali;)Lcom/google/android/gms/internal/ads/zzale;", "num": 154, "sink_class": "Ljava/net/URL;", "sink_method": "<init>(Ljava/lang/String;)V", "sink_values": ["https"], "sources": ["UUID"], "returned_value": null}, {"smali_tag": "6041_154", "clss": "Lcom/google/android/gms/internal/ads/zzalx;", "method": "zza(Lcom/google/android/gms/internal/ads/zzali;)Lcom/google/android/gms/internal/ads/zzale;", "num": 154, "sink_class": "Ljava/net/URL;", "sink_method": "<init>(Ljava/lang/String;)V", "sink_values": ["https"], "sources": ["UUID"], "returned_value": null}]

@@ -1,0 +1,8 @@
+guidance_id = 19
+taint_sources = {'ID'}
+i = 0, taint_source = 'ID', data_types = {'Advertising ID', 'Device identifiers', 'Device and Account identifiers', 'other identifiers related to signed - in accounts', 'Android ID', 'Device and other IDs', 'Firebase installation ID', 'device - level ID', 'Device or other IDs', 'Firebase Android App ID', 'Custom device key - values', 'ad id', 'Crashlytics installation UUID', 'Device ID', 'Device and other identifiers', 'App-instance ID', 'Android advertising ( ad ) ID.', 'installation id', 'AAID', 'Device or other identifiers', 'Device IDs or other ID', 'Custom device key', 'User-ID'}
+    practices = [{'PRA': 'Snowplow Android TrackerFeature,. ✅', 'CON': 'Advertising identifier ( AAID, also called IDFA ). ( optional but it requires TrackerConfiguration platformContext which is enabled by default, a dependency with com. google. android. gms : play - services - ads and a tag on androidManifest. xml ).'}]
+    sa_result = [{'label': 'POSITIVE', 'score': 0.9899791479110718}]
+    used_text = 'Google.'
+    final_result = 'Consistent'
+[NER_EVAL] detection_result = 'Consistent', ans = 'Consistent', True

@@ -1,0 +1,16 @@
+project.emulator.get_num_leaks() = 0
+Sources
+[{'clss': 'Lcom/onesignal/LocationController;',
+  'method': 'fireCompleteForLocation(Landroid/location/Location;)V',
+  'name': ['Location'],
+  'num': 530,
+  'source_class': 'Landroid/location/Location;',
+  'source_method': 'getLatitude()D'},
+ {'clss': 'Lcom/onesignal/LocationController;',
+  'method': 'fireCompleteForLocation(Landroid/location/Location;)V',
+  'name': ['Location'],
+  'num': 541,
+  'source_class': 'Landroid/location/Location;',
+  'source_method': 'getLongitude()D'}]
+Sinks
+[]

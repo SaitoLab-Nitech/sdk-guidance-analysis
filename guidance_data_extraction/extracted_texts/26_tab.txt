@@ -1,0 +1,14 @@
+Contact Info ✘.
+Health and Fitness ✘.
+Financial Information ✘.
+Location *1.
+Sensitive info ✘.
+Contacts ✘.
+User content ✘.
+Browsing History ✘.
+Identifiers *2.
+Search history ✘.
+Purchases ✘.
+Usage data ✓.
+Diagnostics ✘.
+Other data ✘.

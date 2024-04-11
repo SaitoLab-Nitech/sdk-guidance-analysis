@@ -1,0 +1,4 @@
+[[[{DAT}Data]]], [[[{DAT}IP address]]]. [[[{CON}By default, the Interactive Media Ads SDK]]]..., [[[{CON}Collects device's IP address, which may be used to estimate the general  location of a device]]].
+[[[{DAT}Data]]], [[[{DAT}User product interactions]]]. [[[{CON}By default, the Interactive Media Ads SDK]]]..., [[[{CON}Collects user product interactions and interaction information, including  app launch, taps, and video views]]].
+[[[{DAT}Data]]], [[[{DAT}Diagnostic information]]]. [[[{CON}By default, the Interactive Media Ads SDK]]]..., [[[{CON}Collects information related to the performance of your app and the SDK,  including  app launch time, hang rate, and energy usage]]].
+[[[{DAT}Data]]], [[[{DAT}Device and Account identifiers]]]. [[[{CON}By default, the Interactive Media Ads SDK]]]..., [[[{CON}Collects Android  advertising (ad) ID, app set ID,  and, if applicable, other identifiers related to signed-in accounts on the  device]]].

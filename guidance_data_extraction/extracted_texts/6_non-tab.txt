@@ -1,0 +1,38 @@
+Jump to Content
+Home   Payment Page   API Reference   Discussions
+Home       Payment Page       API Reference       Changelog       Discussions
+Home   Payment Page   API Reference   Discussions
+Payment Page
+Home       Payment Page       API Reference       Changelog       Discussions
+Hyper SDK
+Understanding the Flow
+Minimum Requirements
+Getting the SDK
+Adding Plugin
+Adding SDK dependency
+SDK Interface API
+Initiate Payload
+Process Payload
+Code Snippets
+Error Codes
+Transaction Status Codes
+Integration Checklist
+Multi-activity Integration
+Track payment status
+SDK - Release Notes
+Hyper SDK 1.0 (Legacy)
+Payment Page
+Start typing to search…
+Hyper SDK
+Introduction,  Understanding the Flow,  Minimum Requirements,  Getting the SDK Adding Plugin Adding SDK dependency,  SDK Interface API Prefetch Initiate Process Terminate,  Payload Initiate Payload Process Payload,  Miscellaneous Code Snippets Error Codes Transaction Status Codes Integration Checklist Multi-activity Integration FAQs Track payment status,  SDK - Release Notes.
+Hyper SDK 1.0 (Legacy)
+Google Playstore Data Safety
+Suggest Edits
+Data Types
+The following table will help you with privacy declaration for data types: [[[{ENC}Does SDK encrypt data in transit?]]]
+[[[{ENC}All analytics data is encrypted before transmission]]].
+Does SDK transfer data to other third parties, including other apps on the user’s device?
+HyperSDK does not share any data to any third party including other apps on the user’s device.
+8 months ago
+Did this page help you?
+Table of Contents,  Data Types Does SDK encrypt data in transit? Does SDK transfer data to other third parties, including other apps on the user’s device?.

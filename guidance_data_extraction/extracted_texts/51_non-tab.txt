@@ -1,0 +1,67 @@
+877.221.7979 ext. 1
+Back to website   Submit a ticket   My Tickets
+Login       Sign up
+How can we help you today?
+Enter your search term here...
+Solution home
+Futuri Mobile
+Getting Started with Mobile
+Enter your search term here...
+Completing Mobile App Content Surveys on Google Play
+Jasmine Stupica
+Modified on: Wed, May 3, 2023 at 2:17 PM
+When publishing a new Android mobile app Google presents a number of surveys regarding the app's content to make sure it aligns with their policies. They will periodically publish new surveys for existing apps, as well.
+As your app developer, Futuri will automatically handle the completion of many of these tasks for you. However, you know your content best so there are some questionnaires that will require your input.
+Simply follow the steps to complete the necessary app content surveys: An account admin should log into the  Google Play Console  .
+Select the desired app from the list.
+Then, navigate to the  App Content  section under  Policy  in the menu on the left-hand side.
+Refer to the directions below to complete any necessary surveys.
+Privacy Policy,  App Access,  Ads,  Content Rating,  Target Audience and Content,  News Apps,  COVID-19 contact tracing and status apps,  Data Safety,  Advertising ID.
+Privacy Policy
+Click the  Start  button to begin the survey.
+Enter the URL for your station's privacy policy and click  Save  to complete the survey.
+App Access
+Click the  Start  button to begin the survey.
+Select "All functionality is available without special access" and click  Save  to complete the survey.
+Click the  Start  button to begin the survey.
+You can review  Google's ad policy  by clicking the link provided. If your app contains ads, select  Yes  . Otherwise, select  No  .
+Click  Save  to complete the survey.
+Content Rating
+Click the  Start  button to begin the survey.
+Click  Learn More  to read about  Google's content rating policy  . Then, click  Start questionnaire  .
+Enter your email address. Then, select the appropriate category from the list. Most radio station apps would qualify as  All Other App Types  .
+Answer each of the questions in the next section related to the type of content in your app. Make sure to consider all content, such as song titles that might include crude language or references to alcohol. Also, Google may consider any in-app contests as gambling.
+Click  Save  and then  Next  . Google will display your content ratings by region based on your answers. If you are satisfied with the ratings, click  Submit  to complete the survey. Otherwise, you may go back to edit your answers.
+Target Audience and Content
+Click the  Start  button to begin the survey.
+Indicate the age ranges that your app/station targets. Based on the Content Ratings you selected, Google will indicate any date ranges for which your app is uneligible. Then, click  Next  to proceed.
+Google will indicate whether or not you are eligible for their "Designed for Families" program. Click  Next  to proceed.
+This page will review your app's target age. Click  Save  to complete the survey.
+News Apps
+Click the  Start  button to begin the survey.
+If there is no news content is displayed in your app, select  No  and click  Save  . You have finished the survey.
+Otherwise, if there is news content in your app, select  Yes  .
+In the box provided, input information about your station's status as a news publisher or information about the source of news shown in the app, and then click  Save  to complete the survey.
+For tips on what to provide, you can read more about  Google Play's News policy  by clicking the link shown or review these tips that Google provides: COVID-19 contact tracing and status apps
+Click the  Start  button to begin the survey.
+Select whether or not your app is a COVID-19 contact tracing or status app.
+NOTE: If either one or both of the first two options is selected, you will be required to submit proof that your app meets Google's requirements.
+Data Safety
+NOTE: If your app contains embedded web pages, as you proceed through the survey questions, you may need to disclose additional data collected by your website.
+Click the  Start  button to begin the survey. Then, click  Next  to proceed.
+In the  Data Collection and Security  section, fill in the required answers as indicated below. Then, click  Next  to proceed.
+In the  Data types  section, expand each type and choose the following selections as indicated below. If a data type is not listed here, nothing needs to be selected unless your organization collects that data. Then, click  Next  to proceed.
+You will now be asked to enter additional information for each data type selected. Click  Start  by each item.
+Click  Next  to continue.
+You will see a preview of your entries.
+You must have entered a link to your Privacy policy already in order to save. If you have not done so, you will see this message. Make sure to save the Data safety survey as a draft before going to the Privacy policy page to enter your URL. Once entered, return to the this survey to complete it.
+Click  Save  to complete the survey.
+Advertising ID
+Click the  Start  button to begin the survey.
+If your app displays ads from AdsWizz or Google Ad Manager, you will answer  Yes  to the question presented. Otherwise, answer  No  .
+If you answered yes, a new question will be presented. Check the box by  Advertising or marketing  .
+Click  Save  to complete the survey.
+Related Articles
+Getting Started with Futuri Mobile Apps,  Requesting Apple CarPlay Entitlement,  Accepting Android Auto Terms & Conditions,  Completing Apple's App Privacy Survey,  Futuri Mobile Art Assets,  Mobile - Authorizing Social Media Accounts,  Futuri Mobile Audio Sources,  Customizing the Hamburger Menu in Your Futuri Mobile App,  Customizing the Activity Feed on Your Mobile App,  Open Mic,  Futuri Mobile Alarm Clock,  Futuri Mobile Weather,  Flash Contesting,  Futuri Mobile News Page,  Traffic Page,  Futuri Mobile On Demand / Podcast Page,  Futuri Mobile Monetization & Contesting Opportunities,  Futuri Mobile Banner Ads,  Promoting Your Futuri Mobile App,  App Ratings Manager,  Customizing Your Home Menu Tiles.
+Futuri Media
+© 2019 Futuri Media

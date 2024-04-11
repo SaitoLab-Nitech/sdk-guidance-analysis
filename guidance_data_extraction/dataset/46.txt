@@ -1,0 +1,85 @@
+Developer Products Developer Products Artificial Intelligence AR/VR Business Tools Facebook Login Gaming Open Source Social Integrations Social Presence View all products,  Docs Docs Facebook Login Graph API Instagram API Meta Pixel Social Plugins WhatsApp Business Platform View more docs,  Blog,  More More Success Stories Videos Developer Support Tools Developer Policies Meta Platform Terms,  Log In.
+Back to News for Developers
+Artificial Intelligence
+PyTorch   Caffe2   ONNX
+Augmented Reality
+Spark AR Studio
+Business Tools
+Account Kit   Ads   App Events   App Links   Instant Experiences API (Canvas API)   Facebook Analytics   Facebook Business Extension   Facebook Business SDK   Facebook Official Events API   Facebook Pixel   Graph API   Insights for Pages   Instagram   Marketing API   Messenger   Messenger API for Instagram   Pages API   Places Graph   Workplace
+Developer Policy
+Privacy   Policy   Security   iOS 14 Advertising
+Developer Tools
+Gameroom   Games SDK   Instant Games   Live Game Streaming   Web Games
+Open Source
+Open Source Guides
+Facebook   WhatsApp   Messenger   Instagram   Workplace
+Startups   ThreatExchange   Oculus Start
+Audience Network   Facebook LIVE API   Instagram   Instant Articles   Media Solutions
+Social Integrations
+Facebook Login   Group Plugin   Instagram   Sharing on Facebook   Sharing to Reels   Sharing to Stories   Social Plugins
+Virtual Reality
+3D Posts   Facebook 360   Oculus   Quill   React 360   Social VR
+Meta Connect
+Tech by Her
+All Developer Events
+Resources for Completing App Store Data Practice Questionnaires for Apps That Include the Facebook or Audience Network SDK
+July 18, 2022
+Subscribe to Developer news
+Updated July 18: Developers and advertising partners may be required to share information on their app’s privacy practices in third party app stores, such as Google Play and the Apple App Store, including the functionality of SDKs provided by Meta. To help make it easier for you to complete these requirements, we have consolidated information that explains our data collection practices for the Facebook and Audience Network SDKs.
+Facebook SDK
+To provide functionality within the Facebook SDK, we may receive and process certain contact, location, identifier, and device information associated with Facebook users and their use of your application. The information we receive depends on what SDK features 3rd party applications use and we have structured the document below according to these features.
+App Ads, Facebook Analytics, & App Events
+Facebook App Events  allow you to measure the performance of your app using  Facebook Analytics  ,  measure conversions  associated with Facebook ads, and  build audiences  to acquire new users as well as re-engage existing users. There are a number of different ways your app can use app events to keep track of when people take specific actions such as installing your app or completing a purchase.
+With  Facebook SDK  , there are app events that are automatically logged }app installs, app launches, and in-app purchases) and collected for Facebook Analytics unless you disable automatic event logging. Developers determine what events to send to Facebook from a  list of standard events  , or via a custom event.
+When developers send Facebook custom events, these events could include data types outside of standard events. Developers control sending these events to Facebook either directly via application code or in Events Manager for codeless app events. Developers can review their code and Events Manager to determine which data types they are sending to Facebook. It’s the developer’s responsibility to ensure this is reflected in their application’s privacy policy.
+Advanced Matching
+Developers may also send us additional user contact information in code, or via the  Events Manager  .  Advanced matching  functionality may use the following data, if sent:
+email address, name, phone number, physical address (city, state or province, zip or postal code and country), gender, and date of birth.
+Facebook Login
+There are two scenarios for applications that use  Facebook Login  via the Facebook SDK: Authenticated Sign Up or Sign In, and  User Data Access via Permissions  . For authentication, a unique, app-specific identifier tied to a user’s Facebook Account enables the user to sign in to your app. For Data Access, a user must explicitly grant your app permission to access data.
+Note: Since Facebook Login is part of the Facebook SDK, we may collect other information referenced here when you use Facebook Login, depending on your settings.
+Device Information
+We may also receive and process the following information if your app is integrated with the Facebook SDK:
+Device identifiers;,  Device attributes, such as device model and screen dimensions, CPU core, storage size, SDK version, OS and app versions, and app package name; and,  Networking information, such as the name of the mobile operator or ISP, language, time zone, and IP address.
+Audience Network SDK
+We may receive and process the following information when you use the Audience Network SDK to integrate Audience Network ads in your app:
+Device identifiers;,  Device attributes, such as device model and screen dimensions, operating system, mediation platform and SDK versions; and,  Ad performance information, such as impressions, clicks, placement, and viewability.
+Platforms   2022   Facebook
+Artificial Intelligence
+PyTorch   Caffe2   ONNX
+Augmented Reality
+Spark AR Studio
+Business Tools
+Account Kit   Ads   App Events   App Links   Instant Experiences API (Canvas API)   Facebook Analytics   Facebook Business Extension   Facebook Business SDK   Facebook Official Events API   Facebook Pixel   Graph API   Insights for Pages   Instagram   Marketing API   Messenger   Messenger API for Instagram   Pages API   Places Graph   Workplace
+Developer Policy
+Privacy   Policy   Security   iOS 14 Advertising
+Developer Tools
+Gameroom   Games SDK   Instant Games   Live Game Streaming   Web Games
+Open Source
+Open Source Guides
+Facebook   WhatsApp   Messenger   Instagram   Workplace
+Startups   ThreatExchange   Oculus Start
+Audience Network   Facebook LIVE API   Instagram   Instant Articles   Media Solutions
+Social Integrations
+Facebook Login   Group Plugin   Instagram   Sharing on Facebook   Sharing to Reels   Sharing to Stories   Social Plugins
+Virtual Reality
+3D Posts   Facebook 360   Oculus   Quill   React 360   Social VR
+Meta Connect
+Tech by Her
+All Developer Events
+RELATED NEWS
+Introducing Reels metrics to the video insights API
+Business Tools   Developer Tools   Platforms   2022   Graph API   Facebook
+December 15, 2022
+Updates to Section 7 of the Developer Policies - Facebook Gaming Policies
+Developer Policy   Gaming   Platforms   2022   Policy   Facebook
+December 8, 2022
+Upcoming Restriction Period for US ads about social issues, elections, or politics
+Business Tools   Developer Policy   Platforms   2022   Instagram   Policy   Facebook
+September 28, 2022
+More News
+Artificial Intelligence,  AR/VR,  Business Tools,  Gaming,  Open Source,  Publishing,  Social Integrations,  Social Presence.
+Developer Support,  Bugs,  Platform Status,  Report a Platform Data Incident,  Facebook for Developers Community Group,  Sitemap.
+Blog,  Success Stories,  Videos,  Meta for Developers Page.
+Platform Initiatives Hub,  Platform Terms,  Developer Policies,  European Commission Commitments.
+About,  Create Ad,  Careers,  Privacy Policy,  Cookies,  Terms.

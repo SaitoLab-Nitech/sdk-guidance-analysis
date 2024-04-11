@@ -1,0 +1,8 @@
+guidance_id = 5
+taint_sources = {'ID'}
+i = 0, taint_source = 'ID', data_types = {'Advertising ID', 'Device identifiers', 'Device and Account identifiers', 'other identifiers related to signed - in accounts', 'Android ID', 'Device and other IDs', 'Firebase installation ID', 'device - level ID', 'Device or other IDs', 'Firebase Android App ID', 'Custom device key - values', 'ad id', 'Crashlytics installation UUID', 'Device ID', 'Device and other identifiers', 'App-instance ID', 'Android advertising ( ad ) ID.', 'installation id', 'AAID', 'Device or other identifiers', 'Device IDs or other ID', 'Custom device key', 'User-ID'}
+    practices = [{'PRA': "Does DT ' s SDK collect Device and other IDs?.. Collected,. Yes.. Shared,. Yes.. Required,. No.", 'CON': 'Notes,. DT collects AAID when made available by the user, per their device settings. This is collected for. like counting Daily Active Users, Frequency Capping, Server Side Rewarding, etc.'}]
+    sa_result = [{'label': 'POSITIVE', 'score': 0.9983318448066711}]
+    used_text = 'Like counting daily active users, frequency capping, server side rewarding, etc.'
+    final_result = 'Consistent'
+[NER_EVAL] detection_result = 'Consistent', ans = 'Consistent', True

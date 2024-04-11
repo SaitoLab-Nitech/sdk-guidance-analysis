@@ -1,0 +1,93 @@
+Jump to Content
+Home   Announcements   Support Forum   Android SDK   iOS SDK
+SDK Documentation       Recipes       Announcements       Support Forum
+Taboola Backstage API
+Taboola Mobile SDK
+Taboola Recommendations API
+Taboola Web Integrations
+Home   Announcements   Support Forum   Android SDK   iOS SDK
+SDK Documentation
+Taboola Mobile SDK
+SDK Documentation
+Google Play&#x27;s data disclosure requirements
+Mobile SDK 3.x
+What's new in SDK 3?
+Migrating from SDK 2 to SDK 3
+Sample Code
+Android Changelog
+iOS Changelog
+Google Play's data disclosure requirements
+Android - Classic
+First Steps
+Basic Integration
+Event Handling
+Advanced Options
+GDPR & CCPA
+App Verification
+Android - Web
+First Steps
+Basic Integration
+Event Handling
+Advanced Options
+GDPR and CCPA
+App Verification
+iOS - Classic
+First Steps
+Basic Integration
+Event Handling
+Advanced Options
+GDPR & CCPA
+App Verification
+iOS - Web
+First Steps
+Basic Integration
+Event Handling
+Advanced Options
+GDPR and CCPA
+App Verification
+React Native Plugin 3.x (Beta)
+GDPR and CCPA
+Flutter Plugin (Beta)
+React Native Plugin 2.x
+SDK Documentation
+Support Forum
+Start typing to search…
+Mobile SDK 3.x
+Welcome,  What's new in SDK 3?  Migrating from SDK 2 to SDK 3,  Sample Code,  Android Changelog,  iOS Changelog,  app-ads.txt,  License,  Google Play's data disclosure requirements.
+Android - Classic
+First Steps,  Basic Integration,  Event Handling,  Advanced Options,  GDPR & CCPA,  App Verification,  Params,  Troubleshooting.
+Android - Web
+First Steps,  Basic Integration,  Event Handling,  Advanced Options,  GDPR and CCPA,  App Verification.
+iOS - Classic
+First Steps,  Basic Integration,  Event Handling,  Advanced Options,  Setters,  GDPR & CCPA,  App Verification.
+iOS - Web
+First Steps,  Basic Integration,  Event Handling,  Advanced Options,  GDPR and CCPA,  App Verification.
+React Native Plugin 3.x (Beta) Troubleshooting GDPR and CCPA Changelog,  Flutter Plugin (Beta),  React Native Plugin 2.x.
+Google Play's data disclosure requirements
+Suggest Edits
+How to use information on this page
+This page lists the end-user data collected by only the  latest versions  of the Taboola Android SDK (Android SDK and React-Native)
+If you are using a prior version of the Taboola SDK, consider updating to the latest version to ensure your app's disclosures are accurate. The Taboola SDK will continue to be updated over time. This article will reflect these changes, so make sure to check back and update your disclosures as necessary.
+To complete your data disclosure, you can use Android's  guide  about data types to help you determine which data types and purposes best describe the collected data. In your data disclosure, make sure to also account for how your specific app shares and uses the collected data.
+Purpose of Data Collection
+[[[{SDK}The Taboola Android SDK]]] [[[{PRA}collects and shares]]] [[[{DAT}the following data types]]] [[[{CON}automatically]]] [[[{PUR}for advertising personalization, advertising performance, fraud detection, analytics, and diagnostics]]].
+Data Collected Automatically
+Overview of data encryption, data sharing, and data deletion for Taboola SDK
+Data Handling and more information
+Taboola Privacy Policy  - you can more about Taboola privacy policy  here
+[[[{DAT}Estimated location]]]  - [[[{CON}Taboola Android SDK collects the user's location if there is app permission to do so. To avoid collecting accurate location per privacy guidelines, the LNG and LAT data is truncated at the SDK side to up to 2 decimal points]]]
+[[[{DAT}Diagnostic information]]]  - [[[{DES}Taboola Android SDK is sending anonymous and sampled crash logs related to the SDK]]]
+[[[{DAT}IP address]]]  - [[[{PUR}Taboola is using this information for contextual targeting, and frequency capping. The IP addresses is masked when stored in the backend]]]
+10 months ago
+First Steps
+Did this page help you?
+Table of Contents,  How to use information on this page Purpose of Data Collection Data Collected Automatically Overview of data encryption, data sharing, and data deletion for Taboola SDK Data Handling and more information.
+Manage Cookies
+Strictly Necessary Cookies   Always on
+These cookies are necessary and essential to keep our website working as it should.
+Functional Cookies
+These cookies allow the Sites to remember choices that you or your device have indicated (such as your user name, language, or region) and to provide enhanced, personalized features that improve your web experience.
+Performance Cookies
+These cookies collect information about how visitors use the Sites, such as which pages they visit most often and whether they encountered any error messages. This data is then aggregated and therefore used in anonymous form. These types of cookies are only used to improve the Sites’ performance.
+Targeting Cookies
+These cookies are used to deliver advertisements that are particularly relevant to you, based on your interests. They are also used to limit the number of times that you see an advertisement and to measure the effectiveness of an advertising campaign.

@@ -1,0 +1,20 @@
+guidance_id = 23
+taint_sources = {'ID'}
+i = 0, taint_source = 'ID', data_types = {'Advertising ID', 'Device identifiers', 'Device and Account identifiers', 'other identifiers related to signed - in accounts', 'Android ID', 'Device and other IDs', 'Firebase installation ID', 'device - level ID', 'Device or other IDs', 'Firebase Android App ID', 'Custom device key - values', 'ad id', 'Crashlytics installation UUID', 'Device ID', 'Device and other identifiers', 'App-instance ID', 'Android advertising ( ad ) ID.', 'installation id', 'AAID', 'Device or other identifiers', 'Device IDs or other ID', 'Custom device key', 'User-ID'}
+    practices = [{'PRA': '', 'CON': "By default, the Firebase Authentication SDK...,. Collects the Firebase Android App ID of the app ( this is not the app ' s package name ).. This value is included in the header of each request"}, {'PRA': '', 'CON': "By default, the Firebase Cloud Messaging SDK...,. Collects the Firebase Android App ID of the app ( this is not the app ' s package name ).. This value is included in the header of each request"}, {'PRA': '', 'CON': 'By default, the Firebase Crashlytics SDK...,. Generates and stores the Crashlytics installation UUID to measure the number of users impacted by a crash.'}, {'PRA': '', 'CON': 'By default, the Firebase installations SDK...,. Generates and collects a per - installation identifier ( FID ) that does not uniquely identify a user or physical device.'}, {'PRA': '', 'CON': "By default, the Firebase Remote Config SDK...,. Collects the Firebase Android App ID of the app ( this is not the app ' s package name ) in order to target parameters that are based on this data."}]
+    sa_result = [{'label': 'POSITIVE', 'score': 0.9921477437019348}]
+    used_text = 'This value is included in the header of each request.'
+    final_result = 'Consistent'
+    sa_result = [{'label': 'POSITIVE', 'score': 0.9921477437019348}]
+    used_text = 'This value is included in the header of each request.'
+    final_result = 'Consistent'
+    sa_result = [{'label': 'POSITIVE', 'score': 0.997394323348999}]
+    used_text = 'Generates and stores the crashlytics installation uuid to measure the number of users impacted by a crash.'
+    final_result = 'Consistent'
+    sa_result = None
+    used_text = None
+    final_result = 'Consistent'
+    sa_result = [{'label': 'POSITIVE', 'score': 0.9954116940498352}]
+    used_text = "Collects the firebase android app id of the app ( this is not the app ' s package name ) in order to target parameters that are based on this data."
+    final_result = 'Consistent'
+[NER_EVAL] detection_result = 'Consistent', ans = 'Consistent', True

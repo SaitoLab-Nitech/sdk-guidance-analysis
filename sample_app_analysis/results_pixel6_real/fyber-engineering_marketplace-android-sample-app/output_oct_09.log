@@ -1,0 +1,15 @@
+project.emulator.get_num_leaks() = 0
+Sources
+[{'clss': 'Lcom/fyber/inneractive/sdk/d/i;', 'method': '<init>()V', 'name': ['UUID'], 'num': 77, 'source_class': 'Ljava/util/UUID;', 'source_method': 'toString()Ljava/lang/String;'},
+ {'clss': 'Lcom/fyber/inneractive/sdk/d/i;', 'method': '<init>()V', 'name': ['UUID'], 'num': 77, 'source_class': 'Ljava/util/UUID;', 'source_method': 'toString()Ljava/lang/String;'},
+ {'clss': 'Lcom/fyber/inneractive/sdk/d/i;', 'method': '<init>()V', 'name': ['UUID'], 'num': 77, 'source_class': 'Ljava/util/UUID;', 'source_method': 'toString()Ljava/lang/String;'},
+ {'clss': 'Lcom/fyber/inneractive/sdk/d/i;', 'method': '<init>()V', 'name': ['UUID'], 'num': 77, 'source_class': 'Ljava/util/UUID;', 'source_method': 'toString()Ljava/lang/String;'},
+ {'clss': 'Lcom/fyber/inneractive/sdk/external/InneractiveAdSpotManager;',
+  'method': 'destroy()V',
+  'name': ['UUID'],
+  'num': 80,
+  'source_class': 'Ljava/util/Iterator;',
+  'source_method': 'next()Ljava/lang/Object;'},
+ {'clss': 'Lcom/fyber/inneractive/sdk/d/i;', 'method': '<init>()V', 'name': ['UUID'], 'num': 77, 'source_class': 'Ljava/util/UUID;', 'source_method': 'toString()Ljava/lang/String;'}]
+Sinks
+[]

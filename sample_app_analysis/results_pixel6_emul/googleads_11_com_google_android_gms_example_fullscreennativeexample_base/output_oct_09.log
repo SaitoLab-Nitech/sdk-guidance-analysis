@@ -1,0 +1,23 @@
+project.emulator.get_num_leaks() = 0
+Sources
+[{'clss': 'Lcom/google/android/gms/internal/ads/zzbzm;',
+  'method': 'zzy(Landroid/content/Context;)Ljava/lang/String;',
+  'name': ['AndroidID'],
+  'num': 1557,
+  'source_class': 'Landroid/provider/Settings$Secure;',
+  'source_method': 'getString(Landroid/content/ContentResolver;Ljava/lang/String;)Ljava/lang/String;'},
+ {'clss': 'Lcom/google/android/gms/internal/ads/zzbzm;',
+  'method': 'zzy(Landroid/content/Context;)Ljava/lang/String;',
+  'name': ['AndroidID'],
+  'num': 1557,
+  'source_class': 'Landroid/provider/Settings$Secure;',
+  'source_method': 'getString(Landroid/content/ContentResolver;Ljava/lang/String;)Ljava/lang/String;'},
+ {'clss': 'Lcom/google/android/gms/internal/ads/zzduu;',
+  'method': 'zzb()Ljava/lang/Object;',
+  'name': ['UUID'],
+  'num': 40,
+  'source_class': 'Ljava/util/UUID;',
+  'source_method': 'toString()Ljava/lang/String;'},
+ {'clss': 'Lcom/google/android/gms/internal/ads/zzflx;', 'method': '<clinit>()V', 'name': ['UUID'], 'num': 34, 'source_class': 'Ljava/util/UUID;', 'source_method': 'toString()Ljava/lang/String;'}]
+Sinks
+[]

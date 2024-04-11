@@ -1,0 +1,16 @@
+userId String,optional The database ID for this user.
+traits Traits,optional A map of traits about the user, such as their name, email, address, etc.
+options Options, optional Extra options for the call.
+name String,required A name for the tracked action.
+properties Properties,optional A map of properties for this action, e.g. revenue if the action was a purchase.
+options Options,optional Extra options for the call.
+category String,optional* A category for the screen. Optional if name is provided.
+name String,optional* A name for the screen. Optional if category is provided.
+properties Properties,optional A map of properties for this screen.
+options Options,optional Extra options for the call.
+userId String,required The database ID for this user.
+groupdId String,required The database ID for this group.
+traits Traits,optional A map of traits about the group, such as the number of employees, industry, etc.
+options Options,optional Extra options for the call.
+newId String,required The new ID to track this user with.
+options Options,optional Extra options for the call.

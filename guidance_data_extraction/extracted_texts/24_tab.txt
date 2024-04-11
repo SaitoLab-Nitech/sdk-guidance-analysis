@@ -1,0 +1,22 @@
+[[[{DAT}Data types]]], [[[{DAT}Location]]]  [[[{DAT}Approximate location]]].  [[[{DAT}Precise location]]].. [[[{PRA}Data collected by Adjust SDK?]]], [[[{PRA}No]]].
+[[[{DAT}Data types]]], [[[{DAT}Personal information]]]  [[[{DAT}Name]]].  [[[{DAT}Email address]]].  [[[{DAT}User IDs]]].  [[[{DAT}Address]]].  [[[{DAT}Phone number]]].  [[[{DAT}Race and ethnicity]]].  [[[{DAT}Political or religious beliefs]]].  [[[{DAT}Sexual orientation]]].  [[[{DAT}Other info]]].. [[[{PRA}Data collected by Adjust SDK?]]], [[[{PRA}No]]].
+[[[{DAT}Data types]]], [[[{DAT}Financial information]]]  [[[{DAT}User payment info]]].  [[[{DAT}Purchase history]]].  [[[{DAT}Credit score]]].  [[[{DAT}Other financial info]]].. [[[{PRA}Data collected by Adjust SDK?]]], [[[{PRA}No]]].  [[[{CON}Optional: Adjust can read the details for in-app purchase verification receipt validation, only if you choose to integrate purchase verification SDK and send data to Adjust via custom parameters]]].  Learn more  ..  [[[{PRA}No]]].  [[[{PRA}No]]].
+[[[{DAT}Data types]]], [[[{DAT}Health and Fitness]]]  [[[{DAT}Health info]]].  [[[{DAT}Fitness info]]].. [[[{PRA}Data collected by Adjust SDK?]]], [[[{PRA}No]]].
+[[[{DAT}Data types]]], [[[{DAT}Messages]]]  [[[{DAT}Emails]]].  [[[{DAT}SMS or MMS]]].  [[[{DAT}Other in-app messages]]].. [[[{PRA}Data collected by Adjust SDK?]]], [[[{PRA}No]]].
+[[[{DAT}Data types]]], [[[{DAT}Photos or Videos]]]  [[[{DAT}Photos]]].  [[[{DAT}Videos]]].. [[[{PRA}Data collected by Adjust SDK?]]], [[[{PRA}No]]].
+[[[{DAT}Data types]]], [[[{DAT}Audio Files]]]  [[[{DAT}Voice or sound recordings]]].  [[[{DAT}Music files]]].  [[[{DAT}Other audio files]]].. [[[{PRA}Data collected by Adjust SDK?]]], [[[{PRA}No]]].
+[[[{DAT}Data types]]], [[[{DAT}Files and Docs]]]. [[[{PRA}Data collected by Adjust SDK?]]], [[[{PRA}No]]].
+[[[{DAT}Data types]]], [[[{DAT}Calendar]]]. [[[{PRA}Data collected by Adjust SDK?]]], [[[{PRA}No]]].
+[[[{DAT}Data types]]], [[[{DAT}Contacts]]]. [[[{PRA}Data collected by Adjust SDK?]]], [[[{PRA}No]]].
+[[[{DAT}Data types]]], [[[{DAT}App activity]]]. [[[{PRA}Data collected by Adjust SDK?]]], [[[{PRA}Yes]]], [[[{CON}Adjust collects this data on your behalf (Adjust collects sessions/app launches by default. Other types of “Usage Data” is optional and Adjust can collect them on your behalf if you configure it)]]].  Learn more  .
+[[[{DAT}Data types]]], [[[{DAT}Web browsing]]]. [[[{PRA}Data collected by Adjust SDK?]]], [[[{PRA}No]]].
+[[[{DAT}Data types]]], [[[{DAT}App info and performance]]]  [[[{DAT}Crash logs]]].  [[[{DAT}Diagnostics]]].  [[[{DAT}Other app performance data]]].. [[[{PRA}Data collected by Adjust SDK?]]], [[[{PRA}No]]].
+[[[{DAT}Data types]]], [[[{DAT}Device or other identifiers]]]. [[[{PRA}Data collected by Adjust SDK?]]], [[[{PRA}Yes]]], [[[{CON}Adjust collects the Device ID data on your behalf]]] [[[{DES}(e.g. device metadata such as operating system version, Adjust SDK version, etc.)]]].  Learn more  .
+Unnamed: 0 [[[{PUR}Data used by Adjust?]]].
+[[[{PUR}App functionality]]] [[[{PUR}Yes]]].
+[[[{PUR}Analytics]]] [[[{PUR}Yes]]].
+[[[{PUR}Developer communications]]] [[[{PUR}Optional: Adjust can share the data with you, if you configure the integration]]].
+[[[{PUR}Advertising or marketing]]] [[[{PUR}Optional: Adjust can share the data with you or other entities who display first-party ads in your app if you configure the integration]]].
+[[[{PUR}Fraud prevention, security, and compliance]]] [[[{PUR}Yes]]].
+[[[{PUR}Personalization]]] [[[{PUR}Optional: Adjust can share the data with you, which you can use for product personalization, if you choose to export the relevant data]]].
+[[[{PUR}Account management]]] [[[{PUR}No]]].

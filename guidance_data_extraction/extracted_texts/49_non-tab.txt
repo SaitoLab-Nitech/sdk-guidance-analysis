@@ -1,0 +1,11 @@
+Skip to main content
+Android Access Guide   iOS Access Guide   API Document
+中文,  English.
+Languages 中文 English,  Android Access Guide,  iOS Access Guide,  API Document.
+Download Android SDK,  Quick Start Import and configure RewardVideo Interstitial Native Banner Splash In-stream Video Ad,  Privacy PoLicy Privacy Regulations,  Test Your Integration Test Mode,  Change Log.
+Google Data Security Guide
+According to  Google’s data safety requirement  , app developers need to define which data is collected by their apps and SDKs integrated in their apps.
+The following table specifies the data that is collected by the TradPlus SDK, and can be used to correctly and accurately answer Google’s data safety questionnaire.
+Note:  1.This information is to be used solely for the purpose of answering Google’s data safety questionnaire, and is not intended to replace the TradPlus privacy policy. Developers are requested to read the  TradPlus privacy policy  before integrating the TradPlus SDK 2.Only data automatically collected by TradPlus is described below. This does not include data collected indirectly by the SDK, collected by any third party networks or by analytics SDKs
+Data collection and security：
+Data Types：

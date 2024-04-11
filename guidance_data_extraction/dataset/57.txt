@@ -1,0 +1,58 @@
+Data type, Personal information. Data collection, Personal information. Remarks, Personal information.
+Data type, Name. Data collection, No. Remarks, Don't collect.
+Data type, Email. Data collection, No. Remarks, Don't collect.
+Data type, Phone number. Data collection, No. Remarks, Don't collect.
+Data type, Address. Data collection, No. Remarks, Don't collect.
+Data type, Race and ethnicity. Data collection, No. Remarks, Don't collect.
+Data type, Political or religious beliefs. Data collection, No. Remarks, Don't collect.
+Data type, Sexual orientation or gender identity. Data collection, No. Remarks, Don't collect.
+Data type, Other personal information. Data collection, No. Remarks, Don't collect.
+Data type, Health and physical activity. Data collection, Health and physical activity. Remarks, Health and physical activity.
+Data type, Medical information. Data collection, No. Remarks, Don't collect.
+Data type, Information about physical activity. Data collection, No. Remarks, Don't collect.
+Data type, Financial information. Data collection, Financial information. Remarks, Financial information.
+Data type, Purchase history. Data collection, Yes. Remarks, Appodeal SDK  and some ad networks (AdColony, Ogury,  UnityAds  ) can collect this data if the application passes it to Appodeal SDK.
+Data type, Information about credits. Data collection, No. Remarks, Don't collect.
+Data type, Credit and debit card details or bank account number. Data collection, No. Remarks, Don't collect.
+Data type, Other financial information. Data collection, No. Remarks, Don't collect.
+Data type, Messages. Data collection, Messages. Remarks, Messages.
+Data type, Email. Data collection, No. Remarks, Don't collect.
+Data type, SMS or MMS. Data collection, No. Remarks, Don't collect.
+Data type, Other messages in applications. Data collection, No. Remarks, Don't collect.
+Data type, Location. Data collection, Location. Remarks, Location.
+Data type, Precise Location. Data collection, Optional. Remarks, Following ad networks can collect this data if the application allows to track location:  Smaato, MyTarget, StartApp.
+Data type, Coarse Location. Data collection, Optional. Remarks, Appodeal SDK  and the following ad networks can collect this data if the application allows to track location:  AdMob, Smaato, AdColony, MyTarget, StartApp, UnityAds.
+Data type, Photos and videos. Data collection, Photos and videos. Remarks, Photos and videos.
+Data type, Photos. Data collection, No. Remarks, Don't collect.
+Data type, Videos. Data collection, No. Remarks, Don't collect.
+Data type, Audio files. Data collection, Audio files. Remarks, Audio files.
+Data type, Audio recordings, including voice messages. Data collection, No. Remarks, Don't collect.
+Data type, Music files. Data collection, No. Remarks, Don't collect.
+Data type, Other audio files. Data collection, No. Remarks, Don't collect.
+Data type, Files and documents. Data collection, Files and documents. Remarks, Files and documents.
+Data type, Files and documents. Data collection, No. Remarks, Don't collect.
+Data type, Calendar. Data collection, Calendar. Remarks, Calendar.
+Data type, Calendar events. Data collection, No. Remarks, Don't collect.
+Data type, Contacts. Data collection, Contacts. Remarks, Contacts.
+Data type, Contacts. Data collection, No. Remarks, Don't collect.
+Data type, History of actions in the application. Data collection, History of actions in the application. Remarks, History of actions in the application.
+Data type, Number of page views and clicks. Data collection, No. Remarks, Don't collect.
+Data type, Search history in applications. Data collection, No. Remarks, Don't collect.
+Data type, Installed applications. Data collection, No. Remarks, Don't collect.
+Data type, Other user-generated content. Data collection, No. Remarks, Don't collect.
+Data type, Other actions. Data collection, No. Remarks, Don't collect.
+Data type, Information about browsing the Internet. Data collection, Information about browsing the Internet. Remarks, Information about browsing the Internet.
+Data type, Internet search history. Data collection, No. Remarks, Don't collect.
+Data type, Information about the application and data about its operation. Data collection, Information about the application and data about its operation. Remarks, Information about the application and data about its operation.
+Data type, Error Reports. Data collection, Yes. Remarks, The networks that collect this data:  AdMob, AdColony, StartApp.
+Data type, Diagnostics. Data collection, Yes. Remarks, The networks that collect this data:  AdMob, AdColony, IronSource, UnityAds.
+Data type, Other data. Data collection, Yes. Remarks, The networks that collect this data: StartApp.
+Data type, Device IDs or other identifiers. Data collection, Device IDs or other identifiers. Remarks, Device IDs or other identifiers.
+Data type, User ID. Data collection, Yes. Remarks, Following ad networks can collect this data:  AdColony, UnityAds.
+Data type, Device ID. Data collection, Yes. Remarks, Appodeal SDK and ad networks can collect this data for advertising targeting.
+Data type, Data usage. Data collection, Data usage. Remarks, Data usage.
+Data type, Interaction with the product. Data collection, Yes. Remarks, Following ad networks can collect this data:  AdMob, Smaato, AdColony, IronSource, StartApp,  UnityAds.
+Data type, Advertising data. Data collection, Yes. Remarks, Appodeal SDK and ad networks can collect this data for advertising targeting.
+Data type, Other data. Data collection, No. Remarks, Don't collect.
+Data type, Other data. Data collection, Other data. Remarks, Other data.
+Data type, Other Data Types. Data collection, Yes. Remarks, Appodeal SDK and ad networks can also collect:  Technical device information (for example, device type, system configuration information such as information about End Users’ operating system, mobile browser (e.g., Firefox, Safari, and Chrome)).  Other device information (e.g., whether users using a smartphone or tablet and related information).  Network information (for example, network provider).  Carrier user ID (a number uniquely allocated to you by your network provider).

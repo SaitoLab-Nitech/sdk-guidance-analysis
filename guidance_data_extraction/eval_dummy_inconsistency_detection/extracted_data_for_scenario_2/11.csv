@@ -1,0 +1,13 @@
+SDK,DAT,PRA,DES,CON,PUR,text
+,"Data,. IP Address.",,,"Details,",,
+,Network,,request sender,,,
+,IP addresses,,.,,,"Data, IP Address. Details, Network request sender IP addresses."
+,"Data,. User product interactions.",,",. ##ing requests, impressions, viewability and clicks data.",Details. Count,,"Data, User product interactions. Details, Counting requests, impressions, viewability and clicks data."
+,"Data,. Diagnostic information.",,,"Details,. Collecting sampled and anonymous information related to the performance of your app and the SDK such as crash logs.",,"Data, Diagnostic information. Details, Collecting sampled and anonymous information related to the performance of your app and the SDK such as crash logs."
+,"Data,. Device and Account identifiers.",,,"Details,. Collects Android advertising ( ad ) ID.",,"Data, Device and Account identifiers. Details, Collects  Android advertising (ad) ID."
+,"Data,. Device and App information.",,"Details,. B",,,
+,"##undle ID,",,"Ta. SDK type and version, connection type ( wifi / cellular ),. Devi",##boola,,
+,"##ce Model | OS and version,. App name",,", local",,,
+,##e,,", estimated location",,,
+,( Op,,##tional ).,Taboola SDK does not engage or performs any fingerprinting activity with this information.,,"Data, Device and App information. Details, Bundle ID, Taboola SDK type and version, connection type (wifi/cellular), Device Model | OS and version, App name, locale, estimated location (Optional). Taboola SDK does not engage or performs any fingerprinting activity with this information."
+,Action Details,,,,,Action Details.

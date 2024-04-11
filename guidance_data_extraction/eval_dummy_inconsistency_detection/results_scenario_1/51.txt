@@ -1,0 +1,14 @@
+guidance_id = 51
+taint_sources = {'ID'}
+i = 0, taint_source = 'ID', data_types = {'Advertising ID', 'Device identifiers', 'Device and Account identifiers', 'other identifiers related to signed - in accounts', 'Android ID', 'Device and other IDs', 'Firebase installation ID', 'device - level ID', 'Device or other IDs', 'Firebase Android App ID', 'Custom device key - values', 'ad id', 'Crashlytics installation UUID', 'Device ID', 'Device and other identifiers', 'App-instance ID', 'Android advertising ( ad ) ID.', 'installation id', 'AAID', 'Device or other identifiers', 'Device IDs or other ID', 'Custom device key', 'User-ID'}
+    practices = [{'PRA': 'Select :', 'CON': ''}, {'PRA': '', 'CON': ''}, {'PRA': 'If NOT using Google Ads or Adswizz, select the following : Collected.. Data collection is required.. If using Google Ads or Adswizz, select the following : Collected. Shared.. Data collection is required.', 'CON': ''}]
+    sa_result = [{'label': 'POSITIVE', 'score': 0.9905676245689392}]
+    used_text = 'Select :.'
+    final_result = 'Consistent'
+    sa_result = None
+    used_text = None
+    final_result = 'Consistent'
+    sa_result = [{'label': 'POSITIVE', 'score': 0.9801310896873474}]
+    used_text = 'Data collection is required.'
+    final_result = 'Consistent'
+[NER_EVAL] detection_result = 'Consistent', ans = 'Consistent', True

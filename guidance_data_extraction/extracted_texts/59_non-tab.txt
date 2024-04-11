@@ -1,0 +1,13 @@
+Go to Bugfender
+Go to Bugfender
+All Collections
+Security and compliance
+Which device data is automatically collected from users?
+Which device data is automatically collected from users?
+Written by  Jordi Giménez
+Updated over a week ago
+The Bugfender SDK collects the following details automatically: [[[{DAT}Device make and model]]],  [[[{DAT}Operating system name (iOS/Android) and version]]],  [[[{DAT}Language the device is configured in]]],  [[[{DAT}Device name]]] [[[{DES}(only in Android: either a developer-defined string or the device hostname)]]].
+Additionally, you may choose to collect (all of these are optional): [[[{DAT}Custom device key-values]]], [[[{DES}such as identifiers to locate the specific device of a user]]],  [[[{DAT}User interactions with your application]]],  [[[{DAT}Application crash stacktraces]]],  [[[{DAT}Any other user activity or internal application state]]].
+[[[{PUR}Bugfender may use aggregated data for statistical analyses to improve the service, but will not use or resell the data for commercial purposes (see details in the privacy policy)]]].
+You may sign a Data Processing Agreement with us, in order to guarantee your user's rights under GDPR.
+Did this answer your question?

@@ -1,0 +1,8 @@
+guidance_id = 34
+taint_sources = {'ID'}
+i = 0, taint_source = 'ID', data_types = {'Device and other identifiers', 'Device and other IDs', 'AAID', 'User-ID', 'Device or other IDs', 'installation id', 'Device ID', 'Device and Account identifiers', 'Device IDs or other ID', 'App-instance ID', 'ad id', 'Advertising ID', 'Device identifiers', 'Android ID', 'other identifiers related to signed - in accounts', 'Custom device key', 'Crashlytics installation UUID', 'Firebase installation ID', 'Firebase Android App ID', 'Custom device key - values', 'Device or other identifiers', 'device - level ID', 'Android advertising ( ad ) ID'}
+    practices = [{'PRA': 'Is it collected by Singular?,. Yes.', 'CON': 'Additional Comments,. Google Advertising ID and App Set ID are collected when permission is granted.'}]
+    sa_result = [{'label': 'POSITIVE', 'score': 0.9941616654396057}]
+    used_text = 'Google advertising id and app set id are collected when permission is granted.'
+    final_result = 'Consistent'
+[NER_EVAL] detection_result = 'Consistent', ans = 'Consistent', True

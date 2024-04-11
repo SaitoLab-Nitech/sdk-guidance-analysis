@@ -1,0 +1,58 @@
+[[[{DAT}Data type]]], [[[{DAT}Personal information]]]. [[[{PRA}Data collection]]], [[[{DAT}Personal information]]]. [[[{PRA}Remarks]]], [[[{DAT}Personal information]]].
+[[[{DAT}Data type]]], [[[{DAT}Name]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Email]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Phone number]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Address]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Race and ethnicity]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Political or religious beliefs]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Sexual orientation or gender identity]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Other personal information]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Health and physical activity]]]. [[[{PRA}Data collection]]], [[[{DAT}Health and physical activity]]]. [[[{PRA}Remarks]]], [[[{DAT}Health and physical activity]]].
+[[[{DAT}Data type]]], [[[{DAT}Medical information]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Information about physical activity]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Financial information]]]. [[[{PRA}Data collection]]], [[[{DAT}Financial information]]]. [[[{PRA}Remarks]]], [[[{DAT}Financial information]]].
+[[[{DAT}Data type]]], [[[{DAT}Purchase history]]]. [[[{PRA}Data collection]]], [[[{PRA}Yes]]]. [[[{PRA}Remarks]]], [[[{CON}Appodeal SDK  and some ad networks (AdColony, Ogury,  UnityAds  ) can collect this data if the application passes it to Appodeal SDK]]].
+[[[{DAT}Data type]]], [[[{DAT}Information about credits]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Credit and debit card details or bank account number]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Other financial information]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Messages]]]. [[[{PRA}Data collection]]], [[[{DAT}Messages]]]. [[[{PRA}Remarks]]], [[[{DAT}Messages]]].
+[[[{DAT}Data type]]], [[[{DAT}Email]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}SMS or MMS]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Other messages in applications]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Location]]]. [[[{PRA}Data collection]]], [[[{DAT}Location]]]. [[[{PRA}Remarks]]], [[[{DAT}Location]]].
+[[[{DAT}Data type]]], [[[{DAT}Precise Location]]]. [[[{PRA}Data collection]]], [[[{PRA}Optional]]]. [[[{PRA}Remarks]]], [[[{CON}Following ad networks can collect this data if the application allows to track location:  Smaato, MyTarget, StartApp]]].
+[[[{DAT}Data type]]], [[[{DAT}Coarse Location]]]. [[[{PRA}Data collection]]], [[[{PRA}Optional]]]. [[[{PRA}Remarks]]], [[[{CON}Appodeal SDK  and the following ad networks can collect this data if the application allows to track location:  AdMob, Smaato, AdColony, MyTarget, StartApp, UnityAds]]].
+[[[{DAT}Data type]]], [[[{DAT}Photos and videos]]]. [[[{PRA}Data collection]]], [[[{DAT}Photos and videos]]]. [[[{PRA}Remarks]]], [[[{DAT}Photos and videos]]].
+[[[{DAT}Data type]]], [[[{DAT}Photos]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Videos]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Audio files]]]. [[[{PRA}Data collection]]], [[[{DAT}Audio files]]]. [[[{PRA}Remarks]]], [[[{DAT}Audio files]]].
+[[[{DAT}Data type]]], [[[{DAT}Audio recordings, including voice messages]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Music files]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Other audio files]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Files and documents]]]. [[[{PRA}Data collection]]], [[[{DAT}Files and documents]]]. [[[{PRA}Remarks]]], [[[{DAT}Files and documents]]].
+[[[{DAT}Data type]]], [[[{DAT}Files and documents]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Calendar]]]. [[[{PRA}Data collection]]], [[[{DAT}Calendar]]]. [[[{PRA}Remarks]]], [[[{DAT}Calendar]]].
+[[[{DAT}Data type]]], [[[{DAT}Calendar events]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Contacts]]]. [[[{PRA}Data collection]]], [[[{DAT}Contacts]]]. [[[{PRA}Remarks]]], [[[{DAT}Contacts]]].
+[[[{DAT}Data type]]], [[[{DAT}Contacts]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}History of actions in the application]]]. [[[{PRA}Data collection]]], [[[{DAT}History of actions in the application]]]. [[[{PRA}Remarks]]], [[[{DAT}History of actions in the application]]].
+[[[{DAT}Data type]]], [[[{DAT}Number of page views and clicks]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Search history in applications]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Installed applications]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Other user-generated content]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Other actions]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Information about browsing the Internet]]]. [[[{PRA}Data collection]]], [[[{DAT}Information about browsing the Internet]]]. [[[{PRA}Remarks]]], [[[{DAT}Information about browsing the Internet]]].
+[[[{DAT}Data type]]], [[[{DAT}Internet search history]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Information about the application and data about its operation]]]. [[[{PRA}Data collection]]], [[[{DAT}Information about the application and data about its operation]]]. [[[{PRA}Remarks]]], [[[{DAT}Information about the application and data about its operation]]].
+[[[{DAT}Data type]]], [[[{DAT}Error Reports]]]. [[[{PRA}Data collection]]], [[[{PRA}Yes]]]. [[[{PRA}Remarks]]], [[[{CON}The networks that collect this data:  AdMob, AdColony, StartApp]]].
+[[[{DAT}Data type]]], [[[{DAT}Diagnostics]]]. [[[{PRA}Data collection]]], [[[{PRA}Yes]]]. [[[{PRA}Remarks]]], [[[{CON}The networks that collect this data:  AdMob, AdColony, IronSource, UnityAds]]].
+[[[{DAT}Data type]]], [[[{DAT}Other data]]]. [[[{PRA}Data collection]]], [[[{PRA}Yes]]]. [[[{PRA}Remarks]]], [[[{CON}The networks that collect this data: StartApp]]].
+[[[{DAT}Data type]]], [[[{DAT}Device IDs or other identifiers]]]. [[[{PRA}Data collection]]], [[[{DAT}Device IDs or other identifiers]]]. [[[{PRA}Remarks]]], [[[{DAT}Device IDs or other identifiers]]].
+[[[{DAT}Data type]]], [[[{DAT}User ID]]]. [[[{PRA}Data collection]]], [[[{PRA}Yes]]]. [[[{PRA}Remarks]]], [[[{CON}Following ad networks can collect this data:  AdColony, UnityAds]]].
+[[[{DAT}Data type]]], [[[{DAT}Device ID]]]. [[[{PRA}Data collection]]], [[[{PRA}Yes]]]. [[[{PRA}Remarks]]], [[[{CON}Appodeal SDK and ad networks can collect this data for advertising targeting]]].
+[[[{DAT}Data type]]], [[[{DAT}Data usage]]]. [[[{PRA}Data collection]]], [[[{DAT}Data usage]]]. [[[{PRA}Remarks]]], [[[{DAT}Data usage]]].
+[[[{DAT}Data type]]], [[[{DAT}Interaction with the product]]]. [[[{PRA}Data collection]]], [[[{PRA}Yes]]]. [[[{PRA}Remarks]]], [[[{CON}Following ad networks can collect this data:  AdMob, Smaato, AdColony, IronSource, StartApp,  UnityAds]]].
+[[[{DAT}Data type]]], [[[{DAT}Advertising data]]]. [[[{PRA}Data collection]]], [[[{PRA}Yes]]]. [[[{PRA}Remarks]]], [[[{CON}Appodeal SDK and ad networks can collect this data for advertising targeting]]].
+[[[{DAT}Data type]]], [[[{DAT}Other data]]]. [[[{PRA}Data collection]]], [[[{PRA}No]]]. [[[{PRA}Remarks]]], [[[{PRA}Don't collect]]].
+[[[{DAT}Data type]]], [[[{DAT}Other data]]]. [[[{PRA}Data collection]]], [[[{DAT}Other data]]]. [[[{PRA}Remarks]]], [[[{DAT}Other data]]].
+[[[{DAT}Data type]]], [[[{DAT}Other Data Types]]]. [[[{PRA}Data collection]]], [[[{PRA}Yes]]]. [[[{PRA}Remarks]]], [[[{CON}Appodeal SDK and ad networks can also collect:]]]  [[[{DAT}Technical device information]]] [[[{DES}(for example, device type, system configuration information such as information about End Users’ operating system, mobile browser (e.g., Firefox, Safari, and Chrome))]]].  [[[{DAT}Other device information]]] [[[{DES}(e.g., whether users using a smartphone or tablet and related information)]]].  [[[{DAT}Network information]]] [[[{DES}(for example, network provider)]]].  [[[{DAT}Carrier user ID (a number uniquely allocated to you by your network provider)]]].

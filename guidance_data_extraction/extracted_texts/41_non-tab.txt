@@ -1,0 +1,18 @@
+By Clicking "Accept All Cookies", you agree to the storing of  Cookies  on your device to enhance your user experience.
+Accept all
+Reject all
+|   Integration Docs
+Knowledge Center
+iOS,  Android Integration Initialize Pangle SDK APP Open Ads Rewarded Video Ads Interstitial Ads Banner Ads Native Ads App privacy details on the Google Play Migrate to SDK v46 Deprecated APIs from v3900 Android SDK,  Unity,  Admob Custom Event,  Test Mode,  Advanced topics,  Mediation,  iOS v45 and below,  Android v45 and below,  Unity v4000 and below,  API.
+Provide information for Google Play's Data Disclosure
+The Pangle Android SDK collects the following user data, which can be used by publishers as a reference when providing information for the Data Safety section of their app on Google Play.
+Developers are required to disclose their apps' privacy and security practices to Google by completing a form in Play Console. This information will be displayed on the app's store listing, allowing Google Play users to understand how user data is collected and shared before downloading the app.
+For further details, please refer to the following website:    Provide information for Google Play's Data safety section
+Please note that the information provided is not intended to constitute formal legal advice, particularly in regard to potential liability for non-compliance with Google policies. Therefore, you may contact Google or seek your own legal advice with respect to Google's policies and your obligations to them. The privacy relationship between you and Pangle is governed by the Pangle Partner Data Privacy Policy  (   https://www.pangleglobal.com/privacy   )  and applicable contracts.
+[[[{CON}This data list only includes the data collected by Pangle SDK]]].  [[[{CON}"App activity data" and "App info and performance data" are only related to Pangle SDK]]].  [[[{CON}All the data mentioned above is optional for the publishers which gives their end users the choice not to receive any ads from Pangle. If the end users choose not to receive any ads (both PA and NPA), Pangle will not collect any data from these end users]]].
+Provide information for Google Play's Data Disclosure.
+Sign up newsletter
+中文,  English,  日本語,  한국어.
+Privacy policy   Terms   Pangle supply policy
+Copyright ©
+Pangle. All rights reserved

@@ -1,0 +1,52 @@
+What's New,  Guides,  API,  Platforms,  Integrations,  Reference,  Get a Demo.
+Get a Demo
+Configure Channels
+Install Airship SDK
+Android   iOS   .NET MAUI   Cordova   Flutter   React Native   Titanium   Unity   Xamarin   Android TV   Fire TV   tvOS
+Audience Management   Deep Linking
+In-App Experiences
+Getting Started
+Android   iOS
+Push Notifications
+Getting Started
+Customizing Notifications
+Android   iOS   Cordova   Flutter   React Native
+Message Center
+Custom Message Center
+Android   iOS   Flutter   React Native   Xamarin
+Preference Center
+Getting Started
+Customizing the Preference Center
+Android   iOS
+Analytics   Google Wallet   iOS Live Activities   Android Live Updates
+Data Collection
+Data Collection   Google Play Data Safety
+Actions   Localization   Permissions Opt-in
+Accengage Migration
+Getting Started
+Android   iOS   Cordova   Flutter   Xamarin
+API References   License   Source Code
+Android   iOS   .NET MAUI   Cordova   Flutter   Titanium   Unity   Xamarin   React Native
+Getting Started   Push Notifications   Segmentation
+Getting Started   Secure Integration   Push Notifications   Segmentation   Data Collection   Analytics and Reporting   Changelog
+HTML Prompt   Registration Page   Opt-in Forms
+CMS Integrations   Localization   Tag Manager Integrations   Preference Center
+Open Channels
+Getting Started   Use Cases   Integration Points   Open Delivery Payload
+Getting Started   Commercial vs. Transactional   Analytics and Reporting   Bounce Handling
+Getting Started   Opt-In/Out Handling   Inbound Message Handling   Link Shortening   Custom Domains for Short Links   Segmentation   Analytics and Reporting   Delivery Report Error Codes   Compliance
+/  Platforms
+/  Mobile
+/  Data Collection
+/  Google Play Data Safety
+Google Play Data Safety
+Use this table to help fill out the  Google Play data safety section
+in Play console. The Airship SDK can be configured to not require any data (all features disabled), but some data maybe be required based on the App’s usage of the SDK.
+Data Collection
+Was this page helpful?
+Thank you
+Thanks for your feedback!
+Tell Us More
+Thank you
+We will try harder!
+Tell Us More

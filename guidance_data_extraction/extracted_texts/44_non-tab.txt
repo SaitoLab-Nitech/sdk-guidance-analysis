@@ -1,0 +1,302 @@
+Log in
+Privacy and security
+Security and policy compliance
+Getting started with AppMetrica
+SDK integration
+Push SDK integration
+Push campaigns
+Setting up data collection
+Working with reports
+Working with the API
+Managing app access
+Exporting data to Yandex Cloud
+Security and policy compliance
+FAQ and feedback
+GDPR compliance
+ISO/IEC 27001 compliance
+CCPA Compliance
+COPPA compliance
+Compliance with Google Play policies (use and transfer of geodata)
+Privacy and security
+Support for children's apps (iOS)
+Masking IP addresses
+Notice about collecting statistics
+Deleting data
+App privacy in the App Store
+Data safety in Google Play
+Getting started with AppMetrica
+Getting started with AppMetrica
+Release history
+SDK integration
+AppMetrica SDK
+Quick start
+Installation and initialization
+List of main dependencies
+Library features
+Tracking user activity
+Usage examples
+Analyzing crashes
+Crash plugin
+Deferred deeplinks support
+Error descriptions
+Migration guide to branch 3.x.x
+Plugin for Android Studio (not supported)
+Quick start
+Enabling the plugin
+Enabling the AppMetrica SDK
+Copying events from AppsFlyer
+Interface Summary
+Class Summary
+Enum Summary
+Class Summary
+Interface Summary
+Class Summary
+Class Summary
+Enum Summary
+Installation and initialization
+iOS Extension
+iOS Watch version 1.x (beta)
+Usage examples
+Tracking user activity
+Analysis of app crashes
+Device identification using a vendor keychain
+Universal Links support
+Migration guide to branch 3.x.x
+Installation and initialization
+Analysis of app crashes
+Installation and initialization
+Methods reference
+Usage examples
+React Native
+Installation and initialization
+Methods reference
+About the plugin
+Installation and initialization
+Getting advertising IDs
+Cordova (not supported)
+Installation and initialization
+Methods reference
+Xamarin (not supported)
+Installation and initialization
+Methods reference
+Push SDK integration
+Installation and initialization
+Configuring your app
+Using with other push services
+Migrating from GCM to Firebase
+Installation and initialization
+Objective-C reference
+Swift reference
+Configuring interaction tracking
+Uploading attached files
+Configuring your app
+Installation and initialization
+Configuring your app
+Installation and initialization
+Migrating from GCM to Firebase
+About the plugin
+Installation and initialization
+Cordova (not supported)
+Installation and initialization
+Push campaigns
+Launching a push campaign
+Canceling a push campaign
+Setting up data collection
+Deeplink tracking
+Deeplink tracking on Android
+Tracking deeplinks on iOS
+Sending events on Android
+Sending events on iOS
+Profile attributes
+Configuring sending profile attributes
+Sending ECommerce on Android
+Sending ECommerce on iOS
+In-app subscriptions
+In-app Google Play subscriptions
+In-app App Store subscriptions
+In-app purchases
+Sending in-app purchases on Android
+Sending in-app purchases on iOS
+Supported currencies
+Ad Revenue
+Sending Ad Revenue on Android
+Sending Ad Revenue on iOS
+Crashes and errors
+Uploading mapping files and debugging symbols on Android
+Uploading dSYM files on iOS
+Sending errors on Android
+Sending errors on iOS
+Email notifications
+Determining the location on Android
+Determining the location on iOS
+How tracking works
+AppMetrica tracking technology
+App install attribution
+Attributing remarketing campaigns
+Postback policy
+Setting up tracking
+Creating a tracker
+Creating a remarketing tracker
+Testing a tracker
+Adding a media source
+Parameters of the tracking URL
+Postback parameters
+S2S integration
+Tracking in iOS 14.5+ apps
+Tracking in iOS 15 apps
+Integration for ad networks within SKAdNetwork
+Managing the Conversion Value
+Tracking Facebook* campaigns for Android
+Tracking Google Ads campaigns
+Tracking Apple Search Ads campaigns
+Tracking DoubleClick campaigns
+Tracking pre-installed apps
+List of advertising networks
+Working with reports
+Overview and widgets
+Saving reports
+Creating a segment
+User Acquisition
+User Acquisition SKAdNetwork
+Push campaigns
+Retention Analysis
+Cohort analysis
+Profiles report
+Profile list
+Purchase analysis
+Technical reports
+Crashes and errors
+Crashes and errors
+Working with the API
+Method calls
+Management API
+Formats for input data and results
+API resources
+App information
+App list
+Category list
+Create app
+Update app settings
+Remove the app
+Error descriptions
+Reporting API
+API requests
+Drill down
+Sending data
+Date and time
+Date/time fragment
+Main metrics
+Tracker metrics
+Logs API
+Request flow
+Available endpoints
+API resources
+App installations
+Openings via deeplink
+Push tokens
+Sessions starts
+Data Stream API
+Quick start
+Data types for export
+API resources
+Stream status
+Downloading data
+Getting settings
+Changing settings
+Post API
+Uploading events
+Push API
+Use cases
+API resources
+Creating a group
+List of groups
+Getting a group
+Updating a group
+Archiving a group
+Unarchiving a group
+Sending push messages
+Checking the status of a dispatch with transferId
+Checking the status of sending with clientTransferId
+File types in push messages
+Managing app access
+Exporting data to Yandex Cloud
+Security and policy compliance
+GDPR compliance
+ISO/IEC 27001 compliance
+CCPA Compliance
+COPPA compliance
+Compliance with Google Play policies (use and transfer of geodata)
+Privacy and security
+App privacy in the App Store
+Data safety in Google Play
+Support for children's apps (iOS)
+Masking IP addresses
+Notice about collecting statistics
+Deleting data
+FAQ and feedback
+How do I update the AppMetrica version in an app?
+How do I download IDFA/GAID values?
+How can I get all the crash logs without grouping them?
+How can I create a tracking link for other installation sources?
+How do I fix a security certificate error?
+What is the expected format of the click_id parameter when sending it to the tracker?
+My app didn't pass App Store moderation
+How does tracking pre-installs differ from tracking a separate app build?
+Data from reports and data from the Logs API are different
+Does AppMetrica use UTM tags?
+How to enable user location sending
+How retention is calculated?
+New installations are not shown in statistics
+Weekly audience does not match the sum of users for the week period
+Different number of events in Event and User Acquisition reports
+How to create a remarketing campaign in AppMetrica
+How can I make sure that I have the latest versions of the Android libraries installed?
+Problems when using Swift Package Manager
+Why does appmetrica_device_id change when the app is reinstalled?
+Limiting custom events
+Security and policy compliance
+Privacy and security
+Data safety in Google Play
+Data safety in Google Play
+According to the  Google requirements  , mobile app developers should report to Google Play which data they collect through the app. To do this, they need to fill out the  Data safety  form on the  App content  page in the Play Console.
+Data collection
+Transmitting information from the user's device through the app.
+What isn't considered data collection: Local access and processing
+You don't need to specify user data that the app processes only on the device.
+End-to-end encryption
+If user data is encrypted during transmission from the device in such a way that neither you nor anyone else except the sender and recipient can read it, there is no need to report such processing. Encryption keys shouldn't be available to any intermediary, including the developer.
+Data transmission
+A situation when user data collected in your app is transmitted to third parties.
+What isn't considered data transmission: Transmission to service providers
+User data is transmitted to the service provider which processes it on behalf of the developer.
+Transmission on legal grounds
+User data is transmitted for purposes stipulated by law. For example, due to a legal obligation or in response to a request from government agencies.
+Transmission based on an action performed by the user or after disclosing information about the use of data and obtaining consent
+Data is transmitted to a third party as a result of the actions of the user who understands that their information will be transmitted. The same category includes cases when the app explicitly discloses information about data processing and the user consents to this.
+Anonymous data transmission
+You are transmitting completely anonymized user data that can't be associated with a specific person.
+Mandatory and optional data
+For each data type, you can specify whether it is mandatory.
+For example, information can be considered optional: If the user can manage its collection and the app can work without it.  If you can choose whether to provide this data manually.
+To declare the collection of optional data, make sure that all users, regardless of the device or region, can choose to provide such information and allow or prohibit its transmission.
+If information is required to perform the main functions of the app, it must be specified as mandatory.
+More information about working with data
+You can provide additional information about how data privacy and protection is ensured in your app.
+Special icon
+Apps designed for children must comply with the Google Play Families Policies. If your app belongs to this category and meets the requirements, you can add the  Complies with the Google Play Families Policies  icon to the data safety section.
+To place this icon: In the  Data safety  form, go to the  Data protection  section.
+Click  Go to Target audience and content  .
+Data types
+Information about how user data of each type is collected and transmitted.
+Data collection purposes
+Information about the data collection purposes.
+Contact support
+If you didn't find the answer you were looking for, you can use the feedback form to submit your question. Please describe the problem in as much detail as possible. Attach a screenshot if possible.
+Was the article useful?
+Please specify why
+recommendations did not help me,  article content does not match its stated topic,  article is hard to understand,  I don't like how this feature works,  didn't answer my question,  other reason.
+Thank you for your feedback!
+Please tell us what you didn't like about this article: App privacy in the App Store
+Support for children's apps (iOS)
+App privacy in the App Store
+Support for children's apps (iOS)

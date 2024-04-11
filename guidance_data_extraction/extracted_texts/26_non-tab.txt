@@ -1,0 +1,38 @@
+Skip to main content
+Skip to main content
+Help Center
+Sign in  Get support
+Hi, how can we help?
+Privacy & Security
+Privacy and Security
+Articles in this section
+Apple's privacy guidelines,  PII data,  Schematic Replay,  Discard IP Address,  Our approach to privacy and security,  Retrieving a copy of customer data,  UXCam Privacy Statement,  Disclaimer for user's data and privacy.
+Apple's privacy guidelines
+UXCam genuinely cares about users’ privacy, that’s why we give our clients complete control over what data is sent to UXCam. We’re GDPR compliant and we meet Apple’s privacy guidelines.
+→ Data Collection
+→ Types of Data
+→ App Tracking Transparency (iOS 14.5)
+Data Collection
+UXCam helps companies improve the app experience. We are not an "ad-tech," or "data enrichment" provider; we ingest and process only the data our customers send to us, and never sell, transfer, or combine that information with data from other sources.
+Sensitive data
+We empower our customers to control which data they want to send and provide APIs that allow them to block sensitive content.
+Schematic recording on iOS
+To ensure compliance with Apple privacy guidelines, we developed the Schematic Replay technology that reconstructs the session to visualize in-app behavior by drawing rectangular shapes and texts in a way that reflects the app’s actual screen layout.
+Note » Apple regularly updates its policies, you should always be up to date with the latest changes and requirements.
+App store Privacy Policies
+All apps submitted to the Store are reviewed based on different technical, design, and content aspects. Your app should meet Apple requirements and you’re responsible to meet their compliance requirements. To read more about Apple requirements, visit this page.
+UXCam should not interfere with your app submission and review process, please be sure to include the use of UXCam in your privacy policies (see for reference) and indicate the data types as requested by Apple.
+Types of Data
+According to Apple's privacy policy, companies that submit their app to the store will have to fully understand and indicate the data types they collect. Of course, you should consider any data that you collect within your application and any third-party tools that you use.
+If you’re using UXCam these are the data types you should choose when submitting your app: *1 UXCam only collects coarse location data -  city, region, and country by default, but does not collect granular or real-time geolocation data.
+*2 Identifiers is 'No', by default, but 'Yes', if you send user ID
+UXCam collects only the Usage Data (i.e device interaction) by default, as defined by Apple. While it’s possible to send other types of data through our SDK, that’s not by default and can be defined by our customers. If you wish to send any other information please make sure that you select all the data type options accordingly. E.g. if you send a user ID, you should select Identifiers.
+iOS 14.5 Updates ‘AppTracking Transparency‘
+After the release of iOS 14.5, all apps must use the AppTracking Transparency framework to request tracking permission from their users to access the iOS advertising identifier (IDFA).
+UXCam does not use the IDFA, therefore our SDK does not require an opt-in dialog.
+This permission will be requested via opt-in with a dialog similar to the request to send push notifications or location services. See the screenshot below for reference: Please note that the App Tracking Transparency guidelines only apply when your app uses or collects the IDFA. Since UXCam does not use the IDFA, the use of our SDK does not require explicit tracking permission.
+What’s the IDFA?
+The Advertising Identifier is a semi-random generated value that identifies a device. It’s generally used to track a user across multiple apps. (e.g. it’s used in Marketing for attribution & re-targeting purposes).
+Instead of using the IDFA, UXCam uses a Vendor Device ID (UIDevice.currentDevice.identifierForVendor.UUIDString) which is a random UUID tied to the app publisher.
+Important! Please keep in mind that you may use other analytics SDKs that might require the user to opt-in according to the new apple tracking transparency framework such as Facebook SDK. Please make sure that you review all the included SDKs and check with your third-party providers before submitting your app.
+Questions? Send us a message to team@uxcam.com

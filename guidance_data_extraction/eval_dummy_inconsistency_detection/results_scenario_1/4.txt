@@ -1,0 +1,8 @@
+guidance_id = 4
+taint_sources = {'ID'}
+i = 0, taint_source = 'ID', data_types = {'Advertising ID', 'Device identifiers', 'Device and Account identifiers', 'other identifiers related to signed - in accounts', 'Android ID', 'Device and other IDs', 'Firebase installation ID', 'device - level ID', 'Device or other IDs', 'Firebase Android App ID', 'Custom device key - values', 'ad id', 'Crashlytics installation UUID', 'Device ID', 'Device and other identifiers', 'App-instance ID', 'Android advertising ( ad ) ID.', 'installation id', 'AAID', 'Device or other identifiers', 'Device IDs or other ID', 'Custom device key', 'User-ID'}
+    practices = [{'PRA': 'Is Shared with CleverTap by Default?,. No.. Is Optional Sharing Possible with CleverTap?,. Yes. If you have configured to transmit this data to CleverTap, respond accordingly.', 'CON': ''}]
+    sa_result = [{'label': 'POSITIVE', 'score': 0.9955040812492371}]
+    used_text = 'If you have configured to transmit this data to clevertap, respond accordingly.'
+    final_result = 'Consistent'
+[NER_EVAL] detection_result = 'Consistent', ans = 'Consistent', True

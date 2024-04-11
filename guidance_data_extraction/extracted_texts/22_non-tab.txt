@@ -1,0 +1,61 @@
+Display SDK Documentation
+Overview,  What's new,  Android Getting started Integration guides Banner Interstitial Rewarded Video Native Ads Mediation Custom adapter In-App Bidding As Primary SDK Custom adapter Amazon adapter As Bidder Integration guide Localization Troubleshooting Release notes Migration guide API Samples,  iOS Getting started Integration guides Banner Interstitial Rewarded Video Native Ads Mediation Custom adapter In-app Bidding As Primary SDK Custom adapter Amazon adapter As Bidder Integration guide Localization Troubleshooting Release checklist App Privacy details Release notes Migration guide API Samples,  Mediation Introduction As Primary SDK Overview Integrate adapters Supported adapters Integrate a new SDK As Secondary SDK Overview Google Mobile Ads,  In-app Bidding As Primary SDK Overview Custom adapter As Bidder Overview,  Privacy laws,  Compatibility,  Creatives HTML MRAID Parallax Script Templates,  Viewability,  Webview Monetization.
+Privacy laws compliancy
+Smart is committed to ensuring that our services comply with the European Union’s General Data Protection Regulation (GDPR) and other regulatory frameworks. The publishers must make sure that an appropriate legal basis has been granted to collect and process the users’ personal data. To help the publishers provide the appropriate datapoints.
+This page explains you how to comply with some of these legislations.
+GDPR (EU)
+Consent Management Provider
+Passing user's consent to Smart Display SDK
+Passing CCPA consent string to Smart Display SDK
+Note about TCF v1.1 support
+CCPA (California)
+Passing CCPA consent string to Smart Display SDK
+iOS App Privacy Details
+Automatic location retrieval
+GDPR (EU)
+Under the GDPR, you must make certain disclosures to your users in the European Economic Area (EEA) and obtain their consent to use, where legally required, their personal data (such as AdID) to serve ads or process some analytics.
+Interactive Adverstising Bureau (IAB) provides some tools to help you in this process. You might want to read more about how GDPR applies for advertising on iabeurope.eu/transparency-consent-framework.
+Consent Management Provider
+The first step to apply GDPR is to collect the user's consent about the use of his personal data.
+This can be done through a Consent Management Provider (CMP). A CMP is a technology interface (usually an SDK for Apps environment) permitting apps developers to provide transparency and obtain consent where necessary for themselves and/or on behalf of their chosen third parties and to transmit informations about which vendors and which purposes a user has consented to with vendors.
+We recommend you integrate any CMP of your choice as long as it is compliant with IAB's framework and specifications since Smart Display SDK will retrieve consent based on these specifications: IAB In-App Reference CMP
+Passing user's consent to Smart Display SDK
+Since the in-app environment is cookie-less, the TCF specifies the user’s shared preferences as the storage location for CMP data. From there, Smart Display SDK retrieves the consent signals and pass them to the ad request. The GDPR consent string have to be stored in the
+on Android and in the
+on iOS, both by using the key
+. Our SDK will get the consent string directly from the
+with the official IAB key.
+By using a CMP (compliant with the IAB specifications) you will have nothing to do. On the other hand, if you are using any other CMP that do not respect the IAB specifications, you will have to set the consent string in the
+By using the code below, you will set the consent string manually: SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(getContext()); SharedPreferences.Editor editor = prefs.edit(); editor.putString("IABTCF_TCString", "yourCMPComputedConsentStringBase64format"); editor.apply();
+Some third party mediation SDKs are not IAB compliant and do not rely on the consent string. Those SDK use, most of the time, a binary consent for the advertising purpose.
+If you are using one or more of those SDK through Smart mediation, you can set this binary consent for all adapters at once by settings the String
+(if the consent is granted), or
+(if the consent is denied) in the
+for the key
+SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(getContext()); SharedPreferences.Editor editor = prefs.edit(); editor.putString("Smart_advertisingConsentStatus", "1" or "0"); editor.apply();
+Handle User and App identifiers
+Since 7.15.0, the following identifiers won’t be sent in the ad call when Smart is not given the user’s consent: the UID, the IFA, the IFV, and the DNTID. This happens when gdprApplies=1 and there is no consent-string or when there is non-consent for the purposes Smart requires. You will find more information in our Help Center.
+Note about TCF v1.1 support
+The latest versions of do not support TCF v1 anymore.
+CCPA (California)
+The California Consumer Privacy Act (CCPA) is a privacy law applying to all residents of California (United States). It has been voted in 2018 and became effective in January 2020.
+You can find more information about this law and how to comply with it in the dedicated IAB website.
+As for GDPR, the IAB CCPA framework defines a consent string that will be obtained by a CMP and forwarded to all third parties by the SDK.
+Passing CCPA consent string to Smart Display SDK
+The CCPA consent string have to be stored in the
+on Android and in the
+on iOS, both by using the key
+. Our SDK will get the consent string directly from the
+with the official IAB key.
+By using a CMP (compliant with the IAB specifications) you will have nothing to do. On the other hand, if you are using any other CMP that do not respect the IAB specifications, you will have to set the consent string in the
+By using the code below, you will set the consent string manually: SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(getContext()); SharedPreferences.Editor editor = prefs.edit(); editor.putString("IABUSPrivacy_String", "1---"); editor.apply();
+iOS App Privacy details
+Apple now requires you to disclose user data that your app is collecting, and the purpose of this collection. You will need to provide these information when submitting a new app or and app update starting December 8th, 2020.
+Since the Smart Display SDK collects some user data, you MUST declare in addition to the data collected by your app!
+You can find more information about the data collected by the Smart Display SDK and how to answer Apple's questions on dedicated page: App Privacy details configuration
+The data collected and processed can change from a SDK release to another, remember to check this page every time your update the Smart Display SDK.
+Automatic location retrieval
+The Smart Display SDK can automatically retrieve the user's location if it has already been collected by your app. This can be useful to increase your app advertising revenue.
+It is however your responsability to ensure that you have proper user consent before using this automatic location feature and that your are compliant with the local laws and regulation.
+You can find more information on how to enable automatic location retrieval in the integration documentation: Automatic location on Android
+Automatic location on iOS

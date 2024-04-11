@@ -1,0 +1,43 @@
+SDK,DAT,PRA,DES,CON,PUR,text
+,"Data Type,. Location.","Collected?,. A",,,,
+,##pproximate Location :,NO.,,,,
+,Precise Location :,NO,,,,
+,.,,,,,"Data Type, Location. Collected?, Approximate Location:  NO.  Precise Location:  NO."
+,"Data Type,. Personal Information.","Collected?,",,,,
+,Name :,NO,,,,
+,.. Email Address : NO.. Personal Identifiers :. NO.. Address :. NO.. Phone Number : NO.. Race and Ethnicity :. NO.. Political or Religious Beliefs :. NO.. Sexual Orientation :. NO.. Other Personal Information : NO.,,,,,"Data Type, Personal Information. Collected?, Name:  NO.  Email Address:  NO.  Personal Identifiers:  NO.  Address:  NO.  Phone Number:  NO.  Race and Ethnicity:  NO.  Political or Religious Beliefs:  NO.  Sexual Orientation:  NO.  Other Personal Information:  NO."
+,"Data Type,. Financial Information.","Collected?,",,,,
+,Credit / Debit Card / Bank Number : NO.. Purchase History :,NO,,,,
+,.. Credit Information :,NO,,,,
+,.. Other Financial Information :,NO,,,,
+,.,,,,,"Data Type, Financial Information. Collected?, Credit/Debit Card/Bank Number:  NO.  Purchase History:  NO.  Credit Information:  NO.  Other Financial Information:  NO."
+,"Data Type,. Health and Fitness.","Collected?,",,,,
+,Health Information :,NO,,,,
+,.. Fitness Information :,NO,,,,
+,.,,,,,"Data Type, Health and Fitness. Collected?, Health Information:  NO.  Fitness Information:  NO."
+,"Data Type,. Messages.","Collected?,. Emails :. NO.",,,,
+,SMS or MMS :. NO.. Other in - app messages :,NO,,,,
+,.. Photos or Videos :,NO,,,,
+,.,,,,,"Data Type, Messages. Collected?, Emails:  NO.  SMS or MMS:  NO.  Other in-app messages:  NO.  Photos or Videos:  NO."
+,"Data Type,. Audio Files.","Collected?,",,,,
+,Voice or Sound,Recordings :. NO.,,,,
+,Music Files :,NO,,,,
+,.. Other Audio Files :,NO,,,,
+,.,,,,,"Data Type, Audio Files. Collected?, Voice or Sound Recordings:  NO.  Music Files:  NO.  Other Audio Files:  NO."
+,"Data Type,. Files and Docs.","Collected?,. NO.",,,,"Data Type, Files and Docs. Collected?, NO."
+,"Data Type,. Calendar.","Collected?,. NO.",,,,"Data Type, Calendar. Collected?, NO."
+,"Data Type,. Contacts.","Collected?,. NO.",,,,"Data Type, Contacts. Collected?, NO."
+,"Data Type,. App Activity.","Collected?,",,,,
+,Page Views,and Ta,,,,
+,##ps in,A,,,,
+,##pp,:. Y. In -,,OPTIONAL - You can use Branch ' s SDK privacy controls to prevent data collection by default until the end - user opted in ).,,
+,App Search,History. NO,,,,
+,Installed Apps :,NO,,,,
+,Other User,,"i. e. clicks, installs, purchases )","Gene. Content. OPTIONAL,. if we are measuring in - app purchases for you for instance.. Other Actions :. OPTIONAL,. Branch can collect this data on your behalf (. .",,"Data Type, App Activity. Collected?, Page Views and Taps in App:  YES  (  OPTIONAL  - You can use Branch's SDK privacy controls to prevent data collection by default until the end-user opted in).  In-App Search History:  NO.  Installed Apps:  NO.  Other User-Generated Content:  OPTIONAL  , if we are measuring in-app purchases for you for instance.  Other Actions:  OPTIONAL  , Branch can collect this data on your behalf (i.e. clicks, installs, purchases)."
+,"Data Type,. Web Browsing History.","Collected?,. YES ( OPTIONAL ).",,,,"Data Type, Web Browsing History. Collected?, YES  (  OPTIONAL  )."
+,"Data Type,. App Info and Performance.","Collected?,. Crash Logs :. NO.",,,,
+,Diagnostics :. NO.. Other App Performance Data :,NO,,,,
+,.,,,,,"Data Type, App Info and Performance. Collected?, Crash Logs:  NO.  Diagnostics:  NO.  Other App Performance Data:  NO."
+,"Data Type,. Device or Other Identifiers.","Collected?,. YES ( OPTIONAL ).",,,,"Data Type, Device or Other Identifiers. Collected?, YES  (  OPTIONAL  )."
+,"Data Type,. Other Data.","Collected?,. YES (. OPTI. Is. ##lected and. ##hared YES. NO",( e. g. engagement data and device metadata features such as screen size and operating system version ).,##ONAL - Branch collects this data on your behalf. / help.. . io / developers - hub / docs /. -. ##t -. - of -. - requests,Why,"Data Type, Other Data. Collected?, YES  (  OPTIONAL  -  Branch collects this data on your behalf (e.g. engagement data and device metadata features such as screen size and operating system version  ).. Is data Collected and/or Shared YES  to both.. Is data “processed ephemerally”? NO  (see Play Store Safety Section for definition).. Is the collection of data necessary to the use of the app or can users choose whether data is collected? Users can choose to turn off this data collection (See:  https://help.branch.io/developers-hub/docs/honoring-opt-out-of-processing-requests  )."
+,is the user data,,,,"collected?. App Functionality :. YES.. Analytics : YES.. Developer Communications :. NO.. Fraud Prevention, Security, or Compliance :. NO.. Advertising or Marketing :. YES.. ( Product ) Personalization : YES.. Account Management : NO.","Why is the user data collected? App Functionality:  YES.  Analytics:  YES.  Developer Communications:  NO.  Fraud Prevention, Security, or Compliance:  NO.  Advertising or Marketing:  YES.  (Product) Personalization:  YES.  Account Management:  NO."

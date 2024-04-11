@@ -1,0 +1,356 @@
+Contact info, Name. Collected?, Yes. Used for tracking?, No. Purpose, The name can be optionally collected to identify chats within Zendesk.
+Contact info, Email Address. Collected?, Yes. Used for tracking?, No. Purpose, The e-mail address can be optionally collected to identify tickets and chats within Zendesk.
+Contact info, Phone Number. Collected?, Yes. Used for tracking?, No. Purpose, The phone number can be optionally collected to identify chats within Zendesk.
+Contact info, Physical Address. Collected?, No.
+Contact info, Other User Contact Info. Collected?, No.
+.
+Contact info, Health and Fitness. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Health. Collected?, No.
+Contact info, Fitness. Collected?, No.
+.
+Contact info, Financial Info. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Payment Info. Collected?, No.
+Contact info, Credit Info. Collected?, No.
+Contact info, Other Financial Info. Collected?, No.
+.
+Contact info, Location. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Precise Location. Collected?, No.
+Contact info, Coarse Location (location is inferred based on IP address). Collected?, Yes. Used for tracking?, No. Purpose, Location is not resolved on the device, but it is resolved on the backend based on the client's IP address.
+.
+Contact info, Sensitive Info. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Sensitive Info. Collected?, No.
+.
+Contact info, Contacts. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Contacts. Collected?, No.
+.
+Contact info, User Content. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Emails or Text Messages. Collected?, No.
+Contact info, Photos or videos. Collected?, Yes. Used for tracking?, No. Purpose, Optional. Attachments can be added to users' chats.
+Contact info, Documents. Collected?, Yes. Used for tracking?, No. Purpose, Optional. Attachments can be added to users' chats.
+Contact info, Audio Data. Collected?, Yes. Used for tracking?, No. Purpose, Optional. Attachments can be added to users' chats.
+Contact info, Gameplay Content. Collected?, No.
+Contact info, Customer Support. Collected?, No.
+Contact info, Other User Info. Collected?, No.
+Contact info, Other User Content. Collected?, No.
+.
+Contact info, Browsing History. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Browsing History. Collected?, Yes. Used for tracking?, Yes. Purpose, The ‘Visitor Path’ can be set by integrators to list the end user’s recently visited screens before starting a conversation.
+.
+Contact info, Search History. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Search History. Collected?, No.
+.
+Contact info, Identifiers. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, User ID. Collected?, Yes. Used for tracking?, No. Purpose, The user identifier is used to differentiate clients to the chat backend.
+Contact info, Device ID. Collected?, Yes. Used for tracking?, Yes. Purpose, The 'machine ID' is used to differentiate clients to the chat backend.
+.
+Contact info, Purchases. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Purchase History. Collected?, No.
+.
+Contact info, Usage Data. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Product Interaction (only if mediation partners actively share such data). Collected?, No.
+Contact info, Advertising Data. Collected?, No.
+Contact info, Other Usage Data. Collected?, No.
+.
+Contact info, Diagnostics. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Crash Data. Collected?, No.
+Contact info, Performance Data. Collected?, No.
+Contact info, Other Diagnostics Data. Collected?, Yes. Used for tracking?, No. Purpose, The SDK's User-Agent header identifies the version of the SDK, the version of the OS, and the type of the SDK.
+.
+Contact info, Other Data. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Other Data Types. Collected?, No.
+Contact info, Name. Collected?, Yes. Used for tracking?, No. Purpose, The user name can be optionally collected to identify tickets and chats within Zendesk.
+Contact info, Email Address. Collected?, Yes. Used for tracking?, No. Purpose, The e-mail address can be optionally collected to identify tickets and chats within Zendesk.
+Contact info, Phone Number. Collected?, No.
+Contact info, Physical Address. Collected?, No.
+Contact info, Other User Contact Info. Collected?, No.
+.
+Contact info, Health and Fitness. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Health. Collected?, No.
+Contact info, Fitness. Collected?, No.
+.
+Contact info, Financial Info. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Payment Info. Collected?, No.
+Contact info, Credit Info. Collected?, No.
+Contact info, Other Financial Info. Collected?, No.
+.
+Contact info, Location. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Precise Location. Collected?, No.
+Contact info, Coarse Location (location is inferred based on IP address). Collected?, Yes. Used for tracking?, No. Purpose, Location is not resolved on the device, but it is resolved on the backend based on the client's IP address.
+.
+Contact info, Sensitive Info. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Sensitive Info. Collected?, No.
+.
+Contact info, Contacts. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Contacts. Collected?, No.
+.
+Contact info, User Content. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Emails or Text Messages. Collected?, No.
+Contact info, Photos or videos. Collected?, No.
+Contact info, Audio Data. Collected?, No.
+Contact info, Gameplay Content. Collected?, No.
+Contact info, Customer Support. Collected?, No.
+Contact info, Other User Info. Collected?, Yes. Used for tracking?, No. Purpose, SDKs send an 'Accept-Language' header with the user's selected language.
+Contact info, Other User Content. Collected?, No.
+.
+Contact info, Browsing History. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Browsing History. Collected?, Yes. Used for tracking?, No. Purpose, The history of the Answer Bot and end-users messages are retained in a ticket if Answer Bot does not solve the end user's question.
+.
+Contact info, Search History. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Search History. Collected?, Yes. Used for tracking?, No. Purpose, The history of the Answer Bot and end-users messages are retained in a ticket if Answer Bot does not solve the end user's question.
+.
+Contact info, Identifiers. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, User ID. Collected?, No. Used for tracking?, No. Purpose, The SDK generates a UUID on the client. The UUID is used to identify a user because name and email are optional.
+Contact info, Device ID. Collected?, No.
+.
+Contact info, Purchases. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Purchase History. Collected?, No.
+.
+Contact info, Usage Data. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Product Interaction (only if mediation partners actively share such data). Collected?, No.
+Contact info, Advertising Data. Collected?, No.
+Contact info, Other Usage Data. Collected?, No.
+.
+Contact info, Diagnostics. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Crash Data. Collected?, No.
+Contact info, Performance Data. Collected?, No.
+Contact info, Other Diagnostics Data. Collected?, Yes. Used for tracking?, No. Purpose, The SDK's User-Agent header identifies the version of the SDK, the version of the OS, and the type of the SDK.
+.
+Contact info, Other Data. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Other Data Types. Collected?, No.
+Contact info, Name. Collected?, Yes. Used for tracking?, No. Purpose, The name can be optionally collected to identify tickets within Zendesk.
+Contact info, Email Address. Collected?, Yes. Used for tracking?, No. Purpose, The e-mail address can be optionally collected to identify tickets within Zendesk.
+Contact info, Phone Number. Collected?, No.
+Contact info, Physical Address. Collected?, No.
+Contact info, Other User Contact Info. Collected?, No.
+.
+Contact info, Health and Fitness. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Health. Collected?, No.
+Contact info, Fitness. Collected?, No.
+.
+Contact info, Financial Info. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Payment Info. Collected?, No.
+Contact info, Credit Info. Collected?, No.
+Contact info, Other Financial Info. Collected?, No.
+.
+Contact info, Location. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Precise Location. Collected?, No.
+Contact info, Coarse Location (location is inferred based on IP address). Collected?, Yes. Used for tracking?, No. Purpose, Location is not resolved on the device, but it is resolved on the backend based on the client's IP address.
+.
+Contact info, Sensitive Info. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Sensitive Info. Collected?, No.
+.
+Contact info, Contacts. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Contacts. Collected?, No.
+.
+Contact info, User Content. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Emails or Text Messages. Collected?, No.
+Contact info, Photos or videos. Collected?, Yes. Used for tracking?, No. Purpose, [[[PUR}Optional. Attachments can be added to users' requests.
+Contact info, Audio Data. Collected?, Yes. Used for tracking?, No. Purpose, Optional. Attachments can be added to users' requests.
+Contact info, Gameplay Content. Collected?, No.
+Contact info, Customer Support. Collected?, Yes. Used for tracking?, No. Purpose, The Support SDK is designed to allow end-users to create support requests.
+Contact info, Other User Info. Collected?, Yes. Used for tracking?, No. Purpose, SDKs send an 'Accept-Language' header with the user's selected language.
+Contact info, Other User Content. Collected?, No.
+.
+Contact info, Browsing History. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Browsing History. Collected?, Yes. Used for tracking?, No. Purpose, Views and searches of Zendesk articles are tracked. This trail is then shown to support agents using Zendesk, so they know which articles the user has already read or searched for.
+.
+Contact info, Search History. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Search History. Collected?, Yes. Used for tracking?, No. Purpose, Views and searches of Zendesk articles are tracked. This trail is then shown to support agents using Zendesk, so they know which articles the user has already read or searched for.
+.
+Contact info, Identifiers. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, User ID. Collected?, No. Used for tracking?, No. Purpose, The SDK generates a UUID on the client. The UUID is used to identify a user because name and email are optional.
+Contact info, Device ID. Collected?, No.
+.
+Contact info, Purchases. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Purchase History. Collected?, No.
+.
+Contact info, Usage Data. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Product Interaction (only if mediation partners actively share such data). Collected?, No.
+Contact info, Advertising Data. Collected?, No.
+Contact info, Other Usage Data. Collected?, No.
+.
+Contact info, Diagnostics. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Crash Data. Collected?, No.
+Contact info, Performance Data. Collected?, No.
+Contact info, Other Diagnostics Data. Collected?, Yes. Used for tracking?, No. Purpose, The SDK's User-Agent header identifies the version of the SDK, the version of the OS, and the type of the SDK.
+.
+Contact info, Other Data. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Other Data Types. Collected?, No.
+Contact info, Name. Collected?, Yes. Used for tracking?, No. Purpose, The name can be optionally collected to identify chats within Zendesk.
+Contact info, Email Address. Collected?, Yes. Used for tracking?, No. Purpose, The e-mail address can be optionally collected to identify tickets and chats within Zendesk.
+Contact info, Phone Number. Collected?, Yes. Used for tracking?, No. Purpose, The phone number can be optionally collected to identify chats within Zendesk.
+Contact info, Physical Address. Collected?, No.
+Contact info, Other User Contact Info. Collected?, No.
+.
+Contact info, Health and Fitness. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Health. Collected?, No.
+Contact info, Fitness. Collected?, No.
+.
+Contact info, Financial Info. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Payment Info. Collected?, No.
+Contact info, Credit Info. Collected?, No.
+Contact info, Other Financial Info. Collected?, No.
+.
+Contact info, Location. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Precise Location. Collected?, No.
+Contact info, Coarse Location (location is inferred based on IP address). Collected?, Yes. Used for tracking?, No. Purpose, Location is not resolved on the device, but it is resolved on the backend based on the client's IP address.
+.
+Contact info, Sensitive Info. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Sensitive Info. Collected?, No.
+.
+Contact info, Contacts. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Contacts. Collected?, No.
+.
+Contact info, User Content. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Emails or Text Messages. Collected?, No.
+Contact info, Photos or videos. Collected?, Yes. Used for tracking?, No. Purpose, Optional. Attachments can be added to users' chats.
+Contact info, Audio Data. Collected?, Yes. Used for tracking?, No. Purpose, Optional. Attachments can be added to users' chats.
+Contact info, Gameplay Content. Collected?, No.
+Contact info, Customer Support. Collected?, No.
+Contact info, Other User Info. Collected?, No.
+Contact info, Other User Content. Collected?, No.
+.
+Contact info, Browsing History. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Browsing History. Collected?, Yes. Used for tracking?, No. Purpose, Views and searches of Zendesk articles are tracked. This trail is then shown to support agents using Zendesk, so they know which articles the user has already read or searched for.
+.
+Contact info, Search History. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Search History. Collected?, No.
+.
+Contact info, Identifiers. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, User ID. Collected?, No.
+Contact info, Device ID. Collected?, Yes. Used for tracking?, No. Purpose, The 'machine ID' is used to differentiate clients to the chat backend.
+.
+Contact info, Purchases. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Purchase History. Collected?, No.
+.
+Contact info, Usage Data. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Product Interaction (only if mediation partners actively share such data). Collected?, No.
+Contact info, Advertising Data. Collected?, No.
+Contact info, Other Usage Data. Collected?, No.
+.
+Contact info, Diagnostics. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Crash Data. Collected?, No.
+Contact info, Performance Data. Collected?, No.
+Contact info, Other Diagnostics Data. Collected?, Yes. Used for tracking?, No. Purpose, The SDK's User-Agent header identifies the version of the SDK, the version of the OS, and the type of the SDK.
+.
+Contact info, Other Data. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Other Data Types. Collected?, No.
+Contact info, Name. Collected?, No.
+Contact info, Email Address. Collected?, No.
+Contact info, Phone Number. Collected?, No.
+Contact info, Physical Address. Collected?, No.
+Contact info, Other User Contact Info. Collected?, No.
+.
+Contact info, Health and Fitness. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Health. Collected?, No.
+Contact info, Fitness. Collected?, No.
+.
+Contact info, Financial Info. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Payment Info. Collected?, No.
+Contact info, Credit Info. Collected?, No.
+Contact info, Other Financial Info. Collected?, No.
+.
+Contact info, Location. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Precise Location. Collected?, No.
+Contact info, Coarse Location (location is inferred based on IP address). Collected?, No.
+.
+Contact info, Sensitive Info. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Sensitive Info. Collected?, No.
+.
+Contact info, Contacts. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Contacts. Collected?, No.
+.
+Contact info, User Content. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Emails or Text Messages. Collected?, No.
+Contact info, Photos or videos. Collected?, No.
+Contact info, Audio Data. Collected?, No.
+Contact info, Gameplay Content. Collected?, No.
+Contact info, Customer Support. Collected?, No.
+Contact info, Other User Info. Collected?, No.
+Contact info, Other User Content. Collected?, No.
+.
+Contact info, Browsing History. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Browsing History. Collected?, No.
+.
+Contact info, Search History. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Search History. Collected?, No.
+.
+Contact info, Identifiers. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, User ID. Collected?, No.
+Contact info, Device ID. Collected?, No.
+.
+Contact info, Purchases. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Purchase History. Collected?, No.
+.
+Contact info, Usage Data. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Product Interaction (only if mediation partners actively share such data). Collected?, No.
+Contact info, Advertising Data. Collected?, No.
+Contact info, Other Usage Data. Collected?, No.
+.
+Contact info, Diagnostics. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Crash Data. Collected?, No.
+Contact info, Performance Data. Collected?, No.
+Contact info, Other Diagnostics Data. Collected?, Yes. Used for tracking?, No. Purpose, The SDK's User-Agent header identifies the version of the SDK, the version of the OS, and the type of the SDK.
+.
+Contact info, Other Data. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Other Data Types. Collected?, No.
+Contact info, Name. Collected?, Yes. Used for tracking?, No. Purpose, The name can be optionally collected and used as contextual information in conversations with customer support agents.
+Contact info, Email Address. Collected?, Yes. Used for tracking?, No. Purpose, The e-mail address can be optionally collected and used as contextual information in conversations with customer support agents.
+Contact info, Phone Number. Collected?, Yes. Used for tracking?, No. Purpose, The phone number can be optionally collected and used as contextual information in conversations with customer support agents.
+Contact info, Physical Address. Collected?, No.
+Contact info, Other User Contact Info. Collected?, No.
+.
+Contact info, Health and Fitness. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Health. Collected?, No.
+Contact info, Fitness. Collected?, No.
+.
+Contact info, Financial Info. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Payment Info. Collected?, No.
+Contact info, Credit Info. Collected?, No.
+Contact info, Other Financial Info. Collected?, No.
+.
+Contact info, Location. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Precise Location. Collected?, Yes. Used for tracking?, No. Purpose, Used as contextual information in conversations with customer support agents.
+Contact info, Coarse Location (location is inferred based on IP address). Collected?, No.
+.
+Contact info, Sensitive Info. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Sensitive Info. Collected?, No.
+.
+Contact info, Contacts. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Contacts. Collected?, No.
+.
+Contact info, User Content. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Emails or Text Messages. Collected?, No.
+Contact info, Photos or videos. Collected?, Yes. Used for tracking?, No. Purpose, Optional. Attachments can be added to users' chats.
+Contact info, Documents. Collected?, Yes. Used for tracking?, No. Purpose, Optional. Attachments can be added to users' chats.
+Contact info, Audio Data. Collected?, Yes. Used for tracking?, No. Purpose, Optional. Attachments can be added to users' chats.
+Contact info, Gameplay Content. Collected?, No.
+Contact info, Customer Support. Collected?, No.
+Contact info, Other User Info. Collected?, No.
+Contact info, Other User Content. Collected?, Yes. Used for tracking?, No.
+.
+Contact info, Browsing History. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Browsing History. Collected?, No.
+.
+Contact info, Search History. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Search History. Collected?, No.
+.
+Contact info, Identifiers. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, User ID. Collected?, Yes. Used for tracking?, No. Purpose, The user identifier is used to differentiate clients to the chat backend.
+Contact info, Device ID. Collected?, Yes. Used for tracking?, Yes. Purpose, The 'machine ID' is used to differentiate clients to the chat backend.
+.
+Contact info, Purchases. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Purchase History. Collected?, No.
+.
+Contact info, Usage Data. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Product Interaction (only if mediation partners actively share such data). Collected?, No.
+Contact info, Advertising Data. Collected?, No.
+Contact info, Other Usage Data. Collected?, No.
+.
+Contact info, Diagnostics. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Crash Data. Collected?, No.
+Contact info, Performance Data. Collected?, No.
+Contact info, Other Diagnostics Data. Collected?, Yes. Used for tracking?, No. Purpose, The SDK's User-Agent header identifies the version of the SDK, the version of the OS, and the type of the SDK.
+.
+Contact info, Other Data. Collected?, Collected?. Used for tracking?, Used for tracking?. Purpose, Purpose.
+Contact info, Other Data Types. Collected?, No.

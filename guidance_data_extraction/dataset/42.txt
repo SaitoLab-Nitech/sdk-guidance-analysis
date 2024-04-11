@@ -1,0 +1,42 @@
+Question Answer Comments.
+Does the SDK collect or share any of the required user data types? Yes nan.
+Is all of the data collected by the SDK encrypted in transit? Yes All submitted data are transmitted under the https protocol.
+Does the SDK provide a way for users to request that their data is deleted? Yes Users can reach out at any time at  support@pollfish.com  with their requests or reset their Ad ID on their own.
+Location, Does the SDK collect the user's approximate location?. Collected, Yes. Shared, Yes. Ephemeral, No. Required, Yes. Purpose, Advertising or marketing, analytics,fraud prevention, security, and compliance. Comments, Pollfish collects and processes IP address, and infers approximate geolocation from IP address.
+Location, Does the SDK collect the user's precise location?. Collected, No. Shared, (N/A). Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+Personal information, Does the SDK collect the user's name?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+Personal information, Does the SDK collect the user's email address?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+Personal information, Does the SDK collect the user's personal identifiers?. Collected, Yes. Shared, Yes. Ephemeral, No. Required, No. Purpose, Advertising or marketing, analytics,fraud prevention, security, and compliance. Comments, Pollfish automatically collects the Ad ID of the user if access is not limited and the publisher provided the relevant permission. Publishers can also pass other user identifiers to the SDK.
+Personal information, Does the SDK collect the user's address?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Comments, N/A.
+Personal information, Does the SDK collect the user's phone number?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Comments, N/A.
+Personal information, Does the SDK collect the user's race and ethnicity?. Collected, Yes. Shared, Yes. Ephemeral, No. Required, No. Purpose, Advertising or marketing,fraud prevention, security, and compliance. Comments, Users will answer similar questions if they wish as part of the demographic survey during onboarding https://www.pollfish.com/docs/demographic-surveys.
+Personal information, Does the SDK collect the user's political or religious beliefs?. Collected, Yes. Shared, Yes. Ephemeral, No. Required, No. Purpose, Advertising or marketing,fraud prevention, security, and compliance. Comments, Surveys from clients might ask such questions. The users decide if they would like to participate.
+Personal information, Does the SDK collect the user's sexual orientation or gender identity?. Collected, Yes. Shared, Yes. Ephemeral, No. Required, No. Purpose, Advertising or marketing,fraud prevention, security, and compliance. Comments, Users will answer similar questions if they wish as part of the demographic survey during onboarding https://www.pollfish.com/docs/demographic-surveys.
+Personal information, Does the SDK collect any of the user's other personal information?. Collected, Yes. Shared, Yes. Ephemeral, No. Required, No. Purpose, Advertising or marketing,fraud prevention, security, and compliance. Comments, Users will answer different questions within the surveys if they decide to participate.
+Financial info, Does the SDK collect the user's purchase history?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+Financial info, Does the SDK collect the user's credit info?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+Financial info, Does the SDK collect the user's credit card, debit card, or bank account number?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+Financial info, Does the SDK collect any of the user's other financial info?. Collected, Yes. Shared, Yes. Ephemeral, No. Required, No. Purpose, Advertising or marketing. Comments, Surveys from clients might ask such questions. The users decide if they would like to participate.
+Health and fitness, Does the SDK collect the user's health information?. Collected, Yes. Shared, Yes. Ephemeral, No. Required, No. Purpose, Advertising or marketing. Comments, Surveys from clients might ask such questions. The users decide if they would like to participate.
+Health and fitness, Does the SDK collect the user's fitness information?. Collected, Yes. Shared, Yes. Ephemeral, No. Required, No. Purpose, Advertising or marketing. Comments, Surveys from clients might ask such questions. The users decide if they would like to participate.
+Messages, Does the SDK collect the user's emails?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+Messages, Does the SDK collect the user's SMS or MMS messages?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+Messages, Does the SDK collect any of the user's other in-app messages?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+Photos and videos, Does the SDK collect the user's photos?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+Photos and videos, Does the SDK collect the user's videos?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+Audio files, Does the SDK collect the user's voice or sound recordings?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+Audio files, Does the SDK collect the user's music files?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+Audio files, Does the SDK collect any of the user's other audio files?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+Files and docs, Does the SDK collect the user's files and or documents?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+Calendar, Does the SDK collect the user's calendar events?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+Contacts, Does the SDK collect the user's contacts?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+App activity, Does the SDK collect data on page views and taps in the app?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+App activity, Does the SDK collect in-app search history?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+App activity, Does the SDK collect data on installed apps?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+App activity, Does the SDK collect data on any other user-generated content?. Collected, Yes. Shared, Yes. Ephemeral, No. Required, No. Purpose, Advertising or marketing. Comments, Surveys from clients might ask such questions. The users decide if they would like to participate.
+App activity, Does the SDK collect data on any other app activity?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+Web browsing, Does the SDK collect data on the user's web browsing history?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+App info and performance, Does the SDK collect crash logs?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+App info and performance, Does the SDK collect app diagnostics?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+App info and performance, Does the SDK collect any other app performance data?. Collected, No. Shared, N/A. Ephemeral, N/A. Required, N/A. Purpose, N/A. Comments, N/A.
+Device or other identifiers, Does the SDK collect data on the user's device or other identifiers?. Collected, Yes. Shared, Yes. Ephemeral, No. Required, No. Purpose, Advertising or marketing, analytics, app functionality, fraud prevention, security, and compliance. Comments, Pollfish automatically collects the Ad ID of the user if access is not limited and the publisher provided the relevant permission. Publishers can also pass other user identifiers to the SDK.

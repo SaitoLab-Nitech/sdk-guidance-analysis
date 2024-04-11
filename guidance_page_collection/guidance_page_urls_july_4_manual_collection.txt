@@ -1,0 +1,12 @@
+https://wiki.appodeal.com/en/android/get-started/data-protection/data-security
+https://developer.digitalturbine.com/hc/en-us/articles/6837837795741-Google-s-Data-Safety-Form
+https://documentation.onesignal.com/docs/google-play-data-safety-requirements
+https://docs.tracker.my.com/privacy-and-security/google-data-safety
+https://docs.airship.com/platform/mobile/data-collection/google-play/
+https://razorpay.com/docs/payments/payment-gateway/android-integration/standard/google-data-safety/
+https://developers.facebook.com/blog/post/2022/07/18/resources-for-completing-app-store-data-practice-questionnaires-apps-facebook-or-audience-network-sdk/
+https://ogury.com/google-plays-data-safety-section-guidance/
+https://appmetrica.yandex.com/docs/data-security/privacy-and-security/google-data-safety.html
+https://www.flurry.com/blog/google-play-data-disclosure-requirements/
+https://futurimedia.freshdesk.com/support/solutions/articles/44002131852-completing-mobile-app-content-surveys-on-google-play
+https://support.zendesk.com/hc/en-us/articles/4419146645018-Zendesk-SDKs-and-App-Privacy-Details

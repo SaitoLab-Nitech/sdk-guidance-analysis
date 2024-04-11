@@ -1,0 +1,158 @@
+Privacy Manager Flag Features.
+Push Push notifications.
+In-App Automation In-App Automation, In-App Messages, Scenes, Surveys, and Landing Pages.
+Message Center Message Center.
+Tags and Attributes Tags, Attributes, Subscription Lists, and Preference Center.
+Contacts Contact Tags, Attributes, and Subscription Lists; Named User; and Associated Channels.
+Analytics Associated identifiers, Custom events, Screen tracking, Surveys.
+Chat In-App Chat.
+Location Location Lat/Long gathering for App (Not reported to Airship), Location status reporting.
+Data Description Privacy Manager Features.
+Channel ID Airship app install identifier. Any.
+Locale The app’s locale, comprised of language and language country. Any.
+Time zone The device time zone. Any.
+Platform The platform the device is running on, e.g., Amazon, Android, iOS. Any.
+Accengage device ID The device ID on Accengage. Only collected if using the Accengage module for Accengage to Airship migration. Any.
+SDK version The Airship SDK version. Any.
+Notification opt-In status Notifications and background opt-in status. Any.
+Contact ID Internal Airship ID that maps to contact. Contacts.
+App version The app’s version. Analytics, In-App Automation.
+Message Center credentials The message center credentials for message list access. Message Center.
+Message Center message status Message reads and deletes. Message Center.
+Push token The push address for push notifications. Push.
+Push provider The push delivery platform, e.g., FCM, HMS. Push.
+Device model The device model, e.g., Samsung GT-S5830L, iPad Air. Analytics.
+Device manufacturer The device manufacturer name. Analytics.
+OS version The device OS version. Analytics.
+Carrier The device mobile carrier. Analytics.
+Connection Type The connection type, e.g., Cell, Wifi. Analytics.
+Framework Airship framework usage: React Native, Unity, Cordova, Flutter, Titanium, and .NET Maui. Analytics.
+Lifecycle events Init, foreground, background, and time in app. Analytics.
+Scheduled summary1 Scheduled summary notification status. Only collected if it is being used. Analytics.
+Time sensitive1 Time sensitive notification status. Only collected if it is being used. Analytics.
+Notification events Push notification interaction events. Analytics, Push.
+Notification permissions Authorized notification types and permissions. Analytics, Push.
+In-App Automation events Events within an In-App display: displays, resolutions, page views, button taps, and survey results. Analytics, In-App Automation.
+Location permission The location permission status. Analytics, Location.
+Data Description Privacy Manager Features.
+Channel Tags Tags and tag groups set on the channel. Tags and Attributes.
+Channel Subscription Lists Subscription Lists set on the channel. Tags and Attributes.
+Channel Attributes Attributes set on the channel. Tags and Attributes.
+Contact Tags Tags and tag groups set on the contact. Tags and Attributes, Contacts.
+Contact Subscription Lists Subscription Lists set on the contact. Tags and Attributes, Contacts.
+Contact Attributes Attributes set on the contact. Tags and Attributes, Contacts.
+Named User Contact’s external ID. Contacts.
+Associated Channels Email and email opt-in data, SMS and SMS opt-in data, etc. Contacts.
+Associated Identifiers Additional analytics identifiers. Analytics.
+Custom Events App’s custom events. Analytics.
+Screen Tracking App’s screen tracking. Analytics.
+Privacy Manager Flag Kotlin Constant AirshipConfig Value.
+Push PrivacyManager.FEATURE_PUSH push.
+In-App Automation PrivacyManager.FEATURE_IN_APP_AUTOMATION in_app_automation.
+Message Center PrivacyManager.FEATURE_MESSAGE_CENTER message_center.
+Tags and Attributes PrivacyManager.FEATURE_TAGS_AND_ATTRIBUTES tags_and_attributes.
+Contacts PrivacyManager.FEATURE_CONTACTS contacts.
+Analytics PrivacyManager.FEATURE_ANALYTICS analytics.
+Chat PrivacyManager.FEATURE_CHAT chat.
+Location PrivacyManager.FEATURE_LOCATION location.
+All PrivacyManager.FEATURE_ALL all.
+None PrivacyManager.FEATURE_NONE none.
+Privacy Manager Flag Java Constant AirshipConfig Value.
+Push PrivacyManager.FEATURE_PUSH push.
+In-App Automation PrivacyManager.FEATURE_IN_APP_AUTOMATION in_app_automation.
+Message Center PrivacyManager.FEATURE_MESSAGE_CENTER message_center.
+Tags and Attributes PrivacyManager.FEATURE_TAGS_AND_ATTRIBUTES tags_and_attributes.
+Contacts PrivacyManager.FEATURE_CONTACTS contacts.
+Analytics PrivacyManager.FEATURE_ANALYTICS analytics.
+Chat PrivacyManager.FEATURE_CHAT chat.
+Location PrivacyManager.FEATURE_LOCATION location.
+All PrivacyManager.FEATURE_ALL all.
+None PrivacyManager.FEATURE_NONE none.
+Privacy Manager Flag Swift Constant AirshipConfig Value.
+Push Features.push push.
+In-App Automation Features.inAppAutomation in_app_automation.
+Message Center Features.messageCenter message_center.
+Tags and Attributes Features.tagsAndAttributes tags_and_attributes.
+Contacts Features.contacts contacts.
+Analytics Features.analytics analytics.
+Chat Features.chat chat.
+Location Features.location location.
+All Features.all all.
+None [] none.
+Privacy Manager Flag Objective-C Constant AirshipConfig Value.
+Push UAFeaturesPush push.
+In-App Automation UAFeaturesInAppAutomation in_app_automation.
+Message Center UAFeaturesMessageCenter message_center.
+Tags and Attributes UAFeaturesTagsAndAttributes tags_and_attributes.
+Contacts UAFeaturesContacts contacts.
+Analytics UAFeaturesAnalytics analytics.
+Chat UAFeaturesChat chat.
+Location UAFeaturesLocation location.
+All UAFeaturesAll all.
+None UAFeaturesNone none.
+Privacy Manager Flag JS Constant.
+Push Feature.Push.
+In-App Automation Feature.InAppAutomation.
+Message Center Feature.MessageCenter.
+Tags and Attributes Feature.TagsAndAttributes.
+Contacts Feature.Contacts.
+Analytics Feature.Analytics.
+Chat Feature.Chat.
+Location Feature.Location.
+All FEATURES_ALL.
+None [].
+Privacy Manager Flag String Feature Name AirshipConfig Value.
+Push “FEATURE_PUSH” push.
+In-App Automation “FEATURE_IN_APP_AUTOMATION” in_app_automation.
+Message Center “FEATURE_MESSAGE_CENTER” message_center.
+Tags and Attributes “FEATURE_TAGS_AND_ATTRIBUTES” tags_and_attributes.
+Contacts “FEATURE_CONTACTS” contacts.
+Analytics “FEATURE_ANALYTICS” analytics.
+Chat “FEATURE_CHAT” chat.
+Location “FEATURE_LOCATION” location.
+All “FEATURE_ALL” all.
+None “FEATURE_NONE” none.
+Privacy Manager Flag JS Constant.
+Push FEATURE_PUSH.
+In-App Automation FEATURE_IN_APP_AUTOMATION.
+Message Center FEATURE_MESSAGE_CENTER.
+Tags and Attributes FEATURE_TAGS_AND_ATTRIBUTES.
+Contacts FEATURE_CONTACTS.
+Analytics FEATURE_ANALYTICS.
+Chat FEATURE_CHAT.
+Location FEATURE_LOCATION.
+All FEATURE_ALL.
+None FEATURE_NONE.
+Privacy Manager Flag C# Constant AirshipConfig Value.
+Push Features.Push push.
+In-App Automation Features.InAppAutomation in_app_automation.
+Message Center Features.MessageCenter message_center.
+Tags and Attributes Features.TagsAndAttributes tags_and_attributes.
+Contacts Features.Contacts contacts.
+Analytics Features.Analytics analytics.
+Chat Features.Chat chat.
+Location Features.Location location.
+All Features.All all.
+None Features.None none.
+Privacy Manager Flag JS Constant.
+Push featurePush.
+In-App Automation featureInAppAutomation.
+Message Center featureMessageCenter.
+Tags and Attributes featureTagsAndAttributes.
+Contacts featureContacts.
+Analytics featureAnalytics.
+Chat featureChat.
+Location featureLocation.
+All featureAll.
+None featureNone.
+Privacy Manager Flag String Feature Name.
+Push “FEATURE_PUSH”.
+In-App Automation “FEATURE_IN_APP_AUTOMATION”.
+Message Center “FEATURE_MESSAGE_CENTER”.
+Tags and Attributes “FEATURE_TAGS_AND_ATTRIBUTES”.
+Contacts “FEATURE_CONTACTS”.
+Analytics “FEATURE_ANALYTICS”.
+Chat “FEATURE_CHAT”.
+Location “FEATURE_LOCATION”.
+All “FEATURE_ALL”.
+None “FEATURE_NONE”.

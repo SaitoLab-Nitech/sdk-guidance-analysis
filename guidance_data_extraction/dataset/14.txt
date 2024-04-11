@@ -1,0 +1,59 @@
+Data, Location.
+Data, Approximate location. Automatically captured by BugSnag, No.
+Data, Precise location. Automatically captured by BugSnag, No.
+Data, Personal info.
+Data, Name. Automatically captured by BugSnag, No.
+Data, Email address. Automatically captured by BugSnag, No.
+Data, Personal identifiers. Automatically captured by BugSnag, No.
+Data, Address. Automatically captured by BugSnag, No.
+Data, Phone number. Automatically captured by BugSnag, No.
+Data, Race and ethnicity. Automatically captured by BugSnag, No.
+Data, Political or religious beliefs. Automatically captured by BugSnag, No.
+Data, Sexual orientation or gender identity. Automatically captured by BugSnag, No.
+Data, Other personal info. Automatically captured by BugSnag, No.
+Data, Financial Info.
+Data, Credit card, debit card, or bank account number. Automatically captured by BugSnag, No.
+Data, Purchase history. Automatically captured by BugSnag, No.
+Data, Credit info. Automatically captured by BugSnag, No.
+Data, Other financial info. Automatically captured by BugSnag, No.
+Data, Health and fitness.
+Data, Health information. Automatically captured by BugSnag, No.
+Data, Fitness information. Automatically captured by BugSnag, No.
+Data, Messages.
+Data, Emails. Automatically captured by BugSnag, No.
+Data, SMS or MMS messages. Automatically captured by BugSnag, No.
+Data, Other in-app messages. Automatically captured by BugSnag, No.
+Data, Photos or videos.
+Data, Photos. Automatically captured by BugSnag, No.
+Data, Videos. Automatically captured by BugSnag, No.
+Data, Audio files.
+Data, Voice or sound recordings. Automatically captured by BugSnag, No.
+Data, Music files. Automatically captured by BugSnag, No.
+Data, Other audio files. Automatically captured by BugSnag, No.
+Data, Files and docs.
+Data, Files and docs. Automatically captured by BugSnag, No.
+Data, Calendar.
+Data, Calendar events. Automatically captured by BugSnag, No.
+Data, Contacts.
+Data, Contacts. Automatically captured by BugSnag, No.
+Data, App activity.
+Data, Page views and taps in app. Automatically captured by BugSnag, No.
+Data, In-app search history. Automatically captured by BugSnag, No.
+Data, Installed apps. Automatically captured by BugSnag, No.
+Data, Other user-generated content. Automatically captured by BugSnag, No.
+Data, Other actions. Automatically captured by BugSnag, Yes. Breadcrumbs are stored and sent with each event report. You can override which breadcrumbs are captured with Android enabledBreadcrumbTypes. Or, you can amend and delete individual breadcrumbs with an Android onBreadcrumb callback in Android, React Native, and Cocos2d-x projects.  If your application uses React Native or Expo, JavaScript breadcrumbs are additionally captured. You can prevent capture of these with React Native enabledBreadcrumbTypes or Expo enabledBreadcrumbTypes configuration. User interaction and navigation type breadcrumbs are captured for React Native, Unity and Unreal Engine projects. These include details of which selectors are clicked, their text value and the user’s journey through the application, so consider for your app whether these breadcrumbs contain any other types of data. You can amend or remove these using the React Native addOnBreadcrumb, the Unity enabledBreadcrumbTypes or Unreal Engine addOnBreadcrumb configuration options.  Sessions are tracked by default with the BugSnag notifiers. You can disable automatic session tracking for each platform as follows: Android, React Native, Cocos2d-x, Expo, Unity, Unreal Engine.
+Data, Web browsing.
+Data, Web browsing history. Automatically captured by BugSnag, No.
+Data, App info and performance.
+Data, Crash logs. Automatically captured by BugSnag, Yes. We also send “internal” crash reports when there is a crash in BugSnag library code. This can be disabled with the telemetry configuration option.
+Data, Diagnostics. Automatically captured by BugSnag, Yes.
+Data, Other app performance data. Automatically captured by BugSnag, Yes. BugSnag additionally captures application information by default.
+Data, Device or other identifiers.
+Data, Device or other identifiers. Automatically captured by BugSnag, User ID. An overridable unique identifier is generated for the user.id value if no user data is set. Device ID. An overridable unique identifier is generated for the device.id value. Note that the original device ID will still be used in crash reporting internal to the BugSnag SDK.
+Data purpose, App functionality. Applicable to your use of BugSnag?, No.
+Data purpose, Analytics. Applicable to your use of BugSnag?, Yes. You can use BugSnag to minimize app crashes, and improve stability.
+Data purpose, Developer communication. Applicable to your use of BugSnag?, No.
+Data purpose, Advertising or marketing. Applicable to your use of BugSnag?, No.
+Data purpose, Fraud prevention, security, and compliance. Applicable to your use of BugSnag?, No.
+Data purpose, Personalization. Applicable to your use of BugSnag?, No.
+Data purpose, Account management. Applicable to your use of BugSnag?, No.

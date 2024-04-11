@@ -1,0 +1,76 @@
+iOS, Android, Unity, Web SDK, Reporting API, GraphQL Reporting API, Legal Resources, Platform Guide.
+iOS, Android, Unity, GraphQL Reporting API, Legal Resources, Platform Guide.
+view all platforms
+Log In
+Create Account
+Programmatic MediationWaterfall MediationMediation FAQOfferwall With Mediation
+VIRTUAL CURRENCY
+Virtual Currency OverviewSelf-Managed CurrencyTapjoy-Managed Currency
+PUSH NOTIFICATIONS
+Automated PushFCM ConfigurationMultiple Push ProvidersPush CertificatesPush Troubleshooting GuideSending Custom Payload
+SDK Privacy FlagsDevice IdentifiersInfo sent to TapjoyApp Privacy - iOSData Safety - Android
+ANALYTICS DATA EXPORT API
+Getting StartedMetricsCountry FilteringCountry Level Retention DataDebugging
+AD REPORTING API
+Insights Reporting APILegacy Reporting API
+OTHER API'S
+API AuthenticationAudience API OverviewUser Level Revenue API OverviewReporting API
+AB Testing for Marketing MessagesAd Behavioural TargetingAd Retention ReportCPE Bid ManagementCustom Exchange RatesMMP Setup for ROASNative to EarnPublisher Customer Service ToolRolling Retention vs RetentionTiered Currency ExchangeUser CohortsUser Roles and PermissionsUser Tags
+TAPJOY EXCHANGE
+Tapjoy OpenRTB Specification
+FAQGlossaryiOS 14Open Source SoftwarePublisher Integration ChecklistUpload Advertising IDs for Targetting
+QuickstartManual IntegrationChangelogUpdate GuideSDK Reference
+Offerwall Migration Checklist
+Virtual Currency
+DashboardSDKOfferwall Migration Guide
+User SessionsUser PropertiesPurchase Tracking
+Test DevicesDebug ModeExamples
+User PrivacyPush Notifications
+C++ LibraryC++ API Reference
+QuickstartManual IntegrationChangelogUpdate GuideSDK Reference
+Offerwall Migration Checklist
+Virtual Currency
+DashboardSDKOfferwall Migration Guide
+User SessionsUser PropertiesPurchase Tracking
+Test DevicesDebug ModeExamples
+User PrivacyPush NotificationsReducing Total Method CountIntegrating PPEProguard
+C++ LibraryC++ API Reference
+QuickstartChangelogUpdate GuideSDK Reference
+Offerwall Migration Checklist
+Virtual Currency
+DashboardSDKOfferwall Migration Guide
+User SessionsUser PropertiesPurchase Tracking
+Test DevicesDebug ModeExamples
+User PrivacyPush NotificationsIntegrating PPE
+GraphQL Reporting API
+Getting Started
+LimitationsUpgradingInteractive Explorer
+API Reference
+Marketing API
+Advertiser Examples
+Publisher API
+Publisher Examples
+Legal Resources
+Privacy PolicyData Protection Addendum
+Platform Guide
+Programmatic MediationWaterfall MediationMediation FAQOfferwall With Mediation
+Virtual Currency
+Virtual Currency OverviewSelf-Managed CurrencyTapjoy-Managed Currency
+Push Notifications
+Automated PushFCM ConfigurationMultiple Push ProvidersPush CertificatesPush Troubleshooting GuideSending Custom Payload
+SDK Privacy FlagsDevice IdentifiersInfo sent to TapjoyApp Privacy - iOSData Safety - Android
+Analytics Data Export API
+Getting StartedMetricsCountry FilteringCountry Level Retention DataDebugging
+Ad Reporting API
+Insights Reporting APILegacy Reporting API
+Other API's
+API AuthenticationAudience API OverviewUser Level Revenue API OverviewReporting API
+AB Testing for Marketing MessagesAd Behavioural TargetingAd Retention ReportCPE Bid ManagementCustom Exchange RatesMMP Setup for ROASNative to EarnPublisher Customer Service ToolRolling Retention vs RetentionTiered Currency ExchangeUser CohortsUser Roles and PermissionsUser Tags
+Tapjoy Exchange
+Tapjoy OpenRTB Specification
+FAQGlossaryiOS 14Open Source SoftwarePublisher Integration ChecklistUpload Advertising IDs for Targetting
+Google Play Data Safety
+Starting in April 2022, Google will be asking publishers to answer questions about their app's privacy and security practices. Below is an outline of how Tapjoy uses each type of data. Only the sections that Tapjoy's services utilitzed were listed. Please be aware that your final answers may be different if you use other partners in your app or if you do not use our full range of products.
+(These responses reflect Tapjoy’s collection and use as a provider of in-app advertising monetization services to a publisher, for the data Tapjoy collects and processes routinely and systematically in providing such monetization services. Tapjoy’s answers do not reflect data which a user may voluntarily provide, whether in response to Tapjoy’s market research survey offers in a publisher’s application or in the customer support context.)
+Tapjoy has provided the CSV export of these answers here for reference.
+Google Play Data Safety.

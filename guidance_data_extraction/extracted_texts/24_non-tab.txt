@@ -1,0 +1,101 @@
+Icon / Back
+Cards/Icon 2.0/Small/ Marketer
+Icon / X
+Icon / Clipboard Small
+Icon / Forward
+Icon / Hamburger
+Icon / Important
+Icon / No search result (Sad)
+Cards/Icon 2.0/Large/ FAQs
+Icon / Search
+Icon / Shrink Window
+Bulletlist / Tick / Ticked
+Icon / Forward
+Icon / Warning
+Icon / Growth Solution
+Icon / Adjust Logo
+We constantly publish updates to our documentation, which may not yet be available in your language. For the most current information, use the  English version.
+Help Center
+Marketer Documentation
+Get Started.
+Deep Links.
+iOS: ATT & SKAdNetwork.
+Ad Spend & Ad Revenue.
+CTV AdVision.
+Account Settings.
+Integrated Partners.
+Data Protection,  + Manage data collection and retention,  + Manage third-party data sharing,  GDPR: the right to be forgotten,  COPPA compliance,  Google Play Data Safety,  + Fraud Prevention,  Data residency.
+English,  Español,  Français,  Tiếng Việt,  Türkçe,  Русский,  中文,  日本語,  한국어.
+➝ Dashboard,  ➝ Adjust.com.
+Chosen language in the language dropdown is English
+English,  Español,  Français,  Tiếng Việt,  Türkçe,  Русский,  中文,  日本語,  한국어.
+Language switch dropdown
+Tiếng Việt
+Go to Adjust
+Data Protection    •    Google Play Data Safety
+Help Center
+19/3/2023 | https://help.adjust.com
+Google Play Data Safety
+Google Play wants to inform users about how an app collects and shares user data before they download it. To achieve this, each app listing on the store shows information about its privacy and security practices. This information is gathered using the Data safety form in Play Console.
+All developers that have an app published on Google Play need to complete the Data safety form. This includes apps on internal, closed, open, or production testing tracks.
+Google states that  from April 2022, Play Store users can see the Data safety section. From July 20th 2022, privacy policies and approved Data safety forms are required for all app updates and new app submissions.
+Before you begin
+Your answers should follow the Google Play User Data policy and any applicable laws.  You are solely responsible for keeping your responses accurate and up to date. If your practices change, make sure to update your responses in Google Play.
+What you need to know
+We recommend that you review the  Google Play guidelines  and submit your Data safety form as soon as possible. This ensures you can receive feedback and make necessary changes before rejected forms prevent you from publishing new app updates.
+To learn more about Adjust’s privacy practices and end-user options, please see  Adjust’s Privacy Policy  .
+Data collection by Adjust’s SDK
+To complete the Data safety form, you need to know the types of data that you and/or your third-party partners, including Adjust, collect from your app.
+Adjust’s SDK is configurable both in what data we collect on your behalf and how you use that data. This means you are mostly choosing the data Adjust can access in your app based on how you configure and implement Adjust’s SDK code.
+While there is some data that the SDK collects by default, you always have the flexibility to block or limit sending that data to Adjust. Therefore, you need to  identify all possible data types and purposes  applicable to your setup, even if not outlined here or even if the data is collected and used in limited situations.
+Collection by data type
+The following table lists different data types and notes what Adjust collects by default. However, make sure to compare this to your custom configuration of Adjust’s SDK and the data collection practices in your app to confirm that your answers are accurate.
+For example:  Adjust’s SDK does  NOT  collect “Personal Info” by default. However, if your app collects user email addresses (or any other type of Personal Info) and then sends that data to Adjust using custom parameters, then you should answer  Yes  to this field on the form. This is because the Adjust SDK is collecting “Personal Info” you pass to it for your specific app. This includes if the email address is hashed.
+In the table below, you can see what data the Adjust SDK does and does not collect by default. In instances where a data type is marked "Yes" or "Optional", you can find out precisely how the SDK handles this data in the dropdowns beneath.
+How the SDK handles collected data
+Expand all
+[[[{DAT}Purchase history]]]
+[[[{PUR}Purpose of collection and subsequent sharing and use:]]]
+[[[{PUR}For purchase verification, you may use Adjust's purchase verification SDK. In this case, the SDK receives and sends the payload to the Adjust backend for verification]]].
+[[[{PRA}Does the SDK transmit this data off the device?]]]
+[[[{PRA}Does the SDK transfer data to other third parties, including other apps on the user's device?]]]
+[[[{PRA}The SDK never transfers data to other apps on user's device. This may not be the case for partners]]].
+[[[{ENC}Does the SDK encrypt data in transit?]]]
+[[[{ENC}All data is transmitted via HTTPS]]].
+[[[{DEL}Can the app developer and/or users request to delete user data collected?]]]
+[[[{DAT}App activity]]]
+[[[{PUR}Purpose of collection and subsequent sharing and use: [[[{PUR}For session tracking, the Adjust SDK needs to know when an activity resumes & pauses. For this, the SDK keeps track of an app's activity lifecycle concerning only the resume & pause]]].
+[[[{PRA}Does the SDK transmit this data off the device?]]]
+[[[{PRA}Yes. Whenever the Adjust SDK detects a new session, it sends the session package to the Adjust backend]]].
+[[[{PRA}Does the SDK transfer data to other third parties, including other apps on the user's device?]]]
+[[[{PRA}The SDK never transfers data to other apps on user's device. This may not be the case for partners]]].
+[[[{ENC}Does the SDK encrypt data in transit?]]]
+[[[{ENC}All data is transmitted via HTTPS]]].
+[[[{DEL}Can the app developer and/or users request to delete user data collected?]]]
+[[[{DAT}Device or other identifiers]]]
+[[[{PUR}Purpose of collection and subsequent sharing and use:]]]
+[[[{PUR}Adjust needs a unique identifier for attribution. For this purpose, the SDK attempts to read different identifiers on a needs basis. For example:]]]
+[[[{CON}For Google Play services enabled devices, the SDK reads the Google Play services identifier: Google Advertising ID. If this is not available, the SDK reads the Android ID as a fallback]]].
+[[[{CON}For Amazon devices, SDK reads the Fire advertising identifier. If not available, the SDK reads the Android ID as a fallback]]].
+[[[{CON}For other devices the SDK reads the IMEI with the IMEI plugin added or the OAID with the OAID plugin added]]].
+[[[{CON}When a user opts-out via COPPA or Google Kids Play App settings, the SDK does not read any of the above identifiers]]].
+[[[{PRA}Does the SDK transmit this data off the device?]]]
+[[[{PRA}Yes. SDK sends above mentioned IDs with every package it sends to the Adjust backend]]].
+[[[{PRA}Does the SDK transfer data to other third parties, including other apps on the user's device?]]]
+[[[{PRA}The SDK never transfers data to other apps on a user's device. This may not be the case for partners]]].
+[[[{ENC}Does the SDK encrypt data in transit?]]]
+[[[{ENC}All data is transmitted via HTTPS]]].
+[[[{DEL}Can the app developer and/or users request to delete user data collected?]]]
+Data Use by Adjust
+To complete the Data safety form, you need to have a clear understanding of how each data type is being used by you and your third-party partners, including Adjust.
+The following table lists the purposes for which Adjust uses data.
+Data linked to the user
+You need to identify whether each data type is linked to a user’s account, device, or identity by you and/or your third-party partners, including Adjust.
+Adjust may provide the ability for you to associate the data it collects on your behalf with the Advertising ID or other device identifiers, when allowed by Google’s policies. Any associations you might be capable of making with Adjust’s data (e.g. associations to a user’s account or an individual identity) is unique to your app and at its own discretion.
+Google Play Data Safety,  Before you begin,  Data collection by Adjust’s SDK,  Collection by data type,  How the SDK handles collected data,  Data Use by Adjust,  Data linked to the user.
+This website uses cookies
+We use cookies to make it easier to interact with our website and to improve it. We want to better understand how our website is used. You can find out more about our use of cookies in our  Privacy Policy
+Change preferences
+Allow all cookies
+Google Play Data Safety,  Before you begin,  Data collection by Adjust’s SDK,  Collection by data type,  How the SDK handles collected data,  Data Use by Adjust,  Data linked to the user.
+Help us improve by sharing your feedback.

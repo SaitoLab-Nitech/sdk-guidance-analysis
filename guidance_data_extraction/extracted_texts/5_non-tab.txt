@@ -1,0 +1,17 @@
+Sign in
+Welcome to Digital Turbine
+Home,  DT Exchange Publishers Entrance Getting Started Setting-Up DT Exchange Product Overview Welcome to DT Exchange DT Exchange Management API Ad Types and Placement ID SDK Modules Payment and Billing Advanced Configurations Blocking Lists app-ads.txt DT Exchange Publisher info.plist, iOS 14, SKAdNetwork Checklist DT Exchange Test Devices and Ads Privacy GDPR COPPA US Privacy Compliance LGPD Apple's App Privacy Details Google's Data Safety Form Android SDK Configuration Integrating the Android SDK Android Ad Formats Impression Level Data Releasing Ad Instance Resources DT Logging - Android DT Exchange Android Changelog iOS SDK Configuration Integrating the iOS SDK SDK init / ATS DT Exchange SDK iOS Ad Formats Delegate Protocols Impression Level Data DT Logging - iOS iOS 14 Support DT Exchange iOS Changelog Reporting Reporting for Publishers Basic Reporting API User Level Reporting API Mediate DT Exchange Supported DT Exchange SDKs by Mediation Platform Mediating DT Exchange - Android Mediating DT Exchange - iOS Buyers Entrance Getting Started Welcome to DT Exchange Demand Onboarding with DT Exchange Programmatic Mediation DT Exchange SDK bidding Working with Programmatic Mediation Real-Time Bidding Integration for Mediation Partners Ad Request and Response Mechanics Bidding Factors OpenRTB Specifications DT Exchange OpenRTB 2.5 Specs Supported Macros Sample Bid Requests Contextual App Targeting for the Post-IDFA Era SKAdNetwork SKOverlay iOS Click Logic Ad Formats Ad Format Summary HTML Ads MRAID 2.0 VAST and End Cards Playables Rewarded Video Display Interstitial Rewarded Playables Click Options Smartlink Click to Native Browser DT Reporting Using the Reports Buyers Report Integration Bid Loss Notification Gzipping QPS Throttling A/B Testing DSP Test App DT Exchange Demand Test App SKAdNetwork Testing via DSP Test App Best Practices app-ads.txt Demand Content Policy sellers.json and schain Digital Turbine and DV360.
+Digital Turbine
+DT Exchange
+Publishers Entrance
+February 28, 2023 16:53
+Google's Data Safety Form
+Starting July 20, 2022, Google Play has mandated all developers to define which data is collected by their apps, including third-party libraries or SDKs integrated within the apps, in accordance with the Google Play Data Safety section form.
+To assist with meeting this requirement, DT is providing developers with an easy-to-use guide on our data collection practices in the context of Google’s Play Data Safety details requirement. For each data type, we provide guidance if DT collects this data, and if so, how and for what purpose.
+The following tables specify the data that is collected by DT's SDK and can be used to correctly and accurately answer Google’s data safety questionnaire.
+The information provided here is intended to assist DT's customers in answering data on behalf of customers. This information does not represent legal advice and customers are required to work with their own professional advisors to determine exactly if and how Google policies apply to them, as well as adapt responses with the customer's specific use case and configuration in mind.
+Data Collection and Security
+Data Types, Usage and Handling
+Back to Top ⇧
+Table of contents
+Disclaimer,  Data Collection and Security,  Data Types, Usage and Handling,  Location,  Personal Info,  Financial Info,  Health and Fitness,  Messages,  Photos and Videos,  Audio,  Files and Docs,  Calendar,  Contacts,  App Activity,  Web Browsing,  App info and performance,  Device and other identifiers.

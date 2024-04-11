@@ -1,0 +1,10 @@
+project.emulator.get_num_leaks() = 1
+Sources
+[{'clss': 'Lcom/taboola/android/global_components/configuration/TBLConfigManager;',
+  'method': 'getConfigFromRemote(Lcom/taboola/android/global_components/configuration/TBLConfigResponse;)V',
+  'name': ['UUID'],
+  'num': 271,
+  'source_class': 'Ljava/util/UUID;',
+  'source_method': 'toString()Ljava/lang/String;'}]
+Sinks
+[{"smali_tag": "3387_427", "clss": "Lcom/taboola/lightnetwork/protocols/http/HttpRequest;", "method": "performRequest(Lcom/taboola/lightnetwork/protocols/http/HttpManager$NetworkResponse;)V", "num": 427, "sink_class": "Ljava/net/URL;", "sink_method": "<init>(Ljava/lang/String;)V", "sink_values": ["https://cdn.taboola.com/mobile-config/sdk-tester-demo/confV1_0/taboolaConfig.json?ui=tcib2a99-7361-479e-959e-224a821eeec4&appv=1.0&sdkv=3.0.0-22-187c2583-beta&osv=9"], "sources": ["UUID"], "returned_value": null}]

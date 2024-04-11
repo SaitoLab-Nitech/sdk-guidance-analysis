@@ -1,0 +1,356 @@
+[[[{DAT}Contact info]]], [[[{DAT}Name]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The name can be optionally collected to identify chats within Zendesk]]].
+[[[{DAT}Contact info]]], [[[{DAT}Email Address]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The e-mail address can be optionally collected to identify tickets and chats within Zendesk]]].
+[[[{DAT}Contact info]]], [[[{DAT}Phone Number]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The phone number can be optionally collected to identify chats within Zendesk]]].
+[[[{DAT}Contact info]]], [[[{DAT}Physical Address]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other User Contact Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Health and Fitness]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Health]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Fitness]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Financial Info]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Payment Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Credit Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Financial Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Location]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Precise Location]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Coarse Location (location is inferred based on IP address)]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}Location is not resolved on the device, but it is resolved on the backend based on the client's IP address]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Sensitive Info]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Sensitive Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Contacts]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Contacts]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}User Content]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Emails or Text Messages]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Photos or videos]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}Optional. Attachments can be added to users' chats]]].
+[[[{DAT}Contact info]]], [[[{DAT}Documents]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}Optional. Attachments can be added to users' chats]]].
+[[[{DAT}Contact info]]], [[[{DAT}Audio Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}Optional. Attachments can be added to users' chats]]].
+[[[{DAT}Contact info]]], [[[{DAT}Gameplay Content]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Customer Support]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other User Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other User Content]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Browsing History]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Browsing History]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Yes]]]. [[[{PUR}Purpose]]], [[[{PUR}The ‘Visitor Path’ can be set by integrators to list the end user’s recently visited screens before starting a conversation]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Search History]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Search History]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Identifiers]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}User ID]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The user identifier is used to differentiate clients to the chat backend]]].
+[[[{DAT}Contact info]]], [[[{DAT}Device ID]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Yes]]]. [[[{PUR}Purpose]]], [[[{PUR}The 'machine ID' is used to differentiate clients to the chat backend]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Purchases]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Purchase History]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Usage Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Product Interaction (only if mediation partners actively share such data)]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Advertising Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Usage Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Diagnostics]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Crash Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Performance Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Diagnostics Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The SDK's User-Agent header identifies the version of the SDK, the version of the OS, and the type of the SDK]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Other Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Data Types]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Name]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The user name can be optionally collected to identify tickets and chats within Zendesk]]].
+[[[{DAT}Contact info]]], [[[{DAT}Email Address]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The e-mail address can be optionally collected to identify tickets and chats within Zendesk]]].
+[[[{DAT}Contact info]]], [[[{DAT}Phone Number]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Physical Address]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other User Contact Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Health and Fitness]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Health]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Fitness]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Financial Info]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Payment Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Credit Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Financial Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Location]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Precise Location]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Coarse Location (location is inferred based on IP address)]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}Location is not resolved on the device, but it is resolved on the backend based on the client's IP address]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Sensitive Info]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Sensitive Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Contacts]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Contacts]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}User Content]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Emails or Text Messages]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Photos or videos]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Audio Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Gameplay Content]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Customer Support]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other User Info]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}SDKs send an 'Accept-Language' header with the user's selected language]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other User Content]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Browsing History]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Browsing History]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The history of the Answer Bot and end-users messages are retained in a ticket if Answer Bot does not solve the end user's question]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Search History]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Search History]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The history of the Answer Bot and end-users messages are retained in a ticket if Answer Bot does not solve the end user's question]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Identifiers]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}User ID]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The SDK generates a UUID on the client. The UUID is used to identify a user because name and email are optional]]].
+[[[{DAT}Contact info]]], [[[{DAT}Device ID]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Purchases]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Purchase History]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Usage Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Product Interaction (only if mediation partners actively share such data)]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Advertising Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Usage Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Diagnostics]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Crash Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Performance Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Diagnostics Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The SDK's User-Agent header identifies the version of the SDK, the version of the OS, and the type of the SDK]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Other Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Data Types]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Name]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The name can be optionally collected to identify tickets within Zendesk]]].
+[[[{DAT}Contact info]]], [[[{DAT}Email Address]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The e-mail address can be optionally collected to identify tickets within Zendesk]]].
+[[[{DAT}Contact info]]], [[[{DAT}Phone Number]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Physical Address]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other User Contact Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Health and Fitness]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Health]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Fitness]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Financial Info]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Payment Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Credit Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Financial Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Location]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Precise Location]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Coarse Location (location is inferred based on IP address)]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}Location is not resolved on the device, but it is resolved on the backend based on the client's IP address]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Sensitive Info]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Sensitive Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Contacts]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Contacts]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}User Content]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Emails or Text Messages]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Photos or videos]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[PUR}Optional. Attachments can be added to users' requests]]].
+[[[{DAT}Contact info]]], [[[{DAT}Audio Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}Optional. Attachments can be added to users' requests]]].
+[[[{DAT}Contact info]]], [[[{DAT}Gameplay Content]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Customer Support]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The Support SDK is designed to allow end-users to create support requests]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other User Info]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}SDKs send an 'Accept-Language' header with the user's selected language]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other User Content]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Browsing History]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Browsing History]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}Views and searches of Zendesk articles are tracked. This trail is then shown to support agents using Zendesk, so they know which articles the user has already read or searched for]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Search History]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Search History]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}Views and searches of Zendesk articles are tracked. This trail is then shown to support agents using Zendesk, so they know which articles the user has already read or searched for]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Identifiers]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}User ID]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The SDK generates a UUID on the client. The UUID is used to identify a user because name and email are optional]]].
+[[[{DAT}Contact info]]], [[[{DAT}Device ID]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Purchases]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Purchase History]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Usage Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Product Interaction (only if mediation partners actively share such data)]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Advertising Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Usage Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Diagnostics]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Crash Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Performance Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Diagnostics Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The SDK's User-Agent header identifies the version of the SDK, the version of the OS, and the type of the SDK]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Other Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Data Types]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Name]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The name can be optionally collected to identify chats within Zendesk]]].
+[[[{DAT}Contact info]]], [[[{DAT}Email Address]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The e-mail address can be optionally collected to identify tickets and chats within Zendesk]]].
+[[[{DAT}Contact info]]], [[[{DAT}Phone Number]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The phone number can be optionally collected to identify chats within Zendesk]]].
+[[[{DAT}Contact info]]], [[[{DAT}Physical Address]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other User Contact Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Health and Fitness]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Health]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Fitness]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Financial Info]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Payment Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Credit Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Financial Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Location]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Precise Location]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Coarse Location (location is inferred based on IP address)]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}Location is not resolved on the device, but it is resolved on the backend based on the client's IP address]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Sensitive Info]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Sensitive Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Contacts]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Contacts]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}User Content]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Emails or Text Messages]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Photos or videos]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}Optional. Attachments can be added to users' chats]]].
+[[[{DAT}Contact info]]], [[[{DAT}Audio Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}Optional. Attachments can be added to users' chats]]].
+[[[{DAT}Contact info]]], [[[{DAT}Gameplay Content]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Customer Support]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other User Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other User Content]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Browsing History]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Browsing History]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}Views and searches of Zendesk articles are tracked. This trail is then shown to support agents using Zendesk, so they know which articles the user has already read or searched for]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Search History]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Search History]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Identifiers]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}User ID]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Device ID]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The 'machine ID' is used to differentiate clients to the chat backend]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Purchases]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Purchase History]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Usage Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Product Interaction (only if mediation partners actively share such data)]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Advertising Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Usage Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Diagnostics]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Crash Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Performance Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Diagnostics Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The SDK's User-Agent header identifies the version of the SDK, the version of the OS, and the type of the SDK]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Other Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Data Types]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Name]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Email Address]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Phone Number]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Physical Address]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other User Contact Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Health and Fitness]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Health]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Fitness]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Financial Info]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Payment Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Credit Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Financial Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Location]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Precise Location]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Coarse Location (location is inferred based on IP address)]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Sensitive Info]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Sensitive Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Contacts]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Contacts]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}User Content]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Emails or Text Messages]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Photos or videos]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Audio Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Gameplay Content]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Customer Support]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other User Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other User Content]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Browsing History]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Browsing History]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Search History]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Search History]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Identifiers]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}User ID]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Device ID]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Purchases]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Purchase History]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Usage Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Product Interaction (only if mediation partners actively share such data)]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Advertising Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Usage Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Diagnostics]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Crash Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Performance Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Diagnostics Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The SDK's User-Agent header identifies the version of the SDK, the version of the OS, and the type of the SDK]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Other Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Data Types]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Name]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The name can be optionally collected and used as contextual information in conversations with customer support agents]]].
+[[[{DAT}Contact info]]], [[[{DAT}Email Address]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The e-mail address can be optionally collected and used as contextual information in conversations with customer support agents]]].
+[[[{DAT}Contact info]]], [[[{DAT}Phone Number]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The phone number can be optionally collected and used as contextual information in conversations with customer support agents]]].
+[[[{DAT}Contact info]]], [[[{DAT}Physical Address]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other User Contact Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Health and Fitness]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Health]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Fitness]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Financial Info]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Payment Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Credit Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Financial Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Location]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Precise Location]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}Used as contextual information in conversations with customer support agents]]].
+[[[{DAT}Contact info]]], [[[{DAT}Coarse Location (location is inferred based on IP address)]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Sensitive Info]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Sensitive Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Contacts]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Contacts]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}User Content]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Emails or Text Messages]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Photos or videos]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}Optional. Attachments can be added to users' chats]]].
+[[[{DAT}Contact info]]], [[[{DAT}Documents]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}Optional. Attachments can be added to users' chats]]].
+[[[{DAT}Contact info]]], [[[{DAT}Audio Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}Optional. Attachments can be added to users' chats]]].
+[[[{DAT}Contact info]]], [[[{DAT}Gameplay Content]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Customer Support]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other User Info]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other User Content]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Browsing History]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Browsing History]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Search History]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Search History]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Identifiers]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}User ID]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The user identifier is used to differentiate clients to the chat backend]]].
+[[[{DAT}Contact info]]], [[[{DAT}Device ID]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Yes]]]. [[[{PUR}Purpose]]], [[[{PUR}The 'machine ID' is used to differentiate clients to the chat backend]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Purchases]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Purchase History]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Usage Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Product Interaction (only if mediation partners actively share such data)]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Advertising Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Usage Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Diagnostics]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Crash Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Performance Data]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Diagnostics Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Yes]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}No]]]. [[[{PUR}Purpose]]], [[[{PUR}The SDK's User-Agent header identifies the version of the SDK, the version of the OS, and the type of the SDK]]].
+.
+[[[{DAT}Contact info]]], [[[{DAT}Other Data]]]. [[[{PRA}Collected?]]], [[[{PRA}Collected?]]]. [[[{PRA}Used for tracking?]]], [[[{PRA}Used for tracking?]]]. [[[{PUR}Purpose]]], [[[{PUR}Purpose]]].
+[[[{DAT}Contact info]]], [[[{DAT}Other Data Types]]]. [[[{PRA}Collected?]]], [[[{PRA}No]]].

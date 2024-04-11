@@ -1,0 +1,8 @@
+guidance_id = 54
+taint_sources = {'ID'}
+i = 0, taint_source = 'ID', data_types = {'Device and other identifiers', 'Device and other IDs', 'AAID', 'User-ID', 'Device or other IDs', 'installation id', 'Device ID', 'Device and Account identifiers', 'Device IDs or other ID', 'App-instance ID', 'ad id', 'Advertising ID', 'Device identifiers', 'Android ID', 'other identifiers related to signed - in accounts', 'Custom device key', 'Crashlytics installation UUID', 'Firebase installation ID', 'Firebase Android App ID', 'Custom device key - values', 'Device or other identifiers', 'device - level ID', 'Android advertising ( ad ) ID'}
+    practices = [{'PRA': 'Razorpay SDK Guideline,. Yes,. .', 'CON': 'if you have configured to transmit this data to Razorpay'}]
+    sa_result = [{'label': 'POSITIVE', 'score': 0.9978075623512268}]
+    used_text = 'Yes,.'
+    final_result = 'Consistent'
+[NER_EVAL] detection_result = 'Consistent', ans = 'Consistent', True

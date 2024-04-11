@@ -1,0 +1,14 @@
+[[[{DAT}Data Type]]], [[[{DAT}Location]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}RevenueCat does not collect approximate or precise location data, only locale and currency code]]].
+[[[{DAT}Data Type]]], [[[{DAT}Personal info, including name or email address]]]. [[[{PRA}Required?]]], [[[{PRA}💡]]] [[[{CON}If you use subscriber attributes to collect identifiable contact information]]] including [[[{DES}name, email address, phone number, etc]]].
+[[[{DAT}Data Type]]], [[[{DAT}Financial Info]]]. [[[{PRA}Required?]]], [[[{PRA}✅]]] [[[{CON}RevenueCat collects purchase history from users]]].
+[[[{DAT}Data Type]]], [[[{DAT}Health and fitness]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}RevenueCat does not collect health or fitness data from users]]].
+[[[{DAT}Data Type]]], [[[{DAT}Messages]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}RevenueCat does not collect information about emails, SMS/MMS messages, or other in-app messages from users]]].
+[[[{DAT}Data Type]]], [[[{DAT}Photos or videos]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}RevenueCat does not collect photos or videos from user]]].
+[[[{DAT}Data Type]]], [[[{DAT}Audio Files]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}RevenueCat does not collect video, music, or audio files from users]]].
+[[[{DAT}Data Type]]], [[[{DAT}Files and docs]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}RevenueCat does not collect files or docs from users]]].
+[[[{DAT}Data Type]]], [[[{DAT}Calendar]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}RevenueCat does not collect calendar events from users]]].
+[[[{DAT}Data Type]]], [[[{DAT}Contacts]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}RevenueCat does not collect contacts from users]]].
+[[[{DAT}Data Type]]], [[[{DAT}App activity]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}RevenueCat does not collect app activity or other actions performed in the app from users]]].
+[[[{DAT}Data Type]]], [[[{DAT}Web browsing]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}RevenueCat does not collect browsing history from users]]].
+[[[{DAT}Data Type]]], [[[{DAT}App info and performance]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}RevenueCat does not collect crash logs or diagnostics]]].
+[[[{DAT}Data Type]]], [[[{DAT}Device and other identifiers]]]. [[[{PRA}Required?]]], [[[{PRA}💡]]] [[[{CON}If you are using integrations that utilize an advertising identifier, like  gpsAdId  and  androidId]]]  .

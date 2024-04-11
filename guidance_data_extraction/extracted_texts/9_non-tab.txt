@@ -1,0 +1,12 @@
+Knowledge Center
+Download SDK
+Unity,  Android,  iOS,  Adobe Air,  Flutter,  React Native.
+Contact usContact us
+Home, ironSource SDK, Monetization, User acquisition, My account, News and updates.
+CONTACT USCONTACT US
+Home/,  Google’s Data Safety Questionnaire – old.
+Google’s Data Safety Questionnaire - old
+According to Google’s data safety requirement, app developers need to define which data is collected by their apps and SDKs integrated in their apps.
+The following table specifies the data that is collected by the ironSource SDK, and can be used to correctly and accurately answer Google’s data safety questionnaire.
+This information is to be used solely for the purpose of answering Google’s data safety questionnaire, and is not intended to replace the ironSource privacy policy. Developers are requested to read the ironSource privacy policy before integrating the ironSource SDK
+Only data automatically collected by ironSource is described below. This does not include data collected indirectly by the SDK, collected by any third party networks or by analytics SDKs

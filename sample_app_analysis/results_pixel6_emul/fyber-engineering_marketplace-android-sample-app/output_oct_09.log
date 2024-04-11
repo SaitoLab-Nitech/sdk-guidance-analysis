@@ -1,0 +1,6 @@
+project.emulator.get_num_leaks() = 0
+Sources
+[{'clss': 'Lcom/fyber/inneractive/sdk/d/i;', 'method': '<init>()V', 'name': ['UUID'], 'num': 77, 'source_class': 'Ljava/util/UUID;', 'source_method': 'toString()Ljava/lang/String;'},
+ {'clss': 'Lcom/fyber/inneractive/sdk/d/i;', 'method': '<init>()V', 'name': ['UUID'], 'num': 77, 'source_class': 'Ljava/util/UUID;', 'source_method': 'toString()Ljava/lang/String;'}]
+Sinks
+[]

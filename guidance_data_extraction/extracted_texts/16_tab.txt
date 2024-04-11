@@ -1,0 +1,52 @@
+[[[{DAT}Data]]], [[[{DAT}Location]]].
+[[[{DAT}Data]]], [[[{DAT}Approximate Location]]]. [[[{PRA}Collected By Instabug]]], [[[{CON}Derives approximate location information from an IP (can be disabled if the approximate location is not needed on reports)]]].
+[[[{DAT}Data]]], [[[{DAT}Precise Location]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Personal Information]]].
+[[[{DAT}Data]]], [[[{DAT}Name]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No (Not collected by default)]]].
+[[[{DAT}Data]]], [[[{DAT}Email Address]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No (Not collected by default)]]].
+[[[{DAT}Data]]], [[[{DAT}User IDs]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Address]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Phone Number]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Race and Ethnicity]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Political & Religious Beliefs]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Sexual Orientation or Gender Identity]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Other Personal Information]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No (by default Instabug does not collect personal information)]]].
+[[[{DAT}Data]]], [[[{DAT}Financial Information]]].
+[[[{DAT}Data]]], [[[{DAT}User Payment Info]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Purchase History]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Credit Score]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Other Financial Information]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Health and Fitness]]].
+[[[{DAT}Data]]], [[[{DAT}Health information]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Fitness Information]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Messages]]].
+[[[{DAT}Data]]], [[[{DAT}Emails]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}SMS or MMS]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Other in-app messages]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}Not captured automatically (controlled by our  enable/disable  )]]].
+[[[{DAT}Data]]], [[[{DAT}Photos and Videos]]].
+[[[{DAT}Data]]], [[[{DAT}Photos]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}Not captured automatically (controlled by our  Attachments APIs  )]]].
+[[[{DAT}Data]]], [[[{DAT}Videos]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}Not captured automatically (controlled by our  Attachments APIs  )]]].
+[[[{DAT}Data]]], [[[{DAT}Audio Files]]].
+[[[{DAT}Data]]], [[[{DAT}Voice or Sound Recordings]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Music Files]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Other Audio Files]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Files and Docs]]].
+[[[{DAT}Data]]], [[[{DAT}Files and Docs]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Calendar]]].
+[[[{DAT}Data]]], [[[{DAT}Calendar Events]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Contacts]]].
+[[[{DAT}Data]]], [[[{DAT}Contacts]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}App Activity]]].
+[[[{DAT}Data]]], [[[{DAT}App Interactions]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}Yes, controlled by our Repro Steps  enable/disable  API and our User Steps  enable/disable  API]]].
+[[[{DAT}Data]]], [[[{DAT}In-app Search History]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Installed Apps]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Other User-generated Content]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Other Actions]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}Other data is not collected by default]]]. [[[{CON}Other data is only collected if added by the application developer. The content of this field is controlled by the application developer.  Controlling custom data is done via  SDK APIs]]]  .
+[[[{DAT}Data]]], [[[{DAT}Web Browsing]]].
+[[[{DAT}Data]]], [[[{DAT}Web Browsing]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}App Info and Performance]]].
+[[[{DAT}Data]]], [[[{DAT}Crash Logs]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}Yes (controlled by our Crash Reporting  enable/disable  API)]]].
+[[[{DAT}Data]]], [[[{DAT}Diagnostics]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}Yes (controlled by our APM  enable/disable  API and Session Profiler  enable/disable  )]]].
+[[[{DAT}Data]]], [[[{DAT}Other App Performance Data]]]. [[[{PRA}Collected By Instabug]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Device or Other IDs]]].
+[[[{DAT}Data]]], [[[{DAT}Device or Other Identifiers]]]. [[[{PRA}Collected By Instabug]]], [[[{CON}Instabug collects device make and model data, operating system data, cell carrier type were available and application information.  For further details check  Crashes  and  APM]]]  .

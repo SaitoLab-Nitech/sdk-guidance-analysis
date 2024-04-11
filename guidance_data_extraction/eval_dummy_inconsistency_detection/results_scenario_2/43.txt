@@ -1,0 +1,8 @@
+guidance_id = 43
+taint_sources = {'ID'}
+i = 0, taint_source = 'ID', data_types = {'Device and other identifiers', 'Device and other IDs', 'AAID', 'User-ID', 'Device or other IDs', 'installation id', 'Device ID', 'Device and Account identifiers', 'Device IDs or other ID', 'App-instance ID', 'ad id', 'Advertising ID', 'Device identifiers', 'Android ID', 'other identifiers related to signed - in accounts', 'Custom device key', 'Crashlytics installation UUID', 'Firebase installation ID', 'Firebase Android App ID', 'Custom device key - values', 'Device or other identifiers', 'device - level ID', 'Android advertising ( ad ) ID'}
+    practices = [{'PRA': '', 'CON': 'Relevance to NextGen SDK Data Collection Policies,. NextGen SDK collects Ad ID ( Identifier for Advertisers ) when made available by the user per the device settings.'}]
+    sa_result = [{'label': 'POSITIVE', 'score': 0.9892910122871399}]
+    used_text = 'Nextgen sdk collects ad id ( identifier for advertisers ) when made available by the user per the device settings.'
+    final_result = 'Consistent'
+[NER_EVAL] detection_result = 'Consistent', ans = 'Consistent', True

@@ -1,0 +1,59 @@
+[[[{DAT}Data]]], [[[{DAT}Location]]].
+[[[{DAT}Data]]], [[[{DAT}Approximate location]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Precise location]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Personal info]]].
+[[[{DAT}Data]]], [[[{DAT}Name]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Email address]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Personal identifiers]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Address]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Phone number]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Race and ethnicity]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Political or religious beliefs]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Sexual orientation or gender identity]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Other personal info]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Financial Info]]].
+[[[{DAT}Data]]], [[[{DAT}Credit card, debit card, or bank account number]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Purchase history]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Credit info]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Other financial info]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Health and fitness]]].
+[[[{DAT}Data]]], [[[{DAT}Health information]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Fitness information]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Messages]]].
+[[[{DAT}Data]]], [[[{DAT}Emails]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}SMS or MMS messages]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Other in-app messages]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Photos or videos]]].
+[[[{DAT}Data]]], [[[{DAT}Photos]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Videos]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Audio files]]].
+[[[{DAT}Data]]], [[[{DAT}Voice or sound recordings]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Music files]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Other audio files]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Files and docs]]].
+[[[{DAT}Data]]], [[[{DAT}Files and docs]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Calendar]]].
+[[[{DAT}Data]]], [[[{DAT}Calendar events]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Contacts]]].
+[[[{DAT}Data]]], [[[{DAT}Contacts]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}App activity]]].
+[[[{DAT}Data]]], [[[{DAT}Page views and taps in app]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}In-app search history]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Installed apps]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Other user-generated content]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}Other actions]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}Yes]]]. [[[{CON}Breadcrumbs are stored and sent with each event report. You can override which breadcrumbs are captured with Android enabledBreadcrumbTypes. Or, you can amend and delete individual breadcrumbs with an Android onBreadcrumb callback in Android, React Native, and Cocos2d-x projects.  If your application uses React Native or Expo, JavaScript breadcrumbs are additionally captured. You can prevent capture of these with React Native enabledBreadcrumbTypes or Expo enabledBreadcrumbTypes configuration. User interaction and navigation type breadcrumbs are captured for React Native, Unity and Unreal Engine projects. These include details of which selectors are clicked, their text value and the user’s journey through the application, so consider for your app whether these breadcrumbs contain any other types of data. You can amend or remove these using the React Native addOnBreadcrumb, the Unity enabledBreadcrumbTypes or Unreal Engine addOnBreadcrumb configuration options.  Sessions are tracked by default with the BugSnag notifiers. You can disable automatic session tracking for each platform as follows: Android, React Native, Cocos2d-x, Expo, Unity, Unreal Engine]]].
+[[[{DAT}Data]]], [[[{DAT}Web browsing]]].
+[[[{DAT}Data]]], [[[{DAT}Web browsing history]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}No]]].
+[[[{DAT}Data]]], [[[{DAT}App info and performance]]].
+[[[{DAT}Data]]], [[[{DAT}Crash logs]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}Yes]]]. [[[{CON}We also send “internal” crash reports when there is a crash in BugSnag library code. This can be disabled with the telemetry configuration option]]].
+[[[{DAT}Data]]], [[[{DAT}Diagnostics]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}Yes]]].
+[[[{DAT}Data]]], [[[{DAT}Other app performance data]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{PRA}Yes]]]. [[[{CON}BugSnag additionally captures application information by default]]].
+[[[{DAT}Data]]], [[[{DAT}Device or other identifiers]]].
+[[[{DAT}Data]]], [[[{DAT}Device or other identifiers]]]. [[[{PRA}Automatically captured by BugSnag]]], [[[{DAT}User ID]]]. [[[{CON}An overridable unique identifier is generated for the user.id value if no user data is set]]]. [[[{DAT}Device ID]]]. [[[{CON}An overridable unique identifier is generated for the device.id value. Note that the original device ID will still be used in crash reporting internal to the BugSnag SDK]]].
+[[[{PUR}Data purpose]]], [[[{PUR}App functionality]]]. [[[{PUR}Applicable to your use of BugSnag?]]], [[[{PUR}No]]].
+[[[{PUR}Data purpose]]], [[[{PUR}Analytics]]]. [[[{PUR}Applicable to your use of BugSnag?]]], [[[{PUR}Yes. You can use BugSnag to minimize app crashes, and improve stability]]].
+[[[{PUR}Data purpose]]], [[[{PUR}Developer communication]]]. [[[{PUR}Applicable to your use of BugSnag?]]], [[[{PUR}No]]].
+[[[{PUR}Data purpose]]], [[[{PUR}Advertising or marketing]]]. [[[{PUR}Applicable to your use of BugSnag?]]], [[[{PUR}No]]].
+[[[{PUR}Data purpose]]], [[[{PUR}Fraud prevention, security, and compliance]]]. [[[{PUR}Applicable to your use of BugSnag?]]], [[[{PUR}No]]].
+[[[{PUR}Data purpose]]], [[[{PUR}Personalization]]]. [[[{PUR}Applicable to your use of BugSnag?]]], [[[{PUR}No]]].
+[[[{PUR}Data purpose]]], [[[{PUR}Account management]]]. [[[{PUR}Applicable to your use of BugSnag?]]], [[[{PUR}No]]].

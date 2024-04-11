@@ -1,0 +1,8 @@
+guidance_id = 24
+taint_sources = {'ID'}
+i = 0, taint_source = 'ID', data_types = {'Device and other identifiers', 'Device and other IDs', 'AAID', 'User-ID', 'Device or other IDs', 'installation id', 'Device ID', 'Device and Account identifiers', 'Device IDs or other ID', 'App-instance ID', 'ad id', 'Advertising ID', 'Device identifiers', 'Android ID', 'other identifiers related to signed - in accounts', 'Custom device key', 'Crashlytics installation UUID', 'Firebase installation ID', 'Firebase Android App ID', 'Custom device key - values', 'Device or other identifiers', 'device - level ID', 'Android advertising ( ad ) ID'}
+    practices = [{'PRA': 'Data collected by Adjust SDK?,. Yes,. Adjust collects the Device. your', 'CON': 'ID data on. behalf'}]
+    sa_result = [{'label': 'POSITIVE', 'score': 0.9715040326118469}]
+    used_text = 'Id data on.'
+    final_result = 'Inconsistent'
+[NER_EVAL] detection_result = 'Inconsistent', ans = 'Consistent', False

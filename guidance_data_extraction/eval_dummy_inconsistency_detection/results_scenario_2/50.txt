@@ -1,0 +1,8 @@
+guidance_id = 50
+taint_sources = {'ID'}
+i = 0, taint_source = 'ID', data_types = {'Device and other identifiers', 'Device and other IDs', 'AAID', 'User-ID', 'Device or other IDs', 'installation id', 'Device ID', 'Device and Account identifiers', 'Device IDs or other ID', 'App-instance ID', 'ad id', 'Advertising ID', 'Device identifiers', 'Android ID', 'other identifiers related to signed - in accounts', 'Custom device key', 'Crashlytics installation UUID', 'Firebase installation ID', 'Firebase Android App ID', 'Custom device key - values', 'Device or other identifiers', 'device - level ID', 'Android advertising ( ad ) ID'}
+    practices = [{'PRA': 'Required?,. ❌. 4.. + *. 💡', 'CON': 'OneSignal does not collect Google Advertising ID as of OneSignal Android Native SDK. 0. If you configure External User IDs to link identifiers to OneSignal Player IDs.'}]
+    sa_result = [{'label': 'POSITIVE', 'score': 0.9983370304107666}]
+    used_text = '+.'
+    final_result = 'Consistent'
+[NER_EVAL] detection_result = 'Consistent', ans = 'Consistent', True

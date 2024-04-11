@@ -1,0 +1,140 @@
+Libraries and SDKs If your app has libraries or SDKs that transmit data from the user's device, specify this regardless of where the information is sent: to you or to a third-party server.
+WebView If user data is collected in WebView components that are open in your app, report it provided that the app controls the execution of the WebView code or interaction with this component. If the user uses the WebView component to go to a page outside the app, there is no need to report data collection.
+Temporary processing If user data is transmitted from the device and processed temporarily, report it in the form. The information won't be reflected in the data safety section in Google Play if the data is stored only in the server memory and no longer than it is required to execute a certain request in real time. For example, processing data in a weather app that transmits information about the user's location to get weather information. In this case, the data is stored only in memory and is deleted after the request is executed.  Important.  Using data to create advertising or other user profiles can't be considered temporary processing and must be indicated as collection or transmission for the relevant purposes.
+Pseudonymization If data is collected using pseudonymization, specify this in the form. For example, if the pseudonymized data can somehow be linked to the user again, you should report its collection.
+Libraries and SDKs If your app has libraries or SDKs that transmit data from the user's device, specify this regardless of where the information is sent: to you or to a third-party server.
+WebView If user data is collected in WebView components that are open in your app, report it provided that the app controls the execution of the WebView code or interaction with this component. If the user uses the WebView component to go to a page outside the app, there is no need to report data collection.
+Temporary processing If user data is transmitted from the device and processed temporarily, report it in the form. The information won't be reflected in the data safety section in Google Play if the data is stored only in the server memory and no longer than it is required to execute a certain request in real time. For example, processing data in a weather app that transmits information about the user's location to get weather information. In this case, the data is stored only in memory and is deleted after the request is executed.  Important.  Using data to create advertising or other user profiles can't be considered temporary processing and must be indicated as collection or transmission for the relevant purposes.
+Pseudonymization If data is collected using pseudonymization, specify this in the form. For example, if the pseudonymized data can somehow be linked to the user again, you should report its collection.
+Off-device transmission (between servers) For example, user data collected in the app is transmitted from your server to a third-party server.
+Transmission to another app on the device User information is transmitted from your app to another app on the same device. Report this in the data safety section even if the app doesn't send information from the device.
+Transmission from libraries and SDKs The data collected in the app is transmitted directly to a third party through the built-in libraries and/or SDKs.
+Transmission from WebView components opened in the app User data is transmitted to a third party through the WebView component running in the app. Report this if the app controls the execution of the WebView code or interaction with this component. If users use the WebView component to go to a page outside the app, there is no need to make a notice about data transmission.
+Off-device transmission (between servers) For example, user data collected in the app is transmitted from your server to a third-party server.
+Transmission to another app on the device User information is transmitted from your app to another app on the same device. Report this in the data safety section even if the app doesn't send information from the device.
+Transmission from libraries and SDKs The data collected in the app is transmitted directly to a third party through the built-in libraries and/or SDKs.
+Transmission from WebView components opened in the app User data is transmitted to a third party through the WebView component running in the app. Report this if the app controls the execution of the WebView code or interaction with this component. If users use the WebView component to go to a page outside the app, there is no need to make a notice about data transmission.
+Encryption during transmission Specify whether data is encrypted when transmitted from the end user's device to the server. Some apps enable users to send data to third-party sites or services. For example, a messaging app may have the function to send an SMS via a mobile operator that uses other encryption methods. Then the data safety section will indicate that information is transmitted between the user's device and the app servers over a secure connection.
+Deletion request Report whether users can request their data be deleted.
+Encryption during transmission Specify whether data is encrypted when transmitted from the end user's device to the server. Some apps enable users to send data to third-party sites or services. For example, a messaging app may have the function to send an SMS via a mobile operator that uses other encryption methods. Then the data safety section will indicate that information is transmitted between the user's device and the app servers over a secure connection.
+Deletion request Report whether users can request their data be deleted.
+.
+.
+Location Location.1 Location.2.
+Exact location The location of the user or device within an area of less than three square kilometers, for example, a location obtained using the Android permission  ACCESS_FINE_LOCATION  . No  Collecting this data is disabled by default in all SDK versions starting from 5.0.0  The app developer can configure transmission of this data by enabling the  Location tracking  parameter in the  SDK settings  .
+Approximate location The location of the user or device within an area of three square kilometers, for example, the city in which the user is located or a location obtained using the Android permission  ACCESS_COARSE_LOCATION  . No  Collecting this data is disabled by default in all SDK versions starting from 5.0.0  The app developer can configure transmission of this data by enabling the  Location tracking  parameter in the  SDK settings  .
+Location Location.1 Location.2.
+Exact location The location of the user or device within an area of less than three square kilometers, for example, a location obtained using the Android permission  ACCESS_FINE_LOCATION  . No  Collecting this data is disabled by default in all SDK versions starting from 5.0.0  The app developer can configure transmission of this data by enabling the  Location tracking  parameter in the  SDK settings  .
+Approximate location The location of the user or device within an area of three square kilometers, for example, the city in which the user is located or a location obtained using the Android permission  ACCESS_COARSE_LOCATION  . No  Collecting this data is disabled by default in all SDK versions starting from 5.0.0  The app developer can configure transmission of this data by enabling the  Location tracking  parameter in the  SDK settings  .
+Personal information Personal information.1 Personal information.2.
+Name The user's preferred name: first name, last name, or pseudonym. No  The app developer can configure the transmission of this data.
+Email address The user's email address. No  The app developer can configure the transmission of this data.
+User IDs User IDs, such as number, ID, or account name. No  The app developer can configure the transmission of this data.
+Address The user's address, such as their mailing or home address. No  The app developer can configure the transmission of this data.
+Phone number The user's phone number. No  The app developer can configure the transmission of this data.
+Race and ethnicity Information about the user's race or ethnicity. No  The app developer can configure the transmission of this data.
+Political or religious beliefs Information about the user's political or religious beliefs. No  The app developer can configure the transmission of this data.
+Sexual orientation Information about the user's sexual orientation. No  The app developer can configure the transmission of this data.
+Other data Any other personal data, such as date of birth, gender identity, or military status. No  The app developer can configure the transmission of this data.
+Personal information Personal information.1 Personal information.2.
+Name The user's preferred name: first name, last name, or pseudonym. No  The app developer can configure the transmission of this data.
+Email address The user's email address. No  The app developer can configure the transmission of this data.
+User IDs User IDs, such as number, ID, or account name. No  The app developer can configure the transmission of this data.
+Address The user's address, such as their mailing or home address. No  The app developer can configure the transmission of this data.
+Phone number The user's phone number. No  The app developer can configure the transmission of this data.
+Race and ethnicity Information about the user's race or ethnicity. No  The app developer can configure the transmission of this data.
+Political or religious beliefs Information about the user's political or religious beliefs. No  The app developer can configure the transmission of this data.
+Sexual orientation Information about the user's sexual orientation. No  The app developer can configure the transmission of this data.
+Other data Any other personal data, such as date of birth, gender identity, or military status. No  The app developer can configure the transmission of this data.
+Financial data Financial data.1 Financial data.2.
+Payment details Information about the user's financial accounts, for example, credit card number. No  The app developer can configure the transmission of this data.  Automatic data collection for In-App purchases is available as of SDK version 4.0. Can be disabled in the  withRevenueAutoTracking Enabled  method.
+Purchase history Information about the user's purchases and transactions. No  The app developer can configure the transmission of this data.  Automatic data collection for In-App purchases is available as of SDK version 4.0. Can be disabled in the  withRevenueAutoTracking Enabled  method.
+Credit rating Information about the user's credit rating. No  The app developer can configure the transmission of this data.  Automatic data collection for In-App purchases is available as of SDK version 4.0. Can be disabled in the  withRevenueAutoTracking Enabled  method.
+Other financial data Other financial information, such as the user's salary or debts. No  The app developer can configure the transmission of this data.  Automatic data collection for In-App purchases is available as of SDK version 4.0. Can be disabled in the  withRevenueAutoTracking Enabled  method.
+Financial data Financial data.1 Financial data.2.
+Payment details Information about the user's financial accounts, for example, credit card number. No  The app developer can configure the transmission of this data.  Automatic data collection for In-App purchases is available as of SDK version 4.0. Can be disabled in the  withRevenueAutoTracking Enabled  method.
+Purchase history Information about the user's purchases and transactions. No  The app developer can configure the transmission of this data.  Automatic data collection for In-App purchases is available as of SDK version 4.0. Can be disabled in the  withRevenueAutoTracking Enabled  method.
+Credit rating Information about the user's credit rating. No  The app developer can configure the transmission of this data.  Automatic data collection for In-App purchases is available as of SDK version 4.0. Can be disabled in the  withRevenueAutoTracking Enabled  method.
+Other financial data Other financial information, such as the user's salary or debts. No  The app developer can configure the transmission of this data.  Automatic data collection for In-App purchases is available as of SDK version 4.0. Can be disabled in the  withRevenueAutoTracking Enabled  method.
+Health and physical activity Health and physical activity.1 Health and physical activity.2.
+Medical data Information about the user's health, such as medical records or a description of symptoms. No.
+Physical activity data Information about the user's physical activity, such as workouts. No.
+Health and physical activity Health and physical activity.1 Health and physical activity.2.
+Medical data Information about the user's health, such as medical records or a description of symptoms. No.
+Physical activity data Information about the user's physical activity, such as workouts. No.
+Messages Messages.1 Messages.2.
+Email Content, topics, information about the senders and recipients of the user's emails. No.
+SMS or MMS Content and information about the senders and recipients of the user's messages. No.
+Other messages in apps Other types of messages, such as instant messages or chat content. No.
+Messages Messages.1 Messages.2.
+Email Content, topics, information about the senders and recipients of the user's emails. No.
+SMS or MMS Content and information about the senders and recipients of the user's messages. No.
+Other messages in apps Other types of messages, such as instant messages or chat content. No.
+Photos and videos Photos and videos.1 Photos and videos.2.
+Photos User's photos. No.
+Videos User's videos. No.
+Photos and videos Photos and videos.1 Photos and videos.2.
+Photos User's photos. No.
+Videos User's videos. No.
+Audio files Audio files.1 Audio files.2.
+Audio recordings and voice messages Recordings of the user's voice, such as voice messages, or audio recordings. No.
+Music files User's music files. No.
+Other audio files Other audio files created or provided by the user. No.
+Audio files Audio files.1 Audio files.2.
+Audio recordings and voice messages Recordings of the user's voice, such as voice messages, or audio recordings. No.
+Music files User's music files. No.
+Other audio files Other audio files created or provided by the user. No.
+Files and documents Files and documents.1 Files and documents.2.
+Files and documents Documents and other user's files or any information about them, such as file names. No.
+Files and documents Files and documents.1 Files and documents.2.
+Files and documents Documents and other user's files or any information about them, such as file names. No.
+Calendar Calendar.1 Calendar.2.
+Calendar events Information from the user's calendar, such as events, notes to them, and participants. No.
+Calendar Calendar.1 Calendar.2.
+Calendar events Information from the user's calendar, such as events, notes to them, and participants. No.
+Contacts Contacts.1 Contacts.2.
+Contacts Information about the user's contacts, such as their names, the history of correspondence with them, as well as such data as user names, call logs, and information about the time, frequency, and duration of communication. No.
+Contacts Contacts.1 Contacts.2.
+Contacts Information about the user's contacts, such as their names, the history of correspondence with them, as well as such data as user names, call logs, and information about the time, frequency, and duration of communication. No.
+History of actions in the app History of actions in the app.1 History of actions in the app.2.
+Actions in apps Information about how the user interacts with the app, for example, how many times they viewed a page or which sections they visited. No  The app developer can configure the transmission of this data using custom events.
+Search history in the app Information about what the user was searching for in your app. No  The app developer can configure the transmission of this data using custom events.
+Installed apps Information about apps installed on the user's device. No  The app developer can configure the transmission of this data using custom events.
+Other user-generated content Other content generated by the user and not mentioned in any section, such as their biography, notes, or detailed answers. No  The app developer can configure the transmission of this data using custom events.
+Other actions Other user actions in the app that are not mentioned in any section, such as information about games, likes, or selected options in dialog boxes. No  The app developer can configure the transmission of this data using custom events.
+History of actions in the app History of actions in the app.1 History of actions in the app.2.
+Actions in apps Information about how the user interacts with the app, for example, how many times they viewed a page or which sections they visited. No  The app developer can configure the transmission of this data using custom events.
+Search history in the app Information about what the user was searching for in your app. No  The app developer can configure the transmission of this data using custom events.
+Installed apps Information about apps installed on the user's device. No  The app developer can configure the transmission of this data using custom events.
+Other user-generated content Other content generated by the user and not mentioned in any section, such as their biography, notes, or detailed answers. No  The app developer can configure the transmission of this data using custom events.
+Other actions Other user actions in the app that are not mentioned in any section, such as information about games, likes, or selected options in dialog boxes. No  The app developer can configure the transmission of this data using custom events.
+Information about browsing the internet Information about browsing the internet.1 Information about browsing the internet.2.
+Internet search history Information about the sites that the user visited. No.
+Information about browsing the internet Information about browsing the internet.1 Information about browsing the internet.2.
+Internet search history Information about the sites that the user visited. No.
+Information about the app and its operation Information about the app and its operation.1 Information about the app and its operation.2.
+Error reports Data from your app's crash log, such as the number of crashes and stack traces, or other information directly related to errors. No.
+Troubleshooting Information about app performance, such as battery life, load and response time, frame rate, or technical diagnostics data. Yes  AppMetrica can collect battery level data for crash analytics.
+Other app operation data Other app performance information not mentioned here. Yes  AppMetrica can collect additional data. For example, technical information about the device: operating system version, screen type, and other information.
+Information about the app and its operation Information about the app and its operation.1 Information about the app and its operation.2.
+Error reports Data from your app's crash log, such as the number of crashes and stack traces, or other information directly related to errors. No.
+Troubleshooting Information about app performance, such as battery life, load and response time, frame rate, or technical diagnostics data. Yes  AppMetrica can collect battery level data for crash analytics.
+Other app operation data Other app performance information not mentioned here. Yes  AppMetrica can collect additional data. For example, technical information about the device: operating system version, screen type, and other information.
+Device IDs or other IDs Device IDs or other IDs.1 Device IDs or other IDs.2.
+Device IDs or other IDs Device, browser, or app IDs, such as the IMEI code, MAC address, Widevine ID, Firebase version ID, or advertising ID. Yes, if there is user permission.  You can disable the collection of this data in SDK versions 5.0.0 and higher.
+Device IDs or other IDs Device IDs or other IDs.1 Device IDs or other IDs.2.
+Device IDs or other IDs Device, browser, or app IDs, such as the IMEI code, MAC address, Widevine ID, Firebase version ID, or advertising ID. Yes, if there is user permission.  You can disable the collection of this data in SDK versions 5.0.0 and higher.
+Data collection purpose, App functions. Description, Used for app operation. For example, to enable functions or perform user authentication.
+Data collection purpose, Analytics. Description, Used to collect data about how users work with the app and about its performance. For example, you can see how many users selected a certain function, monitor the app status, identify and fix errors and crashes, and improve performance in the future.
+Data collection purpose, Communication with the developer. Description, Used to send news and notifications about you and your app. For example, you can send push notifications about important security updates or new features in the app.
+Data collection purpose, Advertising or marketing. Description, Used to display targeted ads and marketing messages or evaluate the effectiveness of ads. For example, you can place ads in the app, send push notifications to promote other products and services, and forward data to advertising partners.
+Data collection purpose, Fraud prevention, security, and compliance. Description, Used to prevent fraud, ensure security, and comply with legal requirements. For example, you can track errors when logging in to your account and detect suspicious activity.
+Data collection purpose, Personalization. Description, Used to personalize the app: display recommended content or offers. For example, you can recommend playlists based on user preferences or post local news based on their location.
+Data collection purpose, Account management. Description, Used to configure user accounts. For example, to enable users to create accounts, add data to the accounts that you provide for your services, log in to them in the app, and confirm their credentials.
+Data collection purpose, App functions. Description, Used for app operation. For example, to enable functions or perform user authentication.
+Data collection purpose, Analytics. Description, Used to collect data about how users work with the app and about its performance. For example, you can see how many users selected a certain function, monitor the app status, identify and fix errors and crashes, and improve performance in the future.
+Data collection purpose, Communication with the developer. Description, Used to send news and notifications about you and your app. For example, you can send push notifications about important security updates or new features in the app.
+Data collection purpose, Advertising or marketing. Description, Used to display targeted ads and marketing messages or evaluate the effectiveness of ads. For example, you can place ads in the app, send push notifications to promote other products and services, and forward data to advertising partners.
+Data collection purpose, Fraud prevention, security, and compliance. Description, Used to prevent fraud, ensure security, and comply with legal requirements. For example, you can track errors when logging in to your account and detect suspicious activity.
+Data collection purpose, Personalization. Description, Used to personalize the app: display recommended content or offers. For example, you can recommend playlists based on user preferences or post local news based on their location.
+Data collection purpose, Account management. Description, Used to configure user accounts. For example, to enable users to create accounts, add data to the accounts that you provide for your services, log in to them in the app, and confirm their credentials.

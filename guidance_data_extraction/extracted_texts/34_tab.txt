@@ -1,0 +1,38 @@
+[[[{DAT}Category]]], [[[{DAT}Location]]]. [[[{DAT}Data Type]]], [[[{DAT}Approximate location]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Location]]]. [[[{DAT}Data Type]]], [[[{DAT}Precise location]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Personal info]]]. [[[{DAT}Data Type]]], [[[{DAT}Name]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Personal info]]]. [[[{DAT}Data Type]]], [[[{DAT}Email address]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Personal info]]]. [[[{DAT}Data Type]]], [[[{DAT}User IDs]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Personal info]]]. [[[{DAT}Data Type]]], [[[{DAT}Address]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Personal info]]]. [[[{DAT}Data Type]]], [[[{DAT}Phone number]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Personal info]]]. [[[{DAT}Data Type]]], [[[{DAT}Race and ethnicity]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Personal info]]]. [[[{DAT}Data Type]]], [[[{DAT}Political or religious beliefs]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Personal info]]]. [[[{DAT}Data Type]]], [[[{DAT}Sexual orientation]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Personal info]]]. [[[{DAT}Data Type]]], [[[{DAT}Other info]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Financial info]]]. [[[{DAT}Data Type]]], [[[{DAT}User payment info]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Financial info]]]. [[[{DAT}Data Type]]], [[[{DAT}Purchase history]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}Optional]]]. [[[{CON}Additional Comments]]], [[[{CON}You may decide to use Singular to measure some or all purchase events]]].
+[[[{DAT}Category]]], [[[{DAT}Financial info]]]. [[[{DAT}Data Type]]], [[[{DAT}Credit score]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Financial info]]]. [[[{DAT}Data Type]]], [[[{DAT}Other financial info]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Health and fitness]]]. [[[{DAT}Data Type]]], [[[{DAT}Health info]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Health and fitness]]]. [[[{DAT}Data Type]]], [[[{DAT}Fitness info]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Messages]]]. [[[{DAT}Data Type]]], [[[{DAT}Emails]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Messages]]]. [[[{DAT}Data Type]]], [[[{DAT}SMS or MMS]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Messages]]]. [[[{DAT}Data Type]]], [[[{DAT}Other in-app messages]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Photos and videos]]]. [[[{DAT}Data Type]]], [[[{DAT}Photos]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Photos and videos]]]. [[[{DAT}Data Type]]], [[[{DAT}Vidoes]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Audio files]]]. [[[{DAT}Data Type]]], [[[{DAT}Voice or sound records]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Audio files]]]. [[[{DAT}Data Type]]], [[[{DAT}Music files]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Audio files]]]. [[[{DAT}Data Type]]], [[[{DAT}Other audio files]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Files and docs]]]. [[[{DAT}Data Type]]], [[[{DAT}Files and docs]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Calendar]]]. [[[{DAT}Data Type]]], [[[{DAT}Calendar events]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Contacts]]]. [[[{DAT}Data Type]]], [[[{DAT}Contacts]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}App activity]]]. [[[{DAT}Data Type]]], [[[{DAT}App interactions]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}Yes]]]. [[[{CON}Additional Comments]]], [[[{CON}By default, the Singular SDK measures app opens]]].
+[[[{DAT}Category]]], [[[{DAT}App activity]]]. [[[{DAT}Data Type]]], [[[{DAT}In-app search history]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}Optional]]]. [[[{CON}Additional Comments]]], [[[{CON}You may decide to use Singular to measure this data type]]].
+[[[{DAT}Category]]], [[[{DAT}App activity]]]. [[[{DAT}Data Type]]], [[[{DAT}Installed apps]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}App activity]]]. [[[{DAT}Data Type]]], [[[{DAT}Other user-generated content]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}Optional]]]. [[[{CON}Additional Comments]]], [[[{CON}You may decide to use Singular to measure this data type]]].
+[[[{DAT}Category]]], [[[{DAT}App activity]]]. [[[{DAT}Data Type]]], [[[{DAT}Other actions]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}Optional]]]. [[[{CON}Additional Comments]]], [[[{CON}You may decide to use Singular to measure this data type]]].
+[[[{DAT}Category]]], [[[{DAT}Web browsing]]]. [[[{DAT}Data Type]]], [[[{DAT}Web browsing history]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}App info and performance]]]. [[[{DAT}Data Type]]], [[[{DAT}Crash logs]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}App info and performance]]]. [[[{DAT}Data Type]]], [[[{DAT}Diagnostics]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}App info and performance]]]. [[[{DAT}Data Type]]], [[[{DAT}Other app performance data]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}No]]].
+[[[{DAT}Category]]], [[[{DAT}Device or other IDs]]]. [[[{DAT}Data Type]]], [[[{DAT}Device or other IDs]]]. [[[{PRA}Is it collected by Singular?]]], [[[{PRA}Yes]]]. [[[{CON}Additional Comments]]], [[[{CON}Google Advertising ID and App Set ID are collected when permission is granted]]].

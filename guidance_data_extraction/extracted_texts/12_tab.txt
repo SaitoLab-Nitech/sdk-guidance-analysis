@@ -1,0 +1,28 @@
+[[[{DAT}Data Type]]], [[[{DAT}Location]]]. [[[{PRA}Collected]]], [[[{PRA}Shared, Collected]]]. [[[{PUR}Purpose]]], [[[{PUR}Analytics, Fraud prevention, security, and compliance, Personalization, Advertising or marketing]]].
+[[[{DAT}Data Type]]], [[[{DAT}Approximate Location]]]. [[[{PRA}Collected]]], [[[{PRA}Optional]]].
+.
+[[[{DAT}Data Type]]], [[[{DAT}App activity]]]. [[[{PRA}Collected]]], [[[{PRA}Shared, Collected]]]. [[[{PUR}Purpose]]], [[[{PUR}Analytics, Fraud prevention, security, and compliance, Personalization, Advertising or marketing]]].
+[[[{DAT}Data Type]]], [[[{DAT}Page views and taps in app]]]. [[[{PRA}Collected]]], [[[{PRA}Optional]]].
+[[[{DAT}Data Type]]], [[[{DAT}In-app search history]]]. [[[{PRA}Collected]]], [[[{PRA}No]]].
+[[[{DAT}Data Type]]], [[[{DAT}Installed apps]]]. [[[{PRA}Collected]]], [[[{PRA}No]]].
+[[[{DAT}Data Type]]], [[[{DAT}Other user-generated content]]]. [[[{PRA}Collected]]], [[[{PRA}No]]].
+[[[{DAT}Data Type]]], [[[{DAT}Other actions]]]. [[[{PRA}Collected]]], [[[{PRA}Optional]]].
+.
+[[[{DAT}Data Type]]], [[[{DAT}App info and performance]]]. [[[{PRA}Collected]]], [[[{PRA}Shared, Collected]]]. [[[{PUR}Purpose]]], [[[{PUR}Analytics, Fraud prevention, security, and compliance, Personalization, Advertising or marketing]]].
+[[[{DAT}Data Type]]], [[[{DAT}Crash logs]]]. [[[{PRA}Collected]]], [[[{PRA}No]]].
+[[[{DAT}Data Type]]], [[[{DAT}Diagnostics]]]. [[[{PRA}Collected]]], [[[{PRA}No]]].
+[[[{DAT}Data Type]]], [[[{DAT}Other app performance data]]]. [[[{PRA}Collected]]], [[[{PRA}Optional]]].
+.
+[[[{DAT}Data Type]]], [[[{DAT}Device or other identifiers]]]. [[[{PRA}Collected]]], [[[{PRA}Shared, Collected]]]. [[[{PUR}Purpose]]], [[[{PUR}Analytics, Fraud prevention, security, and compliance, Personalization, Advertising or marketing]]].
+[[[{DAT}Data Type]]], [[[{DAT}Device or other identifiers]]]. [[[{PRA}Collected]]], [[[{PRA}Optional]]].
+.
+[[[{DAT}Data Type]]], [[[{DAT}Personal info]]].
+[[[{DAT}Data Type]]], [[[{DAT}Name]]]. [[[{PRA}Collected]]], [[[{PRA}No]]].
+[[[{PRA}Collected]]], [[[{PRA}No*]]]. [[[{CON}Notes]]], [[[{CON}*Email address not collected from device. Please note that offerwall users who submit customer support tickets must provide an email for correspondence about their request]]].
+[[[{DAT}Data Type]]], [[[{DAT}Personal identifiers]]]. [[[{PRA}Collected]]], [[[{PRA}No]]].
+[[[{DAT}Data Type]]], [[[{DAT}Address]]]. [[[{PRA}Collected]]], [[[{PRA}No]]].
+[[[{DAT}Data Type]]], [[[{DAT}Phone number]]]. [[[{PRA}Collected]]], [[[{PRA}No]]].
+[[[{DAT}Data Type]]], [[[{DAT}Race and ethnicity]]]. [[[{PRA}Collected]]], [[[{PRA}No]]].
+[[[{DAT}Data Type]]], [[[{DAT}Political or religious beliefs]]]. [[[{PRA}Collected]]], [[[{PRA}No]]].
+[[[{DAT}Data Type]]], [[[{DAT}Sexual orientation]]]. [[[{PRA}Collected]]], [[[{PRA}No]]].
+[[[{DAT}Data Type]]], [[[{DAT}Other personal info]]]. [[[{PRA}Collected]]], [[[{PRA}No]]].

@@ -1,0 +1,78 @@
+Help Center
+Developer Hub   What's new   Glossary   Training
+English (US)    Español   Français   Bahasa Indonesia   日本語   한국어   Português   Русский   Tiếng Việt   简体中文
+English (US)    Español   Français   Bahasa Indonesia   日本語   한국어   Português   Русский   Tiếng Việt   简体中文
+How can we help?
+Help Center
+Measure & Engage
+Preserve user privacy
+Google safety section form
+Help Center
+Measure & Engage
+Preserve user privacy
+Google safety section form
+Last update: February 15, 2023 22:15
+At a glance  : As of April 2022, app developers are required to complete the Google Play Data safety section form and publish a link to a privacy policy, even if they don’t collect any of the data types specified by Google. This page is intended to provide information to assist you in answering the Google Safety Section Questionnaire, only in relation to what AppsFlyer processes on behalf of customers.
+Customers should work closely with legal and other professional advisors to determine exactly how Google policies apply to them and should adapt their responses in line with their specific configurations and uses.
+Related reading
+To learn more about the Google Play safety form and how to prepare, read these articles: Provide information for the Google Play Data safety section,  Preparing for the Google Play new safety section.
+The information contained in this article is intended to assist in answering the Google Safety Section Questionnaire in relation  only  to what AppsFlyer processes on behalf of customers.
+It is provided for information and convenience purposes only. Customers should work closely with legal and other professional advisors to determine exactly how Google policies apply to them and should adapt their responses in line with their specific configurations and uses.
+As of April 2022, app developers will be required to provide information related to their privacy practices through the Google dedicated safety section. Specifically, app developers will need to provide details on the data they collect, how it is handled and shared, including through their use of any third-party SDKs.
+The information provided by each app will be displayed in the Google store listing helping end-users better understand an app’s privacy practices.
+All app developers will be required to complete the safety section questionnaire and publish a link to a privacy policy even if they do not collect any of the data types specified by Google.
+Google safety form (questionnaire)
+Google has published a form (questionnaire) that app developers will be required to complete. The questionnaire includes the following sections: Data collection and security,  Data types,  Data usage and handling.
+App developers will need to first assess their data collection and handling practices before responding to the questionnaire.
+With respect to the use of AppsFlyer, app developers are reminded that they have full control over how they implement and configure AppsFlyer, including the data collected and how it is used. Therefore, each app developer may have different answers to the questionnaire based on their data practices and use of AppsFlyer.
+App developers must respond to the questionnaire in accordance with their specific use cases, configurations, and partner integrations.
+Data collection and security
+In this section, you will be asked a few general yes/no questions: Does your app collect or share any of the required data types?
+[[[{ENC}Is all of the user data collected by your app encrypted in transit?]]]
+[[[{DEL}Do you provide a way for users to request that their data be deleted?]]]
+[[[{ENC}With respect to your use of AppsFlyer, AppsFlyer encrypts all data in transit that is transmitted through the SDK]]]. [[[{DEL}AppsFlyer also provides customers with the ability to delete specific end-user data through its OpenGDPR framework]]]. For the data types collected, see the table in the  Data types  section.
+Data types
+In this section, you will be asked to select the data types collected and respond to the following: If the data is shared
+Is the data processed ephemerally
+Is the data required or can end-users opt-out
+The purpose
+The following table assumes AppsFlyer software default configurations. App developers are responsible for ensuring that they adapt accordingly in line with their specific configurations and uses.
+“Collected” means data transmitted off of the device by any means (for example, webview, or SDK). An exception is if end-to-end encryption is used making the data unreadable to anyone.
+Data sharing
+“Shared” means the transfer of data to a third party (whether off or on the device).
+Exceptions include the following: Transfers to service providers that process the data on your behalf and per your instructions,  Transfers required for legal purposes (for example, in response to a government request),  End-user action or based on a prominent in-app disclosure and consent,  Anonymous data.
+[[[{CON}It is important to note that while AppsFlyer acts solely as a service provider on your behalf and per your instructions if you are sharing data with third-party networks (for example, through postbacks, SRN’s, and audiences ) this would be deemed sharing. Therefore, each app developer will need to assess his configurations and partner integrations and respond accordingly]]].
+Ephemeral processing
+[[[{EPH}Ephemeral processing refers to data processed in memory, only for the period of time needed to process a specific action in real-time and for no other purpose. Given the nature of the AppsFlyer services, the data processed by AppsFlyer on your behalf is not processed ephemerally]]].
+User choice
+[[[{CON}In general, the data collected is required to perform the services. With that said, app developers have the ability to subject any data collection to opt-in or opt-out controls]]].
+Google has provided a list of purposes from which app developers must choose as detailed in the table that follows. You must identify the relevant purpose.
+Page contents
+Introduction,  Audience,  Google safety form (questionnaire) Data collection and security Data types,  Data sharing,  Ephemeral processing,  User choice,  Purpose.
+Showing results 0–0 out of 0 for: AppsFlyer respects your privacy and values the relationship we have with you as our website user. We use cookies to improve your user experience, website functionality and remarketing purposes. Some of this data may be shared with our selected partners. For more information please see our   cookie policy   . Manage your cookie preferences:   here  .
+Reject all cookies
+Accept all cookies
+Cookie Preference Center
+AppsFlyer uses Cookies to provide, maintain, and improve our websites, to optimize our offerings and marketing activities, and to provide our visitors and users with a better experience, for example, in order to maintain your preferences, to better secure our websites, to identify technical issues, and to monitor and improve the overall performance of our websites.
+More information
+Allow All
+Please select which Cookies you approve, you may choose all options.
+Performance Cookies
+Performance Cookies
+These Cookies provide us with aggregated (anonymous) insights into website enhancement and performance improvement. These cookies allow us to measure and improve the performance of our Sites. They help us know which pages are the most and least popular and see how visitors move around the website.
+Marketing Cookies
+Marketing Cookies
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+Functional Cookies
+Functional Cookies
+These Cookies enable us to provide enhanced functionality and personalization through our Sites and allow for a better user experience. These may be set by us (first-party Cookies) or by third-party providers who work with us (third-party Cookies).
+Back Button
+Performance Cookies
+Search Icon
+Filter Icon
+checkbox label
+Consent   Leg.Interest
+checkbox label
+checkbox label
+checkbox label
+Confirm My Choices

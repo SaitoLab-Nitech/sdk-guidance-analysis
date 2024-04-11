@@ -1,0 +1,9 @@
+[[[{DAT}Data]]], [[[{DAT}IP Address]]]. [[[{CON}Details]]], [[[{DES}Network request sender IP addresses]]].
+[[[{DAT}Data]]], [[[{DAT}User product interactions]]]. [[[{CON}Details]]], [[[{DES}Counting requests, impressions, viewability and clicks data]]].
+[[[{DAT}Data]]], [[[{DAT}Diagnostic information]]]. [[[{CON}Details]]], [[[{CON}Collecting sampled and anonymous information related to the performance of your app and the SDK]]] [[[{DES}such as crash logs]]].
+[[[{DAT}Data]]], [[[{DAT}Device and Account identifiers]]]. [[[{CON}Details]]], [[[{CON}Collects  Android advertising (ad) ID]]].
+[[[{DAT}Data]]], [[[{DAT}Device and App information]]]. [[[{CON}Details]]], [[[{DES}Bundle ID, Taboola SDK type and version, connection type (wifi/cellular), Device Model | OS and version, App name, locale, estimated location (Optional)]]]. [[[{CON}Taboola SDK does not engage or performs any fingerprinting activity with this information]]].
+Action Details.
+[[[{ENC}Data encryption]]] [[[{ENC}For the collected end-user data listed on this page, Taboola encrypts the data in transit using HTTPS]]].
+Data sharing For the collected end-user data listed on this page, Taboola does not transfer this data to third parties except as outlined in Taboola's  privacy policy.
+[[[{DEL}Data deletion]]] [[[{DEL}Taboola allows end-users to delete personal data collected through the  Data Access Portal]]].

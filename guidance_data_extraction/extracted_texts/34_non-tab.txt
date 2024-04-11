@@ -1,0 +1,72 @@
+Request a Demo,  Sign in,  English (US) Español (Latinoamérica) 日本語 한국어 Português do Brasil 简体中文.
+Singular Help Center
+Singular SDK and S2S
+Submitting the Google Play Data Safety Section Form
+Subscribe for email updates
+Jonathan Chen
+November 25, 2022
+In this article: Before You Begin
+Completing the Form
+Data Collection and Security
+Data Types
+Data Sharing
+Singular Help Center: Setup and Configuration
+Reports and Dashboards
+Attribution and Singular Links
+iOS 14+ and SKAdNetwork
+Ad Monetization and Ad Revenue Attribution
+Benchmarks, Alerts, and Audiences
+Fraud Prevention
+Singular Data Destinations (ETL)
+Singular API
+Singular SDK and S2S
+Integrating a Singular SDK: Planning and Prerequisites
+Submitting App Privacy Details (Nutrition Labels) to the App Store
+Submitting the Google Play Data Safety Section Form
+Built-In Events
+Setting Up Android Uninstall Tracking
+Setting Up iOS Uninstall Tracking
+Uninstall Tracking - (APNS) Apple Push Notification Service
+Using the Facebook SDK and Singular SDK/S2S in the Same App
+SDK Opt-In and Opt-Out Practices
+Known Issues
+Kids Apps SDKs
+Cordova SDK
+Flutter SDK
+Customer Data Platform (CDP) Integrations
+Singular iOS SDK
+Singular Android SDK
+Singular Unity SDK
+Singular React Native SDK
+Singular Unreal Engine SDK
+Server-to-Server (S2S) Integrations
+Testing Your SDK Integration
+Product Updates
+Information for Singular Partners
+Starting April, 2022, data safety and privacy practices information will be shown in Google Play app store listings to help users understand how apps collect and share user data.
+This guide will help you to submit information about your Singular-integrated app.
+For more information, see Google's article on  providing information for Google Play's data safety section  .
+Background: Why is This Required?
+Google has updated the app submission process so that end-users can learn about each app's privacy practices before they decide whether to download it. Privacy information includes any types of data the app may collect and whether that data is used to track the user.
+When you submit a new app or an app update, you will be required to fill a Google Play data safety section form questionnaire related to your app's data and privacy practices - including the practices of any third-party vendors whose code is integrated into your app, such as Singular.
+Important: Guidelines on this page do not constitute legal advice you may need your legal and privacy teams to provide.
+Before You Begin
+Keep the following in mind: Singular and the Singular SDK are configurable in terms of the data you send us and how we use it. Make sure you're using Singular's latest SDK version, and identify the types of data that you've configured Singular to receive before answering the questionnaire.  The form covers all privacy-related data collections and uses, not only the ones applicable to the Singular SDK.  Your app’s privacy practices must follow the Google Play Store app guidelines and all applicable laws.  Going forward, if you make changes to the data you collect, you will have to update your responses in Google Play accordingly.
+Completing the Form
+Data Collection and Security
+You will be asked if your app collects or shares any of the required user data types. “Collection” is defined as transmitting data off of the user’s device. This includes SDKs, webviews, and ephemeral data. Ephemeral data does not need to be disclosed if it is only stored in memory and retained for no longer than necessary to service the request in real-time.
+Data collection that does not need to be disclosed, is data used for: On-device access/process,  End-to-end encrypted data that is not readable by any intermediary entity, including the developer.
+If you select yes, you will be asked to confirm the following.
+Whether or not all of the user data collected by your app is encrypted in transit,  Whether or not you provide a way for users to request that their data is deleted.
+As it relates to the data collected by Singular: [[[{ENC}All data is encrypted in transit]]],  [[[{DEL}User’s data can be requested to be deleted via Singular’s GDPR API]]] .  [[[{EPH}Data processed by Singular is not considered ephemeral]]].
+Data Types
+In the next sections, you will need to select all of the user data types collected or shared by your app.
+For each data type collected you will need to answer: If the data is shared,  How the data is handled, ie. optional or required.
+[[[{CON}The following table describes the default data collection behavior of the Singular SDK which you can reference when compiling your answers. Note that almost all data collected by Singular is optional, and subject to app developers choice, including providing opt-in or opt-out options for users]]].
+Data Sharing
+Data sharing is defined as user data collected from your app to a third party, including: Off-device server-to-server transfers,  On-device transfer to another app,  From app libraries and SDKs,  From webviews opened through your app.
+Data sharing excludes: Data transferred to a “service provider” that processes user data on behalf of the developer based on the developer’s instructions,  Legal purposes,  User-initiated action or prominent disclosure and user consent,  Anonymized data.
+As it relates to the data shared with Singular, Singular provides services as a “service provider”. However as Singular provides services to share data with other third parties (ad networks, third party BI tools), data could be shared based on the configured partner integrations within Singular’s platform. The app developer should consult the team managing these Singular integrations]]].
+Singular Help Center
+Privacy Policy   Terms   COPPA Privacy Notice
+© Singular 2021

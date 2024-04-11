@@ -1,0 +1,14 @@
+guidance_id = 48
+taint_sources = {'ID'}
+i = 0, taint_source = 'ID', data_types = {'Advertising ID', 'Device identifiers', 'Device and Account identifiers', 'other identifiers related to signed - in accounts', 'Android ID', 'Device and other IDs', 'Firebase installation ID', 'device - level ID', 'Device or other IDs', 'Firebase Android App ID', 'Custom device key - values', 'ad id', 'Crashlytics installation UUID', 'Device ID', 'Device and other identifiers', 'App-instance ID', 'Android advertising ( ad ) ID.', 'installation id', 'AAID', 'Device or other identifiers', 'Device IDs or other ID', 'Custom device key', 'User-ID'}
+    practices = [{'PRA': "A } MyTracker data collection ( default configuration ) ',", 'CON': ''}, {'PRA': '', 'CON': ''}, {'PRA': '', 'CON': ''}]
+    sa_result = [{'label': 'NEGATIVE', 'score': 0.9884705543518066}]
+    used_text = "A } mytracker data collection ( default configuration ) ',."
+    final_result = 'Inconsistent'
+    sa_result = None
+    used_text = None
+    final_result = 'Consistent'
+    sa_result = None
+    used_text = None
+    final_result = 'Consistent'
+[NER_EVAL] detection_result = 'Consistent', ans = 'Consistent', True

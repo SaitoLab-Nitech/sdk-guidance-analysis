@@ -1,0 +1,39 @@
+[[[{DAT}Datapoint]]], [[[{DAT}Google Advertising ID]]]. [[[{DES}Description]]], [[[{DES}Google Play Store advertising identifier]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Amazon Fire Advertising ID]]]. [[[{DES}Description]]], [[[{DES}Amazon advertising identifier]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Android ID]]]. [[[{DES}Description]]], [[[{DES}Android identifier]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Huawei Advertising ID]]]. [[[{DES}Description]]], [[[{DES}Huawei advertising identifier]]].
+[[[{DAT}Datapoint]]], [[[{DAT}IDFA]]]. [[[{DES}Description]]], [[[{DES}Apple’s identifier for advertisers. The IDFA is automatically redacted as of iOS 14.5 if ATT authorization has not been granted]]].
+[[[{DAT}Datapoint]]], [[[{DAT}IDFV]]]. [[[{DES}Description]]], [[[{DES}Apple’s identifier for vendors]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Apple Search Ads Results]]]. [[[{DES}Description]]], [[[{DES}Apple Search Ads attribution results]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Install Receipt]]]. [[[{DES}Description]]], [[[{DES}The install receipt, which is used for validation]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Facebook Attribution ID]]]. [[[{DES}Description]]], [[[{DES}Facebook’s internal attribution identifier]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Kochava Device ID]]]. [[[{DES}Description]]], [[[{DES}Kochava’s internal identifier, which is scoped to the current install, rather than the device]]].
+[[[{DAT}Datapoint]]], [[[{DAT}User Agent]]]. [[[{DES}Description]]], [[[{DES}The user agent of the device]]].
+[[[{DAT}Datapoint]]], [[[{DAT}App Name]]]. [[[{DES}Description]]], [[[{DES}The name of the app]]].
+[[[{DAT}Datapoint]]], [[[{DAT}App Package/Bundle]]]. [[[{DES}Description]]], [[[{DES}The Bundle ID or package name of the app]]].
+[[[{DAT}Datapoint]]], [[[{DAT}App Version]]]. [[[{DES}Description]]], [[[{DES}App version string(s)]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Notifications Enabled]]]. [[[{DES}Description]]], [[[{DES}Whether notifications are enabled for the app]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Installer Package]]]. [[[{DES}Description]]], [[[{DES}The provider of the app installation (Android only)]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Date of Install from Store]]]. [[[{DES}Description]]], [[[{DES}The date the app was installed (Android only)]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Architecture]]]. [[[{DES}Description]]], [[[{DES}The device architecture]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Battery Level]]]. [[[{DES}Description]]], [[[{DES}The current battery level]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Boot Time]]]. [[[{DES}Description]]], [[[{DES}When the device was last booted]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Battery Status]]]. [[[{DES}Description]]], [[[{DES}The status of the battery]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Cellular Carrier Name]]]. [[[{DES}Description]]], [[[{DES}The cellular carrier name]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Cellular Type]]]. [[[{DES}Description]]], [[[{DES}The cellular carrier type]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Device Type]]]. [[[{DES}Description]]], [[[{DES}The device model]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Display Width]]]. [[[{DES}Description]]], [[[{DES}The display width in pixels]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Display Height]]]. [[[{DES}Description]]], [[[{DES}The display height in pixels]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Locale Setting]]]. [[[{DES}Description]]], [[[{DES}The chosen locale setting]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Language Setting]]]. [[[{DES}Description]]], [[[{DES}The chosen language setting]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Network Is Metered]]]. [[[{DES}Description]]], [[[{DES}Whether the network is metered]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Network SSID]]]. [[[{DES}Description]]], [[[{DES}The SSID]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Network BSSID]]]. [[[{DES}Description]]], [[[{DES}The BSSID]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Orientation]]]. [[[{DES}Description]]], [[[{DES}The device orientation]]].
+[[[{DAT}Datapoint]]], [[[{DAT}OS Version]]]. [[[{DES}Description]]], [[[{DES}The version of the device OS]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Platform]]]. [[[{DES}Description]]], [[[{DES}The platform of the device]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Screen DPI]]]. [[[{DES}Description]]], [[[{DES}The screen DPI]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Screen Inches]]]. [[[{DES}Description]]], [[[{DES}The screen size]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Screen Brightness]]]. [[[{DES}Description]]], [[[{DES}The current screen brightness]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Signal Bars]]]. [[[{DES}Description]]], [[[{DES}The current cellular signal bars]]].
+[[[{DAT}Datapoint]]], [[[{DAT}Timezone]]]. [[[{DES}Description]]], [[[{DES}The chosen timezone setting]]].

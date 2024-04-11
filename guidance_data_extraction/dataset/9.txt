@@ -1,0 +1,7 @@
+Data Type, Approximate location (IP address). Purpose, Analytics Advertising or marketing Fraud prevention, security, and compliance. Required/Optional, Required. Transmitted Off the Device, Yes. Shared with Other Third Parties, Yes.
+Data Type, Diagnostics. Purpose, Analytics Advertising or marketing Fraud prevention, security, and compliance. Required/Optional, Required. Transmitted Off the Device, Yes. Shared with Other Third Parties, No.
+Data Type, Other actions (interaction with ads). Purpose, Analytics Advertising or marketing Fraud prevention, security, and compliance. Required/Optional, Required. Transmitted Off the Device, Yes. Shared with Other Third Parties, Yes.
+Data Type, Device or other identifiers. Purpose, Analytics Advertising or marketing Fraud prevention, security, and compliance. Required/Optional, Optional. Transmitted Off the Device, Yes. Shared with Other Third Parties, Yes.
+.
+Data Type, Encryption in transit. Purpose, Yes. Required/Optional, Yes. Transmitted Off the Device, Yes. Shared with Other Third Parties, Yes.
+Data Type, Support in deletion requests. Purpose, Yes. Required/Optional, Yes. Transmitted Off the Device, Yes. Shared with Other Third Parties, Yes.

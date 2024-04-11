@@ -1,0 +1,330 @@
+Jump to Content
+Journeys   Users   SDK   Integrations
+Guides       Server REST API Reference
+Journeys   Users   SDK   Integrations   Log In   Sign Up
+Log In   Sign Up
+Guides       Server REST API Reference
+Getting Started
+Onboarding With OneSignal
+Mobile Quickstart
+iOS SDK Setup
+Android SDK Setup
+Unity SDK Setup
+React Native SDK Setup
+Expo SDK Setup
+Flutter SDK Setup
+Ionic & Capacitor SDK Setup
+Cordova SDK Setup
+Xamarin SDK Setup
+.NET SDK Setup
+macOS App Setup
+Windows App SDK Setup
+Huawei SDK Setup
+Huawei Unity SDK Setup
+Huawei React Native SDK Setup
+Huawei Flutter SDK Setup
+Huawei Xamarin SDK Setup
+Huawei Cordova SDK Setup
+Amazon SDK Setup
+Web Quickstart
+Angular Setup
+React JS Setup
+Vue JS Setup
+WordPress Setup
+Local Testing
+Custom Code Setup
+Shopify App Setup
+Webflow Setup
+Blogger Setup
+Magento Setup
+Bubble Setup
+Squarespace Setup
+Weebly Setup
+Drupal Setup
+Joomla Setup
+Wix Setup
+Third-Party Setup Support
+Google Tag Manager
+AMP Web Push Setup
+Legacy Shopify Setup
+SMS Quickstart
+Twilio Setup
+Email Quickstart
+OneSignal Email Setup
+Mailgun Setup
+SendGrid Setup
+Mailchimp Setup
+In-App Messages Quickstart
+Live Activities Quickstart
+Users & Segments
+External User IDs
+Find Devices & Set Test Users
+Delete Users
+Sending Messages
+Automated Messages
+Frequency Capping
+Language & Localization
+Retargeting Messages
+Data and Security
+Data Collected by the OneSignal SDK
+Handling Personal Data
+Apple App Privacy Requirements
+Google Play Data Safety Requirements
+Identity Verification
+GDPR & Individual Rights
+Privacy Policy
+Terms of Use
+Data Tags
+Set Tags: Tracking User Events and Attributes
+Importing User Attributes or Data Tags
+Bulk Updating User Attributes or Data Tags
+Message Personalization
+Tags: Time Operators
+Example: Abandoned Cart
+Example: Tag with Subscription Page
+Example: Tag with Notification Data
+Example: Tag Page Visits
+Tags FAQ
+Message Personalization
+Using Liquid Syntax
+Multi-language Messaging
+Delivery: Message Reports
+Push Notification Message Reports
+Notification CTR
+Email Message Reports
+SMS Message Reports
+Confirmed Deliveries
+Web Push Webhooks
+Journeys Examples
+Journeys Webhooks
+A/B Testing
+Push A/B Testing
+Email A/B Testing
+Experimentation Best Practices
+Account Management
+Exporting Data
+Apps & Organizations
+Disabled Apps & Orgs
+Manage Team Members
+Keys & IDs
+Two-Step Authentication
+Billing FAQ
+Channels Overview
+Mobile Push Notifications
+Service Extensions
+URLs, Links and Deep Links
+Images & Rich Media
+Notification Sounds
+Action Buttons
+Remove Notifications and TTL
+Notification Grouping
+Location-Triggered Notifications
+Android Customizations
+Android 13 Push Notification Developer Update Guide
+Android: Notification Icons
+Android: Notification Channel Categories
+Android: Firebase Credentials
+Huawei: Authorizing OneSignal
+iOS Customizations
+iOS: Provisional Push Notifications
+iOS: Image Carousel Push Notifications
+iOS: Focus Modes and Interruption Levels
+iOS: Relevance Score
+iOS: SDK App Groups setup
+iOS: Establishing a Connection to APNs
+iOS: p8 Token-Based Connection to APNs
+iOS: p12 Generate Certificates
+iOS: App Clip Support
+Example: Create Activity Feed
+Example: User-User Messages
+Example: Social Activities
+Data & Background Notifications
+VoIP Notifications
+watchOS & Wear OS Support
+Web Push Notifications
+OneSignal Service Worker
+Mobile Web Push for iOS/iPadOS
+Web Application Manifest
+Prompt Localization
+Slide Prompt
+Category Prompt
+Email & Phone Number Web Prompt
+Bell Prompt
+Custom Link Prompt
+HTTP PopUp Prompt
+Native Browser Prompt
+Web Push Icons & Images
+Advanced Options
+Unsubscribe from Web Notifications
+Web Push Topic & Collapsing
+WordPress Customizations
+Shopify App Overview
+FAQ: Safari Web Push
+FAQ: Shopify App
+FAQ: Clearing Cookies
+FAQ: HTTP vs. HTTPS
+FAQ: Browser Behavior
+Use Cases & Best Practices
+News or Media Site Best Practices
+Ecommerce Best Practices
+Getting Your Audience to "Add to Home Screen"
+In-App Messages
+Design In-App Messages with Drag and Drop
+Design In-App Messages with HTML
+In-App Message HTML Templates
+In-App JS Library
+Analytics of In-App Message
+How to make a Carousel
+How to add Click Actions
+How to add Triggers
+How to Prompt for Push Permissions with In-App Messages
+How to Prompt for Location Tracking
+Example: Ask for App Store Rating
+Example: App Version Update
+Example: Personalize In-App Messages
+Example: In-App Message Tutorial
+Example: Create A Survey
+Example: Target Certain Android Manufacturers and Devices
+Example: Trigger In-App Message from Push Open
+Example: Trigger In-App Message after closing an In-App Message
+Email Messaging
+Import Email Addresses
+Sending Email Messages
+Setup a Custom Sender Domain
+Designing Emails with Drag and Drop
+Designing Emails with HTML
+Email Warm-Up
+Email Links and Click Tracking
+Unsubscribe Links & Email Subscriptions
+Send Transactional Emails
+Email Regulatory Compliance
+Email Acceptable Use Policy & Code of Conduct
+SMS Messaging
+Import Phone Numbers
+Sending SMS Messages
+Using SMS as a Fallback Option for Push Notifications
+Live Activities
+How to Create and Update iOS Live Activities
+Maximizing Live Activity Engagement
+Video: Live Activities Office Hours
+Video: Live Activities as New Messaging Channel
+Live Activities: FAQ
+Integrations Overview
+CDP & User Data Integrations
+Adobe Audience Manager
+Database, DMP, & CRM Integration
+Segment.com Integration
+Analytics Integrations
+Google Analytics
+Google Analytics for Firebase
+Workflow Automation Integrations
+Locations & Subscription Integrations
+CMS & App Builders Integrations
+Developer Reference
+User Model Beta Overview
+Client SDK Reference
+SDK Notification Event Handlers
+OSNotification Payload
+In-App Message SDK Methods
+Data Tag SDK Methods
+Web SDK Methods
+SMS SDK Methods
+Email SDK Methods
+Updating Mobile SDK's - Major Release
+Server SDK Reference
+.NET Client SDK
+CPP Client SDK
+Go Client SDK
+Java Client SDK
+Node Client SDK
+PHP Client SDK
+Python Client SDK
+Ruby Client SDK
+Ruby On Rails Plugin
+Rust Client SDK
+REST API Overview
+REST API Reference
+REST API Requirements and FAQ
+Rate Limits
+Idempotent Notification Requests
+Transactional Messages
+Using Postman
+Mobile Troubleshooting
+Notifications Not Shown - Mobile Push
+Notification Images Not Showing
+Duplicated Notifications
+Notifications Delayed
+Troubleshooting Android
+Troubleshooting iOS
+Troubleshooting Unity
+Troubleshooting React-Native
+Troubleshooting Flutter
+Troubleshooting Cordova Variants
+Troubleshooting Xamarin
+Mismatched Push Certificate
+Mismatched User Environment
+Mismatched Bundle ID
+Android Mismatched Users
+Bundle / Certificate Mismatch
+Invalid Push Certificate
+Invalid Google Credentials
+Invalid Amazon Credentials
+No Subscribers Troubleshooting
+Handling Multiple Push Providers
+Web Push Troubleshooting
+Web Push FAQ
+Domain Management
+WordPress Troubleshooting
+Notifications Not Shown - Web Push
+Clearing Cache and Resetting Push Permissions
+In-App Message Troubleshooting
+Why IAM Data Not Updating?
+Duplicated In-App Messages
+SMS Troubleshooting
+Email FAQ & Troubleshooting
+Why Emails Not Showing?
+Webhooks & Why Email Stats Not Detected?
+How to improve email deliverability and lower bounce rate?
+DMARC & Sender Email Address
+What is DNS Authentication?
+Journeys Troubleshooting
+Capturing a Debug Log
+Server REST API Reference
+Start typing to search…
+Getting Started
+Onboarding With OneSignal,  Mobile Quickstart iOS SDK Setup Android SDK Setup Unity SDK Setup React Native SDK Setup Expo SDK Setup Flutter SDK Setup Ionic & Capacitor SDK Setup Cordova SDK Setup Xamarin SDK Setup .NET SDK Setup macOS App Setup Windows App SDK Setup Huawei SDK Setup Huawei Unity SDK Setup Huawei React Native SDK Setup Huawei Flutter SDK Setup Huawei Xamarin SDK Setup Huawei Cordova SDK Setup Amazon SDK Setup,  Web Quickstart Angular Setup React JS Setup Vue JS Setup WordPress Setup Local Testing Custom Code Setup Shopify App Setup Webflow Setup Blogger Setup Magento Setup Bubble Setup Squarespace Setup Weebly Setup Drupal Setup Joomla Setup Wix Setup Third-Party Setup Support Google Tag Manager AMP Web Push Setup Legacy Shopify Setup,  SMS Quickstart Twilio Setup,  Email Quickstart OneSignal Email Setup Mailgun Setup SendGrid Setup Mailchimp Setup,  In-App Messages Quickstart,  Live Activities Quickstart.
+Users & Segments Segments External User IDs Find Devices & Set Test Users Delete Users,  Sending Messages Automated Messages Templates Drafts Frequency Capping Throttling Language & Localization Retargeting Messages,  Data and Security Data Collected by the OneSignal SDK Handling Personal Data Apple App Privacy Requirements Google Play Data Safety Requirements Identity Verification GDPR & Individual Rights Privacy Policy Terms of Use,  Data Tags Set Tags: Tracking User Events and Attributes Importing User Attributes or Data Tags Bulk Updating User Attributes or Data Tags Message Personalization Tags: Time Operators Example: Abandoned Cart Example: Tag with Subscription Page Example: Tag with Notification Data Example: Tag Page Visits Tags FAQ,  Message Personalization Using Liquid Syntax Multi-language Messaging,  Analytics Delivery: Message Reports Push Notification Message Reports Notification CTR Email Message Reports SMS Message Reports Outcomes Confirmed Deliveries Web Push Webhooks,  Journeys Journeys Examples Journeys Webhooks,  A/B Testing Push A/B Testing Email A/B Testing Experimentation Best Practices,  Account Management Exporting Data Apps & Organizations Disabled Apps & Orgs Manage Team Members Keys & IDs Two-Step Authentication Billing FAQ.
+Channels Overview,  Mobile Push Notifications Service Extensions URLs, Links and Deep Links Images & Rich Media Badges Notification Sounds Action Buttons Remove Notifications and TTL Notification Grouping Location-Triggered Notifications Android Customizations Android 13 Push Notification Developer Update Guide Android: Notification Icons Android: Notification Channel Categories Android: Firebase Credentials Huawei: Authorizing OneSignal iOS Customizations iOS: Provisional Push Notifications iOS: Image Carousel Push Notifications iOS: Focus Modes and Interruption Levels iOS: Relevance Score iOS: SDK App Groups setup iOS: Establishing a Connection to APNs iOS: p8 Token-Based Connection to APNs iOS: p12 Generate Certificates iOS: App Clip Support Example: Create Activity Feed Example: User-User Messages Example: Social Activities Data & Background Notifications VoIP Notifications watchOS & Wear OS Support,  Web Push Notifications OneSignal Service Worker Mobile Web Push for iOS/iPadOS Web Application Manifest Prompting Prompt Localization Slide Prompt Category Prompt Email & Phone Number Web Prompt Bell Prompt Custom Link Prompt HTTP PopUp Prompt Native Browser Prompt Web Push Icons & Images Advanced Options Unsubscribe from Web Notifications Web Push Topic & Collapsing WordPress Customizations Shopify App Overview FAQ: Safari Web Push FAQ: Shopify App FAQ: Clearing Cookies FAQ: HTTP vs. HTTPS FAQ: Browser Behavior Use Cases & Best Practices News or Media Site Best Practices Ecommerce Best Practices Getting Your Audience to "Add to Home Screen",  In-App Messages Design In-App Messages with Drag and Drop Design In-App Messages with HTML In-App Message HTML Templates In-App JS Library Analytics of In-App Message How to make a Carousel How to add Click Actions How to add Triggers How to Prompt for Push Permissions with In-App Messages How to Prompt for Location Tracking Example: Ask for App Store Rating Example: App Version Update Example: Personalize In-App Messages Example: In-App Message Tutorial Example: Create A Survey Example: Target Certain Android Manufacturers and Devices Example: Trigger In-App Message from Push Open Example: Trigger In-App Message after closing an In-App Message,  Email Messaging Import Email Addresses Sending Email Messages Setup a Custom Sender Domain Designing Emails with Drag and Drop Designing Emails with HTML Email Warm-Up Email Links and Click Tracking Unsubscribe Links & Email Subscriptions Send Transactional Emails Email Regulatory Compliance Email Acceptable Use Policy & Code of Conduct,  SMS Messaging Import Phone Numbers Sending SMS Messages Using SMS as a Fallback Option for Push Notifications,  Live Activities How to Create and Update iOS Live Activities Maximizing Live Activity Engagement Video: Live Activities Office Hours Video: Live Activities as New Messaging Channel Live Activities: FAQ.
+Integrations Overview,  CDP & User Data Integrations Adobe Audience Manager Amplitude BlueConic Blueshift Database, DMP, & CRM Integration HubSpot Mixpanel Segment.com Integration,  Analytics Integrations Google Analytics Google Analytics for Firebase,  Workflow Automation Integrations Zapier,  Locations & Subscription Integrations,  CMS & App Builders Integrations GoNative.io.
+Developer Reference
+User Model Beta Overview,  Client SDK Reference SDK Notification Event Handlers OSNotification Payload In-App Message SDK Methods Data Tag SDK Methods Web SDK Methods SMS SDK Methods Email SDK Methods Updating Mobile SDK's - Major Release,  Server SDK Reference .NET Client SDK CPP Client SDK Go Client SDK Java Client SDK Node Client SDK PHP Client SDK Python Client SDK Ruby Client SDK Ruby On Rails Plugin Rust Client SDK,  REST API Overview REST API Reference REST API Requirements and FAQ Rate Limits Idempotent Notification Requests Transactional Messages Using Postman,  Deprecations.
+Mobile Troubleshooting Notifications Not Shown - Mobile Push Notification Images Not Showing Duplicated Notifications Notifications Delayed Troubleshooting Android Troubleshooting iOS Troubleshooting Unity Troubleshooting React-Native Troubleshooting Flutter Troubleshooting Cordova Variants Troubleshooting Xamarin Mismatched Push Certificate Mismatched User Environment Mismatched Bundle ID Android Mismatched Users Bundle / Certificate Mismatch Invalid Push Certificate Invalid Google Credentials Invalid Amazon Credentials No Subscribers Troubleshooting Handling Multiple Push Providers,  Web Push Troubleshooting Web Push FAQ Domain Management WordPress Troubleshooting Notifications Not Shown - Web Push Clearing Cache and Resetting Push Permissions,  In-App Message Troubleshooting Why IAM Data Not Updating? Duplicated In-App Messages,  SMS Troubleshooting,  Email FAQ & Troubleshooting Why Emails Not Showing? Webhooks & Why Email Stats Not Detected? How to improve email deliverability and lower bounce rate? DMARC & Sender Email Address What is DNS Authentication?  Journeys Troubleshooting,  Capturing a Debug Log.
+Google Play Data Safety Requirements
+Suggest Edits
+Starting July 20, 2022, Google will require a privacy disclosure for all new apps and app updates. You will need to complete the Data safety section in the App Privacy tab in the  Google Play Console  . Instructions from Google can be found  here  . As OneSignal is a third-party to your app, you’ll need to ensure you are properly disclosing the ways you are handling user data with OneSignal.
+By default, OneSignal only collects Purchases (in-app) and App interactions (clicks and session duration) for Android apps. Users who set up and collect emails, phone numbers, or additional data through Data Tags or Outcomes will need to disclose these additional data types.
+Please review the following data types when filling out your Data safety details. For details on handling user data, see  Handling Personal Data  .
+Data Types
+✅ = Collected when using OneSignal
+💡 = May be collected when using OneSignal
+❌ = Not collected when using OneSignal
+*Google Advertising ID are no longer captured by OneSignal Android Native SDK 4.0+, iOS Native SDK 3.0+, Flutter SDK 3.0+, React Native SDK 4.0+, Cordova/Ionic SDK 3.0+, Unity SDK 3.0+, Xamarin SDK 4.0+. If you’re using an older version of the SDK, you will need to disclose this as collected data.
+Required Data Types
+OneSignal collects App interactions as well as Purchase history if your app has in-app purchases.
+If you are using OneSignal for any of the other options listed or have set up additional data collection through OneSignal, you will need to disclose those options as well.
+Type: Purchase history
+If your app has in-app purchases, you must disclose that your app collects ‘Purchase history’ information under the ‘Financial info’ section.
+This information is not processed ephemerally and is required for use in OneSignal’s dashboard features including Segments and Outcomes. For OneSignal, at a bare minimum, you must select ‘Analytics’. If you are using OneSignal for any of the other options listed or have set up additional data collection, you will need to select those options as well.
+Additional Selections
+If you are using OneSignal for any of the other options listed or have set up additional data collection through OneSignal, you will need to select those options as well.
+Type: App interactions
+You must disclose that your app collects App interactions information under the ‘App activity’ section.
+This information is not processed ephemerally and is required for use in OneSignal’s dashboard features including Segments and Outcomes. For OneSignal, at a bare minimum, you must select ‘Analytics’ and ‘Developer communications’. If you are using OneSignal for any of the other options listed or have set up additional data collection, you will need to select those options as well.
+Additional Selections
+If you are using OneSignal for any of the other options listed or have set up additional data collection through OneSignal, you will need to select those options as well.
+After making your privacy selections, Google will show your store listing preview. If you have chosen Purchase history and App interactions as described above, your details should look like this: If the way you set up and collect data changes in the future, you should return to the Play Console to edit your responses.
+8 months ago
+Apple App Privacy Requirements
+Identity Verification
+Did this page help you?
+Table of Contents,  Data Types Required Data Types Type: Purchase history Type: App interactions Preview.

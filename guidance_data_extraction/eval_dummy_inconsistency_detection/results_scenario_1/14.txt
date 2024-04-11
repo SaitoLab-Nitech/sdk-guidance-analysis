@@ -1,0 +1,14 @@
+guidance_id = 14
+taint_sources = {'ID'}
+i = 0, taint_source = 'ID', data_types = {'Advertising ID', 'Device identifiers', 'Device and Account identifiers', 'other identifiers related to signed - in accounts', 'Android ID', 'Device and other IDs', 'Firebase installation ID', 'device - level ID', 'Device or other IDs', 'Firebase Android App ID', 'Custom device key - values', 'ad id', 'Crashlytics installation UUID', 'Device ID', 'Device and other identifiers', 'App-instance ID', 'Android advertising ( ad ) ID.', 'installation id', 'AAID', 'Device or other identifiers', 'Device IDs or other ID', 'Custom device key', 'User-ID'}
+    practices = [{'PRA': '', 'CON': ''}, {'PRA': 'Automatically captured by BugSnag,. User ID.', 'CON': 'An overridable unique identifier is generated for the user.'}, {'PRA': '##ridable unique identifier is generated for the device', 'CON': 'An over'}]
+    sa_result = None
+    used_text = None
+    final_result = 'Consistent'
+    sa_result = [{'label': 'NEGATIVE', 'score': 0.9949066042900085}]
+    used_text = 'Automatically captured by bugsnag,.'
+    final_result = 'Inconsistent'
+    sa_result = [{'label': 'POSITIVE', 'score': 0.9771085977554321}]
+    used_text = 'An over.'
+    final_result = 'Inconsistent'
+[NER_EVAL] detection_result = 'Consistent', ans = 'Consistent', True

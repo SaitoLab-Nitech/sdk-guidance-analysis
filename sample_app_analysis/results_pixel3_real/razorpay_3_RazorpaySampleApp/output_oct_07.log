@@ -1,0 +1,22 @@
+project.emulator.get_num_leaks() = 0
+Sources
+[{'clss': 'Lcom/razorpay/l_$w$;',
+  'method': 'd__1_(Landroid/content/Context;)Ljava/lang/String;',
+  'name': ['AndroidID'],
+  'num': 4648,
+  'source_class': 'Landroid/provider/Settings$Secure;',
+  'source_method': 'getString(Landroid/content/ContentResolver;Ljava/lang/String;)Ljava/lang/String;'},
+ {'clss': 'Lcom/razorpay/l_$w$;',
+  'method': 'd__1_(Landroid/content/Context;)Ljava/lang/String;',
+  'name': ['AndroidID'],
+  'num': 4648,
+  'source_class': 'Landroid/provider/Settings$Secure;',
+  'source_method': 'getString(Landroid/content/ContentResolver;Ljava/lang/String;)Ljava/lang/String;'},
+ {'clss': 'Lcom/razorpay/O_$B_;',
+  'method': 'G__G_(Lcom/razorpay/CheckoutActivity;Ljava/lang/String;)V',
+  'name': ['AndroidID'],
+  'num': 439,
+  'source_class': 'Ljava/lang/Object;',
+  'source_method': 'toString()Ljava/lang/String;'}]
+Sinks
+[]

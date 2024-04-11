@@ -1,0 +1,22 @@
+Data types, Location  Approximate location.  Precise location.. Data collected by Adjust SDK?, No.
+Data types, Personal information  Name.  Email address.  User IDs.  Address.  Phone number.  Race and ethnicity.  Political or religious beliefs.  Sexual orientation.  Other info.. Data collected by Adjust SDK?, No.
+Data types, Financial information  User payment info.  Purchase history.  Credit score.  Other financial info.. Data collected by Adjust SDK?, No.  Optional: Adjust can read the details for in-app purchase verification receipt validation, only if you choose to integrate purchase verification SDK and send data to Adjust via custom parameters.  Learn more  ..  No.  No.
+Data types, Health and Fitness  Health info.  Fitness info.. Data collected by Adjust SDK?, No.
+Data types, Messages  Emails.  SMS or MMS.  Other in-app messages.. Data collected by Adjust SDK?, No.
+Data types, Photos or Videos  Photos.  Videos.. Data collected by Adjust SDK?, No.
+Data types, Audio Files  Voice or sound recordings.  Music files.  Other audio files.. Data collected by Adjust SDK?, No.
+Data types, Files and Docs. Data collected by Adjust SDK?, No.
+Data types, Calendar. Data collected by Adjust SDK?, No.
+Data types, Contacts. Data collected by Adjust SDK?, No.
+Data types, App activity. Data collected by Adjust SDK?, Yes, Adjust collects this data on your behalf (Adjust collects sessions/app launches by default. Other types of “Usage Data” is optional and Adjust can collect them on your behalf if you configure it).  Learn more  .
+Data types, Web browsing. Data collected by Adjust SDK?, No.
+Data types, App info and performance  Crash logs.  Diagnostics.  Other app performance data.. Data collected by Adjust SDK?, No.
+Data types, Device or other identifiers. Data collected by Adjust SDK?, Yes, Adjust collects the Device ID data on your behalf (e.g. device metadata such as operating system version, Adjust SDK version, etc.).  Learn more  .
+Unnamed: 0 Data used by Adjust?.
+App functionality Yes.
+Analytics Yes.
+Developer communications Optional: Adjust can share the data with you, if you configure the integration.
+Advertising or marketing Optional: Adjust can share the data with you or other entities who display first-party ads in your app if you configure the integration.
+Fraud prevention, security, and compliance Yes.
+Personalization Optional: Adjust can share the data with you, which you can use for product personalization, if you choose to export the relevant data.
+Account management No.

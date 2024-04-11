@@ -1,0 +1,106 @@
+Monetize for PublishersGetting StartedStart Monetizing With LiftoffGlossary of Industry TermsPublisher DashboardPublisher Ad CustomizationAdd and Edit Your App in the DashboardCreate Your Placement and Edit Placement Setting in the DashboardDashboard Accounts - The BasicsDashboard Accounts Publisher - UsersTest Your Integration: Test Mode and Test DevicesPublisher Applications - Setting Up and FAQBest PracticesThe Liftoff Monetize Conversion Experienceapp-ads.txtGDPRApp BiddingLiftoff App Bidding with FyberLiftoff App Bidding with AdMobLiftoff App Bidding with Unity LevelPlayLiftoff App Bidding with MAXTest Mode for Liftoff App BiddingPaymentGetting Paid: Everything You Need to KnowHow User Interactions with Ads Determine Your RevenuePublisher APIsPublisher Management API 1.1Publisher Reporting API 2.0Publisher FAQGoogle Play Data Safety Questionnaire for Liftoff MonetizeCan I transfer an application from one account to another?Can I use server-to-server (S2S) callbacks for rewarded ads?How do I fill out the IDFA advertiser questionnaire?What do sleep codes mean?How Do I Find My Account ID?How Do I Find My Publisher Reporting API Key?Why is my account or app deactivated?Why does my eCPM/revenue fluctuate from day to day when I am serving impressions daily? Vungle SDKiOSIntegrate Vungle SDK for iOSIntegrate Interstitial and Rewarded AdsIntegrate Banner AdsIntegrate MREC AdsAdvanced SettingsAndroid and AmazonIntegrate Vungle SDK for Android or AmazonIntegrate Interstitial and Rewarded AdsIntegrate Banner AdsIntegrate MREC AdsAdvanced SettingsWindowsIntegrate Vungle SDK for WindowsIntegrate Banner AdsIntegrate Interstitial and Rewarded AdsIntegrate MREC AdsAdvanced SettingsUnity PluginIntegrate Vungle SDK for UnityIntegrate Banner and MREC AdsIntegrate Interstitial and Rewarded AdsAdvanced SettingsMediationEnable AdMob Mediation on iOSEnable AdMob Mediation on AndroidSet Up Vungle MREC and Banner in the AdMob DashboardEnable Unity LevelPlay MediationEnable DTFairbid MediationSDK FAQOn Unity 2018 or lower, how do I resolve the Legacy Build System error on Xcode?How do I merge conflicts manually in back_up_rules.xml between Vungle and AppsFlyer(Android)What if Unity's IL2CPP build throws an exception on Windows?Does the Vungle iOS SDK use UIWebView or WKWebView?Does Vungle Android SDK support 64-bit app?Android SDK 6.5.x API ChangesLoadAdCallback and PlayAdCallback Fire an onError CallbackWhat size are the SDKs?Vungle.getNativeAd Is Null After the Ad Has LoadedWRITE_EXTERNAL_STORAGE permission issueUnexpected Ad BehaviorProblems with Video Auto-RotationisCachedAdAvailable Returns 'false' and Ads Don't PlayEarly Access SDKIntegrate Native Ads on iOS - Early AccessIntegrate Native Ads on Android/Amazon - Early Access, Direct for AdvertisersGetting StartedGet Started Advertising With Liftoff DirectLiftoff Direct DashboardWelcome to the Liftoff Direct DashboardApplications: Create and Review AppsCampaigns: Tracking, Targeting, Bidding, SpendCreatives: Add Assets, Build CreativesReports: Analyze and Export Your DataMy Account: Details, Funds, and PaymentsMy Team: Manage Users On Your AccountAttributionSKAdNetwork for iOSTracking URL MacrosSet Up Install and Event Postbacks from Your Attribution PartnerInstall Postback APIPost-Install Postback APISet Up Liftoff in TenjinBest PracticesRecommendations for Launching a New CampaignTarget CPILiftoff Direct APIsAdvertiser Management APISKAdNetwork Reporting APIAdvertiser Reporting API 2.0Build Creative for Liftoff DirectGet Started With Liftoff CreativeUnderstand Adaptive CreativeApproval Process for Creatives and Playable AssetsCreative Asset RequirementsAdaptive Creative Asset RequirementsDevelop Adaptive CreativeCustomize the Adaptive Creative ExperienceCall the Liftoff Monetize SDK and ASOIDos and Don'ts of Adaptive CreativeTest Your Playable Asset With Our Creative VerifierLiftoff Direct FAQTracking FAQCampaign FAQPayment FAQ, Vungle ExchangeGetting StartedWelcome to Vungle ExchangeOpenRTB IntegrationVungle Exchange OpenRTB 2.5 Integration GuideVungle Exchange OpenRTB 2.5 EndCard IntegrationVungle Exchange OpenRTB 2.5 Native Ad IntegrationDeep LinkingVAST, MRAID, and HTML ProtocolsVungle Exchange OpenRTB 2.5 HTML, MRAID, and VAST ProtocolsMRAID Creatives Submission Guidelines for DSPsVungle VAST 2.0 Integration Guide.
+English (US)
+Deutsch   Español (México)   Français (France)   日本語   한국어   Português do Brasil   Русский   简体中文
+Early Access SDK   Platform
+Help Center
+Vungle SDK
+Android and Amazon
+Advanced Settings
+David Kim
+October 25, 2022 14:26
+Begin by following the instructions in the basic integration article, and then the instructions for any of the ad formats you want to integrate (interstitial or rewarded ads, banner ads, MREC ads). This article contains supplementary information and assumes you have completed basic integration.
+Google Play Store Privacy Questionnaire
+Google has published details about their privacy requirements for their Google Play store. According to Google’s announcement, app developers must define which data are collected by their apps and any SDKs they have integrated.
+To help you answer Google’s data safety questionnaire with respect to your integration of the Vungle SDK, refer to the following table: A couple of disclaimers: This list is only applicable to Google data safety questionnaires, and it does not address data or privacy questions that may be raised by other parties. Refer to our Privacy Policy for more detailed information. This list only describes Vungle's SDK data collection. This list does not describe a developer’s overall app data collection and use, or that of any other SDK for 3rd-party networks.
+GDPR Recommended Implementation Instructions
+As of May 25, 2019, the General Data Protection Regulation (GDPR) will be enforced in the European Union. To comply with GDPR, developers have two options.
+Option 1 (recommended): Publisher controls the GDPR consent process at the user level, then communicates the user’s choice to Vungle. To do this, developers can collect the user’s consent using their own mechanism, and then use Vungle APIs to update or query the user’s consent status. Refer to the sample code below for details. Option 2: Allow Vungle to handle the requirements. Vungle will display a consent dialog before playing an ad for a European user, and will remember the user’s consent or rejection for subsequent ads.
+method (recommended in Option 1) takes the user's consent status and the consent message version as its parameters.
+public static void updateConsentStatus(@NonNull Consent status, @NonNull String consentMessageVersion)
+The consent status will specify whether the user has
+for the message version you displayed. The
+specifies the publisher-controlled consent policy version; this enables you to pool your users by the message version and seek consent again when the GDPR policy changes.
+may return null until
+has been called or users make their consent using Vungle consent dialog.
+// Usage example of GDPR API // To set the user's consent status to opted in: Vungle.updateConsentStatus(Vungle.Consent.OPTED_IN, “1.0.0”); // To set the user's consent status to opted out: Vungle.updateConsentStatus(Vungle.Consent.OPTED_OUT, “1.0.0”); // To find out what the user's current consent status is: // This will return null if the GDPR Consent status has not been set // Otherwise, it will return Vungle.Consent.OPTED_IN or Vungle.Consent.OPTED_OUT Vungle.Consent currentGDPRStatus = Vungle.getConsentStatus(); String consentMessageVersion = Vungle.getConsentMessageVersion();
+COPPA Implementation
+Generally speaking, the Children’s Online Privacy Protection Act (COPPA) regulates the collection, use, and disclosure of personal information for children under the age of 13 by certain websites and online services (including mobile apps). Compliance with COPPA is a legal issue and we suggest you seek the advice of an attorney in determining compliance. Additionally, for more information on COPPA, please refer to the Federal Trade Commission's COPPA FAQ.
+Liftoff has tools to assist publishers with COPPA compliance. In addition to use of settings on the Monetize Dashboard, Liftoff offers features within the Vungle SDK using the COPPA API.
+COPPA Compliance at the App Level
+Vungle provides tooling in the Publisher Dashboard to indicate COPPA compliance for each app. When defining your app in the Monetize Dashboard, you must indicate to Vungle whether your app is directed toward children under age 13. Depending on your setting, Vungle will globally treat all traffic for the app as subject to COPPA or not. If you indicate that your app is not directed toward children under 13, COPPA settings will not apply at the app level, and can then be indicated at a more granular level (see COPPA Compliance at the Device Level).
+COPPA Compliance at the Device Level
+Starting with SDK v.6.10.3, Vungle provides an optional method for you to indicate at the device level whether the user within the given mobile app is under or over the age of 13 by using the SDK COPPA API. The SDK COPPA API is most appropriate in cases of apps that legally can implement an age screen or age gate in accordance with COPPA, rather than treating all users as under 13. If you believe your app as a whole is primarily directed to children under the age of 13 as set forth in COPPA and related guidance, the COPPA Dashboard settings are more appropriate for you.
+Recommendations for Using Vungle's COPPA Compliance Tools
+Pursuant to the Vungle SDK License and Publisher Terms, it is the publisher’s responsibility to ensure compliance with applicable laws, including COPPA. Liftoff is not liable for COPPA violations resulting from incorrect settings communicated via the SDK COPPA API. Consider the following recommendations to help you ensure COPPA compliance.
+For Google Privacy Compliance, Upgrade to Vungle SDK v.6.10.4 or Higher
+Once you upgrade to Vungle SDK v.6.10.4 or higher: Use the SDK COPPA API for mixed-audience apps: Use the SDK COPPA API if: You have confirmed you are a “mixed-audience app” under COPPA You have implemented an age gate or age screen You have stated that for your app “COPPA settings will NOT apply” in the Publisher Dashboard (otherwise, a COPPA-compliant setting in your Dashboard will override any API settings to the contrary),  Use the Dashboard for apps directed towards children under 13: In cases where it is clear that your app is primarily directed to children under the age of 13, use the COPPA settings section in the Publisher Dashboard instead of the SDK COPPA API.  Conflicting settings between API and Dashboard: As noted above, you can establish COPPA settings at the app level (but not at the user level) on the Publisher Dashboard, and at the device/user level by using the SDK COPPA API. Under the current release of SDK COPPA API functionality, in the event of a conflict between the settings in Publisher Dashboard and those passed via the SDK COPPA API, the COPPA-compliant setting takes precedence.For example, if your app setting on the Publisher Dashboard is COPPA-compliant, and that same app also enables use of the SDK COPPA API and identifies a given user as over 13, Vungle will defer to the Dashboard setting, which states that all the users in this app are protected by COPPA regulations. If, on the other hand, your app setting on the Publisher Dashboard states that your app is not directed toward users under the age of 13, but a call to the SDK COPPA API identifies a given user as under age 13, Vungle will override the dashboard setting and treat that user as being protected by COPPA regulations.
+Alternative (Not Recommended): Continue with SDK v.6.10.3 Using the SDK COPPA API
+If you cannot upgrade to Vungle SDK v.6.10.4 or higher, you can still comply with Google’s Privacy Policy by using Vungle SDK v.6.10.3. In this case, you must take these measures: For child-directed apps or family apps, call the SDK COPPA API with COPPA status set to ‘true’ for every device/user to prevent the SDK from collecting the Google Advertising ID, For mixed-audience apps, call the SDK COPPA API with COPPA status set to ‘true’ when the user in question is known to be under the age of 13.
+For example, if COPPA settings on the Publisher Dashboard are enabled for a given app, but then the same app also enables use of the SDK COPPA API and identifies a given user as over 13, Vungle SDK 6.10.3 will treat this user as not protected by COPPA. We therefore recommend using the SDK COPPA API to indicate that a user is under the age of 13, because this setting will override the app-level setting from the Dashboard.
+COPPA API
+The SDK COPPA API must be called before calling the init method.
+To update Vungle about a user’s COPPA status: to set the
+parameter to ‘true’ for a user who is under the age of 13 and falls under COPPA regulations; ‘false’ for a user known to be over the age of 13.
+Then call
+, as shown.
+/** * Use to update Vungle on a user’s COPPA status. Indicate ‘true’ if user is known to fall under COPPA regulations. * Call this before initialization the Vungle SDK * * i.e., * Vungle.updateUserCoppaStatus(true) * Vungle.init(...) * * @param isUserCoppa - ‘true’ if user is known to be 13 and under to comply with COPPA regulations */ public static void updateUserCoppaStatus(boolean isUserCoppa)
+Usage example: // To treat the user as under age 13 // and under COPPA regulations: Vungle.updateUserCoppaStatus(true); //OR // If user is known to be over age 13 and  // does NOT fall under COPPA regulations: Vungle.updateUserCoppaStatus(false); // Initialize SDK after setting COPPA Status Vungle.init(APP_ID, context, initCallback);
+CCPA Implementation
+As of July 1, 2020, California Consumer Privacy Act (CCPA) will be enforced and publishers must updated to Android SDK 6.7.0 to comply with CCPA.
+method takes the user's consent status to specify whether user has
+method returns current CCPA status for the user.
+In accordance with CCPA, the consent status is opted in by default unless
+has been explicitly called to set it as opted out.
+may return null if not set but will be treated as opted-in.
+public static void updateCCPAStatus(@NonNull final Consent status)
+public static Consent getCCPAStatus()
+// Usage example of CCPA API // To set the user's CCPA status to opted in: Vungle.updateCCPAStatus(Consent.OPTED_IN); // To set the user's CCPA status to opted out: Vungle.updateCCPAStatus(Consent.OPTED_OUT); // To find out what the user's current consent status is: Consent currentCCPAStatus = Vungle.getCCPAStatus();
+Restrict Use of Device ID
+Starting with Vungle Android SDK v6.4.11, you can now restrict the transmission of the Android ID used when the Google Advertising ID is not available.
+// Set true to opt out for Android ID collection by SDK or false (default) to opt in VungleSettings vungleSettings = new VungleSettings.Builder() .setAndroidIdOptOut(true) .build(); Vungle.init(appId, getApplicationContext(), initCallback, vungleSettings);
+Include Google Play Services
+Including Google Play Services with your project is optional, but recommended. It enables Vungle to provide a more customized ad experience to your end user. We recommend that you include basement and ads-identifier APIs, and that you use version Google Play Services v11.0.1 or higher.
+To include Google Play Services, refer to Google's setup guide. In your app, ensure that the device has a sufficiently updated version of Google Play Services. The Vungle SDK optionally uses the location and ads API from Google Play Services.
+google.android.gms:play-services-basement:17.6.0 (Recommended), google.android.gms:play-services-ads-identifier:17.0.0 (Required for AAID).
+Method Count Reduction
+Adding Vungle Android SDK v6 to your project adds approximately 700 core Vungle methods, excluding any transitive dependencies. A full integration including third-party libraries is expected to add less than 4000 methods on average. Consider the following suggestions to reduce the total number of methods added to your project: ProGuard: You can enable ProGuard to shrink your project code. It will discard any unused classes at the time of compilation to make the total method count as small as possible. You can enable it by setting minifyEnabled to true in build.gradle for the appropriate build type, and by providing the rules to keep the classes required by your project. MultiDex: If you are still above a 65K method count, enabling MultiDex may be the only solution provided by Google. You must only configure your project to MultiDex one time, but it will have an impact on build and app startup time.
+If you are using ProGuard, add the following rules to your ProGuard configuration file: # Vungle
+-dontwarn com.vungle.warren.downloader.DownloadRequestMediator$Status
+-dontwarn com.vungle.warren.error.VungleError$ErrorCode
+# Google
+-keep class com.google.android.gms.** { *; }
+-dontwarn com.google.android.gms.**
+# GSON
+-keepattributes *Annotation*
+-keepattributes Signature
+# Prevent R8 from leaving Data object members always null
+-keepclassmembers,allowobfuscation class * {
+@com.google.gson.annotations.SerializedName <fields>;
+# OkHttp + Okio
+-dontwarn javax.annotation.**
+-keepnames class okhttp3.internal.publicsuffix.PublicSuffixDatabase
+-dontwarn org.codehaus.mojo.animal_sniffer.*
+-dontwarn okhttp3.internal.platform.ConscryptPlatform
+-dontwarn module-info
+Set Minimum Disk Space
+Minimum disk space configuration was introduced in Vungle SDK v6.4.11 to determine the limits for available space on a user’s device before the Vungle SDK initializes and fetches ads. The default value for
+is 51 MB and
+is 50 MB. The size is entered in bytes.
+VungleSettings vungleSettings = new VungleSettings.Builder() .setMinimumSpaceForInit(51L * 1024L * 1024L) // 51 MB .setMinimumSpaceForAd(50L * 1024L * 1024L) // 50 MB .build(); Vungle.init(appId, getApplicationContext(), initCallback, vungleSettings);
+Hardware Acceleration
+Hardware acceleration is enabled by default for your application if your target API level is set to 14 or above. This option must be enabled for the SDK to properly show Dynamic Template and MREC ads. Make sure this option is set to 'true' at the application level of your project: <application android:hardwareAccelerated="true" ...>
+Retrieve the SDK Version Number
+To programmatically retrieve the SDK version number at runtime (this useful in internal mediation), Vungle provides the following String: Exception Codes for Debugging
+, and
+will have a
+code when the
+callback fires. You can use the code to debug or take actions to correct the issue programmatically.
+if (exception.getExceptionCode() == VungleException.VUNGLE_NOT_INTIALIZED) { // Call the routine to initialize Vungle SDK }
+List of Valid Placements
+We provide a helper method that returns a Collection of Strings containing all valid Placement Reference IDs for the current session.
+public static Collection getValidPlacements()
+Integrate MREC Ads
+Need further assistance, feel free to reach out to us, we’re here to help!
+Submit a request
+Google Play Store Privacy Questionnaire
+Google Play Store Privacy Questionnaire,  GDPR Recommended Implementation Instructions,  COPPA Implementation,  COPPA Compliance at the App Level,  COPPA Compliance at the Device Level,  Recommendations for Using Vungle's COPPA Compliance Tools,  For Google Privacy Compliance, Upgrade to Vungle SDK v.6.10.4 or Higher,  Alternative (Not Recommended): Continue with SDK v.6.10.3 Using the SDK COPPA API,  COPPA API,  CCPA Implementation,  Restrict Use of Device ID,  Include Google Play Services,  Method Count Reduction,  ProGuard,  Set Minimum Disk Space,  Hardware Acceleration,  Retrieve the SDK Version Number,  Exception Codes for Debugging,  List of Valid Placements.

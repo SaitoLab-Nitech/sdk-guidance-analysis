@@ -1,0 +1,8 @@
+guidance_id = 47
+taint_sources = {'ID'}
+i = 0, taint_source = 'ID', data_types = {'Advertising ID', 'Device identifiers', 'Device and Account identifiers', 'other identifiers related to signed - in accounts', 'Android ID', 'Device and other IDs', 'Firebase installation ID', 'device - level ID', 'Device or other IDs', 'Firebase Android App ID', 'Custom device key - values', 'ad id', 'Crashlytics installation UUID', 'Device ID', 'Device and other identifiers', 'App-instance ID', 'Android advertising ( ad ) ID.', 'installation id', 'AAID', 'Device or other identifiers', 'Device IDs or other ID', 'Custom device key', 'User-ID'}
+    practices = [{'PRA': '', 'CON': 'Details,. Airship creates a device - level ID called a channel ID. It is not linked to a user ’ s identity.. If using push notifications, push token is collected.. If using Contacts,. Airship creates a Contact ID that is linked to the channel ID. It can be tied to the user ’ s identity if configured by the app. Otherwise, it is anonymous.. If using Message Center,. Airship generates Message Center user credentials.. Other identifiers may be collected,. if the app uses the Airship SDK to gather such data.'}]
+    sa_result = [{'label': 'POSITIVE', 'score': 0.9742664098739624}]
+    used_text = 'If the app uses the airship sdk to gather such data.'
+    final_result = 'Consistent'
+[NER_EVAL] detection_result = 'Consistent', ans = 'Consistent', True

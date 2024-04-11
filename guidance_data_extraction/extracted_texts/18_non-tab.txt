@@ -1,0 +1,200 @@
+Jump to Content
+Documentation   REST API   Samples   SDK Reference   Blog   Get Help
+Documentation       REST API
+Documentation   REST API   Samples   SDK Reference   Blog   Get Help   Sign up   Log in
+Sign up   Log in
+Documentation       REST API
+🚀 Getting Started
+What is RevenueCat?
+API Keys & Authentication
+Configuring Projects and Apps
+Configuring Products
+iOS Product Setup
+Google Play Product Setup
+Google Subscriptions and Backwards Compatibility
+Amazon Product Setup
+Stripe Product Setup
+Installing the SDK
+React Native
+macOS / Catalyst
+App Builders
+Configuring the SDK
+iOS App Extensions
+Identifying Users
+Displaying Products
+Making Purchases
+Android with Jetpack Compose
+Checking Subscription Status
+Restoring Purchases
+Configuring Server Notifications
+Stripe Web Payments
+Stripe App
+➡️ Migrating To RevenueCat
+Migrating Subscriptions
+Importing Receipts
+Observer Mode
+SwiftyStoreKit Migration
+👥 Customers
+Identifying Customers
+Checking Subscription Status
+Subscriber Attributes
+Customer Lists
+🧰 Test & Launch
+Troubleshooting the SDKs
+Error Handling
+Sandbox Testing
+Apple App Store & TestFlight
+Google Play Store
+Amazon Appstore
+App Subscription Launch Checklist
+App Store Rejections
+💰 Subscription Guidance
+Free Trials & Promo Offers
+iOS Subscription Offers
+Google Play Promo Codes
+Stripe Free Trials
+Upgrades, Downgrades, & Management
+Price Changes
+Promotional Subscriptions
+📈 Dashboard & Metrics
+Active Subscriptions Chart
+Active Subscriptions Movement Chart
+Churn Chart
+Refund Rate Chart
+Annual Recurring Revenue (ARR) Chart
+Realized LTV per Customer Chart
+Realized LTV per Paying Customer Chart
+Monthly Recurring Revenue (MRR) Chart
+Monthly Recurring Revenue Movement Chart
+Revenue Chart
+Conversion to Paying Chart
+Initial Conversion Chart
+Trial Conversion Chart
+Subscription Retention Chart
+Active Trials Chart
+Active Trials Movement Chart
+Charts Feature: Incomplete Periods
+Customer Lists
+Customer View
+Customer Details
+Customer History
+Active Entitlements
+Offering Override
+App User IDs
+Deleting Users
+Add Collaborators
+Taxes and Commissions
+📨 Events
+Billing Issues & Grace Periods
+🔌 Integrations
+Attribution Providers
+Apple Search Ads
+Facebook Ads
+SplitMetrics Acquire
+Supported Integrations
+ETL Exports
+Amazon S3
+Google Cloud Storage
+Partner-Built Integrations
+🛠 Tools
+Experiments Overview
+Creating Offerings to Test
+Configuring Experiments
+Experiments Results
+👤 Account
+Account Management
+Account Security
+📙 Platform Resources
+Implementation Responsibilities
+Amazon Platform Resources
+Amazon Small Business Accelerator Program
+Apple Platform Resources
+Apple App Privacy
+App Store Small Business Program
+Apple Family Sharing
+Legacy Mac Apps
+Google Platform Resources
+Google Play Pass
+15% Reduced Service Fee
+Google Play's Data Safety
+Non-Subscription Purchases
+Platform Server Notifications
+Apple App Store Server Notifications
+Google Real-Time Developer Notifications
+Stripe Server Notifications
+No and Low Code App Builders
+Sample Apps
+🔑 Service Credentials
+Apple App Store
+Google Play Store
+Amazon Appstore
+In-App Purchase Key Configuration
+🛟 RevenueCat Support
+🔢 Support First Steps
+📘 SDK Guides
+SDK Migration Guides
+iOS Native - 3.x to 4.x Migration
+Android Native - 4.x to 5.x Migration
+REST API
+Start typing to search…
+🚀 Getting Started
+What is RevenueCat?  Quickstart,  API Keys & Authentication,  Configuring Projects and Apps,  Configuring Products iOS Product Setup Google Play Product Setup Google Subscriptions and Backwards Compatibility Amazon Product Setup Stripe Product Setup,  Installing the SDK iOS Android React Native Flutter Cordova Ionic Unity macOS / Catalyst App Builders,  Configuring the SDK iOS App Extensions,  Identifying Users,  Displaying Products,  Making Purchases Android with Jetpack Compose,  Checking Subscription Status,  Restoring Purchases,  Configuring Server Notifications,  Stripe Web Payments Stripe App.
+➡️ Migrating To RevenueCat
+Migrating Subscriptions Importing Receipts,  Observer Mode,  SwiftyStoreKit Migration.
+👥 Customers
+Identifying Customers,  Checking Subscription Status,  Subscriber Attributes,  Customer Lists.
+🧰 Test & Launch
+Debugging Troubleshooting the SDKs,  Error Handling,  Sandbox Testing Apple App Store & TestFlight Google Play Store Amazon Appstore,  App Subscription Launch Checklist,  App Store Rejections.
+💰 Subscription Guidance
+Free Trials & Promo Offers iOS Subscription Offers Google Play Promo Codes Stripe Free Trials,  Upgrades, Downgrades, & Management,  Price Changes,  Refunds,  Promotional Subscriptions.
+📈 Dashboard & Metrics
+Overview,  Projects,  Charts Active Subscriptions Chart Active Subscriptions Movement Chart Churn Chart Refund Rate Chart Annual Recurring Revenue (ARR) Chart Realized LTV per Customer Chart Realized LTV per Paying Customer Chart Monthly Recurring Revenue (MRR) Chart Monthly Recurring Revenue Movement Chart Revenue Chart Conversion to Paying Chart Initial Conversion Chart Trial Conversion Chart Subscription Retention Chart Active Trials Chart Active Trials Movement Chart Charts Feature: Incomplete Periods,  Customer Lists,  Customer View Customer Details Customer History Active Entitlements Offering Override Promotionals Attributes Attribution App User IDs Deleting Users,  Add Collaborators,  Taxes and Commissions.
+📨 Events
+Billing Issues & Grace Periods,  Webhooks.
+🔌 Integrations
+Attribution Providers Adjust Apple Search Ads AppsFlyer Branch Facebook Ads SearchAdsHQ Singular SplitMetrics Acquire Tenjin,  Supported Integrations Airship Amplitude Braze CleverTap Firebase Intercom Iterable Mixpanel mParticle OneSignal Segment Slack Statsig Superwall,  Webhooks,  ETL Exports Amazon S3 Google Cloud Storage,  Partner-Built Integrations.
+🛠 Tools
+Experiments Experiments Overview Creating Offerings to Test Configuring Experiments Experiments Results.
+👤 Account
+Account Management,  Account Security.
+📙 Platform Resources
+Implementation Responsibilities,  Amazon Platform Resources Amazon Small Business Accelerator Program,  Apple Platform Resources Apple App Privacy App Store Small Business Program Apple Family Sharing Legacy Mac Apps,  Google Platform Resources Google Play Pass 15% Reduced Service Fee Google Play's Data Safety,  Non-Subscription Purchases,  Platform Server Notifications Apple App Store Server Notifications Google Real-Time Developer Notifications Stripe Server Notifications,  No and Low Code App Builders,  Sample Apps.
+🔑 Service Credentials
+Apple App Store,  Google Play Store,  Amazon Appstore,  In-App Purchase Key Configuration.
+🛟 RevenueCat Support
+🔢 Support First Steps.
+📘 SDK Guides
+SDK Migration Guides iOS Native - 3.x to 4.x Migration Android Native - 4.x to 5.x Migration.
+Google Play's Data Safety
+How to fill out the questionnaire
+Suggest Edits
+By July 20, 2022  , Google requires all developers to declare how their application collects and handles user data. You'll need to ensure you are properly disclosing to your users the way you are using RevenueCat in regards to their data.
+Data collection and security
+Does your app collect or share any of the required user data types?
+Select 'Yes'. RevenueCat collects a customer's purchase history.
+[[[{ENC}Is all of the user data collected by your app encrypted in transit?]]]
+[[[{ENC}Select 'Yes'. RevenueCat encrypts data in transit]]].
+[[[{DEL}Do you provide a way for users to request that their data is deleted?]]]
+[[[{DEL}If selecting 'Yes', ensure your customers have a way to contact your support team to request a data deletion. You will be able to  delete the customer  directly from the RevenueCat dashboard or via  REST API]]]  .
+Data Types
+✅ = Required when using RevenueCat
+💡 = May be required when using RevenueCat
+❌ = Not required when using RevenueCat
+Required Data Types
+Type: [[[{DAT}Financial Info]]]
+If you are using RevenueCat, you must disclose that your app collects 'Purchase history' information from the Data types section in Google Play Console.
+[[[{PRA}1. Is this data collected, shared, or both?]]]
+[[[{PRA}This data is collected by RevenueCat. If you are using integrations set up between RevenueCat and third parties that are not considered service providers, you may need to disclose "Shared" here as well]]].
+[[[{EPH}2. Is this data processed ephemerally?]]]
+[[[{EPH}Select 'No']]].
+[[[{CON}Is this data required for your app, or can users choose whether it's collected?]]]
+[[[{CON}This data collection is required and cannot be turned off]]].
+[[[{PUR}Why is this user data collected? / Why is this user data shared?]]]
+[[[{PUR}Select the 'App functionality' and 'Analytics' checkboxes]]].
+What's Next
+After making your data safety selections, Google will show a preview of your app's privacy section. If you have chosen Financial Info as described above, your privacy details should look something like this: If you're ready to submit your app to App Review, head over to our  Launch Checklist  doc for more information about preparing your app for submission.
+10 months ago
+15% Reduced Service Fee
+Non-Subscription Purchases
+Did this page help you?
+Table of Contents,  Data collection and security Data Types Required Data Types Type: Financial Info What's Next.

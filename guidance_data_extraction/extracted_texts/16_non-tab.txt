@@ -1,0 +1,334 @@
+Jump to Content
+Getting Started   API Reference
+Home       Documentation       API Reference
+Getting Started   API Reference   Help Center   Video Tours
+Help Center   Video Tours
+Play Store Privacy Details
+Getting Started
+Helpful Resources
+Integrating Instabug
+Showing Instabug
+Bug Reporting
+Report Types & Content
+Reply to Reporters
+Extended Bug Report
+Event Handlers
+Disabling/Enabling Bug Reporting
+Crash Reporting
+Reporting Crashes
+Crash Report Content
+Occurrences Content
+Reply to Affected Users
+Event Handlers
+Disabling/Enabling Crash Reporting
+App Performance Monitoring
+App Launch
+UI Hangs
+Execution Traces
+Screen Loading
+App Apdex
+SDK Debugging
+Disabling/Enabling APM
+Metrics & Dimensions
+In-App Replies
+Show Replies List
+Reply to Users
+Managing Notifications
+Event Handlers
+Disabling/Enabling In-App Replies
+Surveys & Announcements
+Creating Surveys & Announcements
+Targeting Surveys & Announcements
+Customizing Survey Behavior
+Reply to Survey Respondents
+Event Handlers
+Disabling/Enabling In-App Surveys
+In-App Feature Requests
+Showing the Feature Requests List
+Feature Request Content
+Disabling/Enabling Feature Requests
+User Identification/Data
+User Identification
+Setting Custom Data
+Logs & Profiling
+Repro Steps
+Session Profiler
+Report Logs
+SDK Customizations
+Welcome Message
+Prompt Options
+UI Color & Theme
+SDK Locale
+App Privacy Details
+Integrating Instabug
+Showing Instabug
+Bug Reporting
+Report Types & Content
+Reply to Reporters
+Extended Bug Report
+Disabling/Enabling Bug Reporting
+Crash Reporting
+Reporting Crashes
+Crash Report Content
+Occurrences Content
+Reply to Affected Users
+Disabling/Enabling Crash Reporting
+App Performance Monitoring
+App Launch
+UI Hangs
+Execution Traces
+Screen Loading
+App Apdex
+SDK Debugging
+Disabling/Enabling APM
+Metrics & Dimensions
+In-App Replies
+Show Replies List
+Reply to Users
+Managing Notifications
+Disabling/Enabling In-App Replies
+Surveys & Announcements
+Creating Surveys & Announcements
+Targeting Surveys & Announcements
+Customizing Survey Behavior
+Reply to Survey Respondents
+Disabling/Enabling In-App Surveys
+In-App Feature Requests
+Showing the Feature Requests List
+Feature Request Content
+Disabling/Enabling Feature Requests
+User Identification/Data
+User Identification
+Setting Custom Data
+Logs & Profiling
+Repro Steps
+Session Profiler
+Report Logs
+SDK Customizations
+Welcome Message
+Prompt Options
+UI Color & Theme
+SDK Locale
+React Native
+Integrating Instabug
+Showing Instabug
+Bug Reporting
+Report Types & Content
+Reply to Reporters
+Extended Bug Report
+Event Handlers
+Disabling/Enabling Bug Reporting
+Crash Reporting
+Reporting Crashes
+Crash Report Content
+Occurrences Content
+Reply to Affected Users
+Event Handlers
+Disabling/Enabling Crash Reporting
+App Performance Monitoring
+App Launch
+UI Hangs
+Execution Traces
+App Apdex
+SDK Debugging
+Disabling/Enabling APM
+Metrics & Dimensions
+In-App Replies
+Show Replies List
+Reply to Users
+Managing Notifications
+Event Handlers
+Disabling/Enabling In-App Replies
+Surveys & Announcements
+Creating Surveys & Announcements
+Targeting Surveys & Announcements
+Customizing Survey Behavior
+Reply to Survey Respondents
+Event Handlers
+Disabling/Enabling In-App Surveys
+In-App Feature Requests
+Showing the Feature Requests List
+Feature Request Content
+Disabling/Enabling Feature Requests
+User Identification/Data
+User Identification
+Setting Custom Data
+Logs & Profiling
+Repro Steps
+Report Logs
+Session Profiler
+SDK Customizations
+Welcome Message
+Prompt Options
+UI Color & Theme
+SDK Locale
+SDK 11.0 Migration Guide
+Integrating Instabug
+Showing Instabug
+Bug Reporting
+Report Types & Content
+Reply to Reporters
+Extended Bug Report
+Disabling/Enabling Bug Reporting
+Crash Reporting
+Reporting Crashes
+Crash Report Content
+Occurrences Content
+Reply to Affected Users
+Disabling/Enabling Crash Reporting
+App Performance Monitoring
+App Launch
+UI Hangs
+Execution Traces
+App Apdex
+SDK Debugging
+Disabling/Enabling APM
+Metrics & Dimensions
+In-App Replies
+Show Replies List
+Reply to Users
+Managing Notifications
+Disabling/Enabling In-App Replies
+Surveys & Announcements
+Creating Surveys & Announcements
+Targeting Surveys & Announcements
+Customizing Survey Behavior
+Reply to Survey Respondents
+Disabling/Enabling In-App Surveys
+In-App Feature Requests
+Showing the Feature Requests List
+Feature Request Content
+User Identification/Data
+User Identification
+Setting Custom Data
+Logs & Profiling
+Repro Steps
+Session Profiler
+Report Logs
+SDK Customizations
+Welcome Message
+Prompt Options
+UI Color & Theme
+SDK Locale
+SDK 11.0 Migration Guide
+Integrating Instabug
+Showing Instabug
+Bug Reporting
+Report Type & Content
+Reply to Reporters
+Extended Bug Report
+Event Handlers
+Disabling/Enabling Bug Reporting
+In-App Replies
+Show Replies List
+Reply to Users
+Managing Notifications
+Disabling/Enabling In-App Replies
+Surveys & Announcements
+Creating Surveys & Announcements
+Targeting Surveys & Announcements
+Customizing Survey Behavior
+Reply to Survey Responders
+Event Handlers
+Disabling/Enabling In-App Surveys
+In-App Feature Requests
+Showing the Feature Requests List
+Feature Request Content
+User Identification/Data
+User Identification
+Setting Custom Data
+Logs & Profiling
+Repro Steps
+Session Profiler
+Report Logs
+SDK Customizations
+Welcome Message
+Prompt Options
+UI Color & Theme
+SDK Locale
+SDK 11.0 Migration Guide
+Integrating Instabug
+Showing Instabug
+Bug Reporting
+Report Type & Content
+Reply to Reporters
+Extended Bug Report
+Event Handlers
+Disabling/Enabling Bug Reporting
+In-App Replies
+Show Replies List
+Reply to Users
+Managing Notifications
+Event Handlers
+Disabling/Enabling In-App Replies
+Surveys & Announcements
+Creating Surveys & Announcements
+Targeting Surveys & Announcements
+Customizing Survey Behavior
+Reply to Survey Responders
+Event Handlers
+Disabling/Enabling In-App Surveys
+In-App Feature Requests
+Showing the Feature Requests List
+Feature Request Content
+Disabling/Enabling Feature Requests
+User Identification/Data
+User Identification
+Setting Custom Data
+Logs & Profiling
+Session Profiler
+Report Logs
+SDK Customizations
+Welcome Message
+Prompt Options
+UI Color & Theme
+SDK Locale
+SDK 8.6 Migration Guide
+Integrating Instabug
+Invoking Instabug
+Bug Reporting
+Reports Data
+Identify User
+Product Guides
+Alerts & Rules
+Workflow Automation for Bug Reporting
+Alerting for Crash Reporting
+Alerting for Performance Metrics
+Team Ownership
+Web - Open Source
+Open Source Web SDK 1.0
+Recommended Tools
+Jira Cloud
+Jira Server
+Microsoft Teams
+Pivotal Tracker
+Basecamp v2
+Basecamp v3
+Teamwork Projects
+SDK Size
+Premium Plan
+Keyboard Shortcuts
+Audit Notes
+TLS 1.0 & 1.1 Deprecation
+API Reference
+Start typing to search…
+Getting Started
+Introduction,  Helpful Resources.
+Overview,  Integrating Instabug,  Showing Instabug,  Bug Reporting Report Types & Content Reply to Reporters Extended Bug Report Event Handlers Disabling/Enabling Bug Reporting,  Crash Reporting Reporting Crashes Crash Report Content Occurrences Content Symbolication Reply to Affected Users Event Handlers Disabling/Enabling Crash Reporting,  App Performance Monitoring App Launch Network UI Hangs Execution Traces Screen Loading App Apdex Instrumentation SDK Debugging Disabling/Enabling APM Metrics & Dimensions,  In-App Replies Show Replies List Reply to Users Managing Notifications Event Handlers Disabling/Enabling In-App Replies,  Surveys & Announcements Creating Surveys & Announcements Targeting Surveys & Announcements Customizing Survey Behavior Reply to Survey Respondents Event Handlers Disabling/Enabling In-App Surveys,  In-App Feature Requests Showing the Feature Requests List Feature Request Content Disabling/Enabling Feature Requests,  User Identification/Data User Identification Setting Custom Data,  Logs & Profiling Repro Steps Session Profiler Report Logs,  SDK Customizations Welcome Message Prompt Options UI Color & Theme SDK Locale,  App Privacy Details,  Licenses.
+Overview,  Integrating Instabug,  Showing Instabug,  Bug Reporting Report Types & Content Reply to Reporters Extended Bug Report Callbacks Disabling/Enabling Bug Reporting,  Crash Reporting Reporting Crashes Crash Report Content Occurrences Content Deobfuscation Reply to Affected Users Callbacks Disabling/Enabling Crash Reporting,  App Performance Monitoring App Launch Network UI Hangs Execution Traces Screen Loading App Apdex Instrumentation SDK Debugging Disabling/Enabling APM Metrics & Dimensions,  In-App Replies Show Replies List Reply to Users Managing Notifications Callbacks Disabling/Enabling In-App Replies,  Surveys & Announcements Creating Surveys & Announcements Targeting Surveys & Announcements Customizing Survey Behavior Reply to Survey Respondents Callbacks Disabling/Enabling In-App Surveys,  In-App Feature Requests Showing the Feature Requests List Feature Request Content Disabling/Enabling Feature Requests,  User Identification/Data User Identification Setting Custom Data,  Logs & Profiling Repro Steps Session Profiler Report Logs,  SDK Customizations Welcome Message Prompt Options UI Color & Theme SDK Locale.
+React Native
+Overview,  Integrating Instabug,  Showing Instabug,  Bug Reporting Report Types & Content Reply to Reporters Extended Bug Report Event Handlers Disabling/Enabling Bug Reporting,  Crash Reporting Reporting Crashes Crash Report Content Occurrences Content Symbolication/Deobfuscation Reply to Affected Users Event Handlers Disabling/Enabling Crash Reporting,  App Performance Monitoring App Launch Network UI Hangs Execution Traces App Apdex SDK Debugging Disabling/Enabling APM Metrics & Dimensions,  In-App Replies Show Replies List Reply to Users Managing Notifications Event Handlers Disabling/Enabling In-App Replies,  Surveys & Announcements Creating Surveys & Announcements Targeting Surveys & Announcements Customizing Survey Behavior Reply to Survey Respondents Event Handlers Disabling/Enabling In-App Surveys,  In-App Feature Requests Showing the Feature Requests List Feature Request Content Disabling/Enabling Feature Requests,  User Identification/Data User Identification Setting Custom Data,  Logs & Profiling Repro Steps Report Logs Session Profiler,  SDK Customizations Welcome Message Prompt Options UI Color & Theme SDK Locale,  SDK 11.0 Migration Guide.
+Overview,  Integrating Instabug,  Showing Instabug,  Bug Reporting Report Types & Content Reply to Reporters Extended Bug Report Callbacks Disabling/Enabling Bug Reporting,  Crash Reporting Reporting Crashes Crash Report Content Occurrences Content Symbolication/Deobfuscation Reply to Affected Users Disabling/Enabling Crash Reporting,  App Performance Monitoring App Launch Network UI Hangs Execution Traces App Apdex SDK Debugging Disabling/Enabling APM Metrics & Dimensions,  In-App Replies Show Replies List Reply to Users Managing Notifications Callbacks Disabling/Enabling In-App Replies,  Surveys & Announcements Creating Surveys & Announcements Targeting Surveys & Announcements Customizing Survey Behavior Reply to Survey Respondents Callbacks Disabling/Enabling In-App Surveys,  In-App Feature Requests Showing the Feature Requests List Feature Request Content,  User Identification/Data User Identification Setting Custom Data,  Logs & Profiling Repro Steps Session Profiler Report Logs,  SDK Customizations Welcome Message Prompt Options UI Color & Theme SDK Locale,  SDK 11.0 Migration Guide.
+Overview,  Integrating Instabug,  Showing Instabug,  Bug Reporting Report Type & Content Reply to Reporters Extended Bug Report Event Handlers Disabling/Enabling Bug Reporting,  In-App Replies Show Replies List Reply to Users Managing Notifications Disabling/Enabling In-App Replies,  Surveys & Announcements Creating Surveys & Announcements Targeting Surveys & Announcements Customizing Survey Behavior Reply to Survey Responders Event Handlers Disabling/Enabling In-App Surveys,  In-App Feature Requests Showing the Feature Requests List Feature Request Content,  User Identification/Data User Identification Setting Custom Data,  Logs & Profiling Repro Steps Session Profiler Report Logs,  SDK Customizations Welcome Message Prompt Options UI Color & Theme SDK Locale,  SDK 11.0 Migration Guide.
+Overview,  Integrating Instabug,  Showing Instabug,  Bug Reporting Report Type & Content Reply to Reporters Extended Bug Report Event Handlers Disabling/Enabling Bug Reporting,  In-App Replies Show Replies List Reply to Users Managing Notifications Event Handlers Disabling/Enabling In-App Replies,  Surveys & Announcements Creating Surveys & Announcements Targeting Surveys & Announcements Customizing Survey Behavior Reply to Survey Responders Event Handlers Disabling/Enabling In-App Surveys,  In-App Feature Requests Showing the Feature Requests List Feature Request Content Disabling/Enabling Feature Requests,  User Identification/Data User Identification Setting Custom Data,  Logs & Profiling Session Profiler Report Logs,  SDK Customizations Welcome Message Prompt Options UI Color & Theme SDK Locale,  SDK 8.6 Migration Guide.
+Overview,  Integrating Instabug,  Invoking Instabug,  Bug Reporting,  Reports Data Identify User Attachments.
+Product Guides
+Alerts & Rules Workflow Automation for Bug Reporting Alerting for Crash Reporting Alerting for Performance Metrics,  Team Ownership,  Experiments.
+Web - Open Source
+Open Source Web SDK 1.0,  Recommended Tools Usersnap BugHerd Marker.io.
+Integrations Jira Cloud Jira Server Slack Microsoft Teams Trello Zendesk GitHub ClickUp Instana PagerDuty ServiceNow Opsgenie Pivotal Tracker Asana Webhook FreshDesk Zapier Front Manuscript Shortcut Phabricator Basecamp v2 Basecamp v3 GitLab Teamwork Projects,  Incidents,  GDPR,  SDK Size,  Premium Plan,  Keyboard Shortcuts,  Audit Notes,  TLS 1.0 & 1.1 Deprecation.
+Powered by
+Play Store Privacy Details
+Suggest Edits
+As of April 8th 2022, apps submitted to the Google Play Store are required to submit privacy details about their app as mentioned  here  . This page contains more details about the data collected by Instabug in relation to the aforementioned privacy details.
+about 1 year ago

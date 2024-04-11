@@ -1,0 +1,8 @@
+guidance_id = 42
+taint_sources = {'ID'}
+i = 0, taint_source = 'ID', data_types = {'Device and other identifiers', 'Device and other IDs', 'AAID', 'User-ID', 'Device or other IDs', 'installation id', 'Device ID', 'Device and Account identifiers', 'Device IDs or other ID', 'App-instance ID', 'ad id', 'Advertising ID', 'Device identifiers', 'Android ID', 'other identifiers related to signed - in accounts', 'Custom device key', 'Crashlytics installation UUID', 'Firebase installation ID', 'Firebase Android App ID', 'Custom device key - values', 'Device or other identifiers', 'device - level ID', 'Android advertising ( ad ) ID'}
+    practices = [{'PRA': 'Collected,. Yes.. Shared,. Yes.. Required,. No.', 'CON': 'Comments,. Pollfish automatically collects the Ad ID of the user if access is not limited and the publisher provided the relevant permission. Publishers can also pass other user identifiers to the SDK.'}]
+    sa_result = [{'label': 'POSITIVE', 'score': 0.9801391363143921}]
+    used_text = 'Publishers can also pass other user identifiers to the sdk.'
+    final_result = 'Consistent'
+[NER_EVAL] detection_result = 'Consistent', ans = 'Consistent', True

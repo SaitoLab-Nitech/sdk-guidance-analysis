@@ -1,0 +1,20 @@
+# 3 SDKs configured with google-services.json
+
+- Firebase
+- CleverTap Android SDK
+- Batch
+
+# 12 SDKs configured with their API keys
+
+- AppMetrica (Yandexmobile)
+- RevenueCat
+- Bugfender Android SDK
+- myTracker
+- Appodeal
+- Chartboost
+- OneSignal
+- AppsFlyer SDK
+- ironSource
+- Facebook
+- Google Analytics
+- Google Mobile Ads (GMA)

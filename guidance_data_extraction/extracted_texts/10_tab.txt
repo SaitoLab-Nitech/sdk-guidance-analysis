@@ -1,0 +1,5 @@
+[[[{DAT}Data]]], [[[{DAT}IP Address]]]. [[[{CON}By default, MoEngage SDK]]] ..., [[[{CON}Collects the device's IP address, which may be used to estimate the general location of a device]]].
+[[[{DAT}Data]]], [[[{DAT}User product interactions]]]. [[[{CON}By default, MoEngage SDK]]] ..., [[[{CON}Collects user-product interactions and interaction information, including app launch, and application foreground-background]]].
+[[[{DAT}Data]]], [[[{DAT}Device Metadata]]]. [[[{CON}By default, MoEngage SDK]]] ..., [[[{CON}Collects device information like Device Model, OS version, Timezone, network type(if permission is granted by the user)]]],.
+[[[{DAT}Data]]], [[[{DAT}Device Metadata]]]. [[[{CON}MoEngage SDK]]]..., [[[{CON}Collects device information like Product Name, Manufacturer, Device Dimensions, Display type, and Carrier(if permission is granted by the user)]]].
+[[[{DAT}Data]]], [[[{DAT}Device Identifiers]]]. [[[{CON}MoEngage SDK]]]..., [[[{CON}Collects device identifiers like Advertising Identifier, and Android Id]]].

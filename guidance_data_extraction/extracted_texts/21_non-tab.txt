@@ -1,0 +1,25 @@
+Android / Amazon HyprMX SDK
+SDK Documentation
+Android / Amazon Setup Guide
+Rewarded Ads
+Interstitial Ads
+Banner Ads
+Upgrade Guide
+3rd Party Mediation
+Change Log
+Google's Data Safety Questionnaire
+Powered By  GitBook
+Google's Data Safety Questionnaire
+By July 20, 2022, all developers must declare how they collect and handle user data for the apps they publish on Google Play, and provide details about how they protect this data through security practices like encryption. This includes data collected and handled through any third party libraries or SDKs used in their apps. For more information on Google Play's Data safety section, please refer to Google's       documentation       .
+Android AdMob Adapter Change Log
+Last modified  10mo ago
+Copy link
+Android / Amazon Setup Guide
+Rewarded Ads
+Interstitial Ads
+Banner Ads
+Upgrade Guide
+3rd Party Mediation
+Change Log
+Google's Data Safety Questionnaire
+Powered By  GitBook

@@ -1,0 +1,182 @@
+Kochava Support,  Create and Manage Apps App Overview Create/Edit an App Creating and Editing App Groups,  SDK Integration All SDKs iOS – SDK Integration Android – SDK Integration Windows – SDK Integration Roku – SDK Integration Unity – SDK Integration ReactNative – SDK Integration Cordova – SDK Integration Adobe AIR – SDK Integration Xamarin – SDK Integration Adobe Digital Publishing Suite SDK Adobe Analytics SDK Testing an Integration with Kochava SDK – Intelligent Consent Management Kochava SDK and Consent Handling Consent SDK – Handling Consent Consent SDK – Using the SDK,  Web SDK Integration JavaScript Web SDK Integration Angular Web SDK Integration NodeJS Web SDK Integration React Web SDK Integration Vue Web SDK Integration Web – Using the SDK,  Server-to-Server Integration Segment Integration Server-to-Server Integration Overview Bot Integration IdentityLink™ Setup Urban Airship Integration Install Notification Setup Post-Install Event Setup Track Client Apps with a 3rd Party Tracking Solution,  Campaign Management 10-Minute Guide to Your 1st Campaign Create an Install Campaign Create a Reengagement Campaign Create a View-Through Attribution Campaign Create a Kochava-Certified Postback Create a Custom Postback Post-Install Event Creation and Configuration Tracker Override Settings Create a Facebook Campaign Create a FMP Reengagement Campaign Facebook FMP Naming Conventions Create a Roku Campaign Create a Snapchat Campaign Create a Snapchat Reengagement Campaign Create a Snapchat Partner Campaign Create a Twitter Campaign Google Ads Create a Google Reengagement Campaign Google Marketing Platform – DV360 & CM360 Google Tag Manager Integration Create an Apple Search Ads Campaign Kochava for Agencies Traffic Verifier® Create a Web Conversion Tracking Campaign Create a Private Network Default Reconciliation Settings Partner Reconciliation Settings,  Analytics, Reports & API Analytics Overview Analytics Overview Detail Analytics Footprint Analytics Events Volume Analytics Event Detail Analytics Daily Active Users Analytics Monthly Active Users Analytics Revenue Per User Analytics Facebook Insights Analytics SKAdNetwork Insights Analytics Lifetime Value Analytics Retention Analytics Retention (Advanced) Analytics Funnel Analytics Explorer Analytics Page Tools Analytics Metrics Pulling Reports Reports Overview Audiences Exports SAN Campaign Data Mapping API v1.4 – Call Structure API v1.4 – Querying API API v1.4 – Requesting and Scheduling Reports Create and Manage API Key App Management API Introduction to the Premium Publisher API Premium Publisher API Campaign Management Premium Publisher API Postback Triggers,  Reference Information Integrate with Kochava SKAdNetwork Partner Certification Attribution Overview Kochava Media Index Test a Campaign Postback Configuration: Recent Install Feed Post-Install Event Examples Traffic Import Tool Locating an App GUID Locating the Apple Bundle ID Deep Linking Scrubbing a Device ID Users Overview Groups Overview Roles Overview Glossary,  Cost Creating and Editing Cost Configurations Cost Overview Cost Explorer Measurement Explorer SKAdNetwork Explorer Cost Media Partner List,  Fraud Console Click Flooding Ad Stacking Clicks Anonymous Installs Geographic Outliers High Click Volume Devices High Click Volume IP Addresses Manage Account Blocklist Mean-Time-to-Install Outliers Time-to-Install Outliers Time-to-Install Distribution Platform Click/Install Mismatch Non-Verified Install Receipts Non-Verified Purchase Receipts,  Links Creating and Editing SmartLinks™ Adding Universal Link or App Link Support Destinations Creation and Maintenance Landing Page Creation and Maintenance App Clip Setup Instant App Setup,  Kochava Collective® Audience Builder Audience Explorer Audience Manager Users Partner Configuration Supplier Overview,  Advanced Tools Alerting Audit Report Global Fraud Blocklist Power Editor Custom Query Audience Query Query Reference.
+Kochava Support
+Create and Manage Apps
+App Overview
+Create/Edit an App
+Creating and Editing App Groups
+SDK Integration
+All SDKs
+iOS – SDK Integration
+Android – SDK Integration
+Windows – SDK Integration
+Roku – SDK Integration
+Unity – SDK Integration
+ReactNative – SDK Integration
+Cordova – SDK Integration
+Adobe AIR – SDK Integration
+Xamarin – SDK Integration
+Adobe Digital Publishing Suite SDK
+Adobe Analytics SDK
+Testing an Integration with Kochava
+SDK – Intelligent Consent Management
+Kochava SDK and Consent Handling
+Consent SDK – Handling Consent
+Consent SDK – Using the SDK
+Web SDK Integration
+JavaScript Web SDK Integration
+Angular Web SDK Integration
+NodeJS Web SDK Integration
+React Web SDK Integration
+Vue Web SDK Integration
+Web – Using the SDK
+Server-to-Server Integration
+Segment Integration
+Server-to-Server Integration Overview
+Bot Integration
+IdentityLink™ Setup
+Urban Airship Integration
+Install Notification Setup
+Post-Install Event Setup
+Track Client Apps with a 3rd Party Tracking Solution
+Campaign Management
+10-Minute Guide to Your 1st Campaign
+Create an Install Campaign
+Create a Reengagement Campaign
+Create a View-Through Attribution Campaign
+Create a Kochava-Certified Postback
+Create a Custom Postback
+Post-Install Event Creation and Configuration
+Tracker Override Settings
+Create a Facebook Campaign
+Create a FMP Reengagement Campaign
+Facebook FMP Naming Conventions
+Create a Roku Campaign
+Create a Snapchat Campaign
+Create a Snapchat Reengagement Campaign
+Create a Snapchat Partner Campaign
+Create a Twitter Campaign
+Google Ads
+Create a Google Reengagement Campaign
+Google Marketing Platform – DV360 & CM360
+Google Tag Manager Integration
+Create an Apple Search Ads Campaign
+Kochava for Agencies
+Traffic Verifier®
+Create a Web Conversion Tracking Campaign
+Create a Private Network
+Default Reconciliation Settings
+Partner Reconciliation Settings
+Analytics, Reports & API
+Analytics Overview
+Analytics Overview Detail
+Analytics Footprint
+Analytics Events Volume
+Analytics Event Detail
+Analytics Daily Active Users
+Analytics Monthly Active Users
+Analytics Revenue Per User
+Analytics Facebook Insights
+Analytics SKAdNetwork Insights
+Analytics Lifetime Value
+Analytics Retention
+Analytics Retention (Advanced)
+Analytics Funnel
+Analytics Explorer
+Analytics Page Tools
+Analytics Metrics
+Pulling Reports
+Reports Overview
+SAN Campaign Data Mapping
+API v1.4 – Call Structure
+API v1.4 – Querying API
+API v1.4 – Requesting and Scheduling Reports
+Create and Manage API Key
+App Management API
+Introduction to the Premium Publisher API
+Premium Publisher API Campaign Management
+Premium Publisher API Postback Triggers
+Reference Information
+Integrate with Kochava
+SKAdNetwork Partner Certification
+Attribution Overview
+Kochava Media Index
+Test a Campaign
+Postback Configuration: Recent Install Feed
+Post-Install Event Examples
+Traffic Import Tool
+Locating an App GUID
+Locating the Apple Bundle ID
+Deep Linking
+Scrubbing a Device ID
+Users Overview
+Groups Overview
+Roles Overview
+Creating and Editing Cost Configurations
+Cost Overview
+Cost Explorer
+Measurement Explorer
+SKAdNetwork Explorer
+Cost Media Partner List
+Fraud Console
+Click Flooding
+Ad Stacking Clicks
+Anonymous Installs
+Geographic Outliers
+High Click Volume Devices
+High Click Volume IP Addresses
+Manage Account Blocklist
+Mean-Time-to-Install Outliers
+Time-to-Install Outliers
+Time-to-Install Distribution
+Platform Click/Install Mismatch
+Non-Verified Install Receipts
+Non-Verified Purchase Receipts
+Creating and Editing SmartLinks™
+Adding Universal Link or App Link Support
+Destinations Creation and Maintenance
+Landing Page Creation and Maintenance
+App Clip Setup
+Instant App Setup
+Kochava Collective®
+Audience Builder
+Audience Explorer
+Audience Manager
+Partner Configuration
+Supplier Overview
+Advanced Tools
+Audit Report
+Global Fraud Blocklist
+Power Editor
+Custom Query
+Audience Query
+Query Reference
+Support Home   >  Reference Information  >  SDK Data Privacy and Safety
+SDK Data Privacy and Safety
+Various data is transmitted from the SDK to Kochava. This document describes SDK behavior and which datapoints are transmitted. It is intended to be used as the basis for: Google’s Data Safety Questionnaire,  Apple’s Data Collection Questionnaire,  Your Privacy Policy,  Your audit of the SDK.
+Developing Document:  This is a dynamic document that will be updated as Kochava adjusts to changes and updates.
+Expand All | Collapse All,  When is data transmitted?  [[[{ENC}Is data encrypted?]]],  [[[{CON}Can data transmission be disabled?]]],  [[[{DEL}Can data be deleted upon request?]]],  Is [[[{DAT}the IP address]]] [[[{PRA}transmitted?]]],  What data is transmitted?.
+Android Specific Datapoints
+[[[{CON}These transmitted datapoints are specific to the Android SDK and are primarily used for attribution and install deduplication. Additionally, many of these datapoints are transmitted only if required modules are present]]].
+iOS Specific Datapoints
+[[[{CON}These transmitted datapoints are specific to the iOS/tvOS SDK and are primarily used for attribution and install deduplication]]].
+Other Identifiers
+[[[{CON}These transmitted datapoints are common across most SDK platforms and are primarily used for attribution and install deduplication]]].
+App State Datapoints
+[[[{CON}These transmitted datapoints are common across most SDK platforms and describe the state of the app. They are used primarily for your analytics and reporting and do not play a role in attribution]]].
+Device State Datapoints
+[[[{CON}These transmitted datapoints are common across most SDK platforms and describe the state of the device. They are used for your analytics,reporting and fraud detection; they do not play a role in attribution]]].
+Kochava Owned Backup Domains
+The following is a list of the Kochava owned backup domains that the SDK is capable of calling: kochava.com,  akisinn.me,  akisinn.info,  akisinn.site,  dewrain.life,  dewrain.site,  dewrain.world,  vaicore.site,  vaicore.xyz,  vaicore.store,  vlancaa.fun,  vlancaa.site.
+Last Modified:  Nov 3, 2022 at 10:29 am
+In This Guide: Introduction,  FAQ,  Android Specific Datapoints,  iOS Specific Datapoints,  Other Identifiers,  App State Datapoints,  Device State Datapoints,  Kochava Owned Backup Domains,  Return To Top.
+Related Pages: Reference Information,  SDK Integration.
+In This Guide: Introduction,  FAQ,  Android Specific Datapoints,  iOS Specific Datapoints,  Other Identifiers,  App State Datapoints,  Device State Datapoints,  Kochava Owned Backup Domains,  Return To Top.
+© 2008-2023 Kochava, Inc All rights reserved.
+Android Specific Datapoints
+iOS Specific Datapoints
+Other Identifiers
+App State Datapoints
+Device State Datapoints
+Kochava Owned Backup Domains
+Return To Top
+Deutsch   Español   日本語   한국어   Português   Русский   中文(简体)

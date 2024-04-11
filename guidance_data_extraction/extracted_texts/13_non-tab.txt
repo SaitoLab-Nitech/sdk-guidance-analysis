@@ -1,0 +1,193 @@
+What's New, Guides, API, Platforms, Integrations, Reference, Get a Demo.
+Get a Demo
+Configure Channels
+Install Airship SDK
+Android iOS .NET MAUI Cordova Flutter React Native Titanium Unity Xamarin Android TV Fire TV tvOS
+Audience Management Deep Linking
+In-App Experiences
+Getting Started
+Android iOS
+Push Notifications
+Getting Started
+Customizing Notifications
+Android iOS Cordova Flutter React Native
+Message Center
+Custom Message Center
+Android iOS Flutter React Native
+Preference Center
+Getting Started
+Customizing the Preference Center
+Android iOS
+Analytics Google Wallet iOS Live Activities
+Data Collection
+Data Collection Google Play Data Safety
+Actions Localization
+Accengage Migration
+Getting Started
+Android iOS Cordova Flutter Xamarin
+API References License Source Code
+Android iOS .NET MAUI Cordova Flutter Titanium Unity React Native
+Getting Started Push Notifications Segmentation
+Getting Started Secure Integration Push Notifications Segmentation Data Collection Analytics and Reporting Changelog
+HTML Prompt Registration Page Opt-in Forms
+CMS Integrations Localization Tag Manager Integrations Preference Center
+Open Channels
+Getting Started Use Cases Integration Points Open Delivery Payload
+Getting Started Commercial vs. Transactional Analytics and Reporting Bounce Handling
+Getting Started Opt-In/Out Handling Inbound Message Handling Link Shortening Custom Domains for Short Links Segmentation Analytics and Reporting Delivery Report Error Codes
+/Data Collection
+/Data Collection
+Data Collection
+Overview of data collection and controls provided by the Airship SDK.
+Privacy Manager
+Data collected by the Airship SDK can be controlled using Privacy Manager flags. Each flag enables additional Airship features within the SDK and controls what data is collected. The flags are for individual or groups of functional features within the SDK. Some Airship features, such as contact tags, require multiple feature flags to be enabled.
+SDK Data Collection
+All SDK features are enabled by default, but the SDK can be configured to disable all or a subset of features on start. If the SDK is initialized without any features enabled, it will not store any data or make any network requests. If the SDK features are disabled after being previously enabled, it may make a few network requests to opt the channel out to prevent notifications.
+The data collected automatically by the SDK is not used to track users across apps.
+1. iOS 15+ only
+App Data Collection
+In addition to the data automatically collected by the SDK, the app can provide data to the SDK for collection: Data Privacy
+Airship makes HTTPS encryption (also referred to as TLS connection) available for data in transit to or from the Service, for more information see Airship Security Measures. Data collected by the SDK is not transferred to any third parties unless a partner integration is enabled and configured by the application. For information on individual data requests, see Individual Data Privacy Rights.
+Using Privacy Manager
+The Privacy Manager allows setting default enabled features as well as modifying the enabled features at runtime. This table provides a mapping of the flags: Privacy Manager Flags
+Android Kotlin
+Android Java
+iOS Swift
+iOS Objective-C
+React Native
+.NET MAUI & Xamarin
+Configuring Default Enabled Features
+Default enabled features can be set in the Airship Config options.
+Setting default features
+Android Kotlin
+Android Java
+iOS Swift
+iOS Objective-C
+React Native
+.NET MAUI
+enabledFeatures = push
+val options = AirshipConfigOptions.newBuilder()  // ...  .setEnabledFeatures(PrivacyManager.FEATURE_PUSH)  .build()
+enabledFeatures = push
+AirshipConfigOptions options = AirshipConfigOptions.newBuilder()  // ...  .setEnabledFeatures(PrivacyManager.FEATURE_PUSH)  .build();
+let config = Config.default() config.enabledFeatures = [.push]
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> <plist version="1.0"> <dict>  ...  <key>enabledFeatures</key>  <array/>  <string>push</string>  </array>  ... </dict> </plist>
+UAConfig *config = [UAConfig defaultConfig]; config.enabledFeatures = UAFeaturesPush;
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> <plist version="1.0"> <dict>  ...  <key>enabledFeatures</key>  <array/>  <string>push</string>  </array>  ... </dict> </plist>
+Airship.takeOff({  // ...  enabledFeatures: [Feature.Push] })
+enabledFeatures = push
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> <plist version="1.0"> <dict>  ...  <key>enabledFeatures</key>  <array/>  <string>push</string>  </array>  ... </dict> </plist>
+// Not supported
+enabledFeatures = push
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> <plist version="1.0"> <dict>  ...  <key>enabledFeatures</key>  <array/>  <string>push</string>  </array>  ... </dict> </plist>
+Airship.takeOff({  // ...  "enabledFeatures": ["push"] })
+// Configure via 'Window > UrbanAirship > Settings' UI
+To fully disable data collection by default, just set the enabled features to none.
+Disabling all features
+Android Kotlin
+Android Java
+iOS Swift
+iOS Objective-C
+React Native
+.NET MAUI
+enabledFeatures = none
+val options = AirshipConfigOptions.newBuilder()  // ...  .setEnabledFeatures(PrivacyManager.FEATURE_NONE)  .build()
+enabledFeatures = none
+AirshipConfigOptions options = AirshipConfigOptions.newBuilder()  // ...  .setEnabledFeatures(PrivacyManager.FEATURE_NONE)  .build();
+let config = Config.default() config.enabledFeatures = []
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> <plist version="1.0"> <dict>  ...  <key>enabledFeatures</key>  <array/>  <string>none</string>  </array>  ... </dict> </plist>
+UAConfig *config = [UAConfig defaultConfig]; config.enabledFeatures = UAFeaturesNone;
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> <plist version="1.0"> <dict>  ...  <key>enabledFeatures</key>  <array/>  <string>none</string>  </array>  ... </dict> </plist>
+Airship.takeOff({  // ...  enabledFeatures: [] })
+enabledFeatures = none
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> <plist version="1.0"> <dict>  ...  <key>enabledFeatures</key>  <array/>  <string>none</string>  </array>  ... </dict> </plist>
+// Not supported
+enabledFeatures = none
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> <plist version="1.0"> <dict>  ...  <key>enabledFeatures</key>  <array/>  <string>none</string>  </array>  ... </dict> </plist>
+Airship.takeOff({  // ...  "enabledFeatures": ["none"] })
+// Configure via 'Window > UrbanAirship > Settings' UI
+Modifying Enabled Features
+Features can be enabled and disabled at any time after takeOff. Once a feature set is modified from the default, those settings will be persisted in the SDK between app inits.
+Enabling features
+Android Kotlin
+Android Java
+iOS Swift
+iOS Objective-C
+React Native
+.NET MAUI
+UAirship.shared().privacyManager.enable(PrivacyManager.FEATURE_PUSH, PrivacyManager.FEATURE_ANALYTICS)
+UAirship.shared().getPrivacyManager.enable(PrivacyManager.FEATURE_PUSH, PrivacyManager.FEATURE_ANALYTICS);
+Airship.shared.privacyManager.enableFeatures([.push, .analytics])
+[UAirship.shared.privacyManager enableFeatures:UAFeaturesPush | UAFeaturesAnalytics];
+Airship.privacyManager.enableFeatures([Feature.Push, Feature.Analytics]);
+Airship.enableFeatures(["FEATURE_PUSH", "FEATURE_ANALYTICS"]);
+UAirship.enableFeature([FEATURE_PUSH, FEATURE_ANALYTICS]);
+Airship.Instance.EnableFeatures(Features.Push | Features.Analytics);
+Airship.privacyManager.enable([featurePush, featureAnalytics])
+Airship.Shared.EnableFeatures(new string[]{"FEATURE_PUSH", "FEATURE_ANALYTICS");
+Disabling features
+Android Kotlin
+Android Java
+iOS Swift
+iOS Objective-C
+React Native
+.NET MAUI
+UAirship.shared().privacyManager.disable(PrivacyManager.FEATURE_PUSH, PrivacyManager.FEATURE_ANALYTICS)
+UAirship.shared().getPrivacyManager().enable(PrivacyManager.FEATURE_PUSH, PrivacyManager.FEATURE_ANALYTICS);
+Airship.shared.privacyManager.disableFeatures([.push, .analytics])
+[UAirship.shared.privacyManager disableFeatures:UAFeaturesPush | UAFeaturesAnalytics];
+Airship.privacyManager.disableFeature([Feature.Push, Feature.Analytics]);
+Airship.disableFeatures(["FEATURE_PUSH", "FEATURE_ANALYTICS"]);
+UAirship.disableFeature([FEATURE_PUSH, FEATURE_ANALYTICS]);
+Airship.Instance.DisableFeatures(Features.Push | Features.Analytics);
+Airship.privacyManager.disable([featurePush, featureAnalytics])
+Airship.Shared.DisableFeatures(new string[]{"FEATURE_PUSH", "FEATURE_ANALYTICS");
+iOS Live Activities
+Google Play Data Safety
+Was this page helpful?
+Thank you
+Thanks for your feedback!
+Tell Us More
+Thank you
+We will try harder!
+Tell Us More
+On this page
+Privacy Manager
+SDK Data Collection
+App Data Collection
+Data Privacy
+Using Privacy Manager
+Configuring Default Enabled Features
+Modifying Enabled Features
+Your Privacy, Essential Cookies, Functional Cookies, Marketing Cookies.
+Your Privacy
+When you visit our website, we may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+Privacy Statement
+Essential Cookies
+Always Active
+These cookies are essential for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not gather information about you that are used for marketing purposes.
+Cookies Details‎
+Functional Cookies
+Functional Cookies
+These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+Performance Cookies Switch Label labelThese cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+Cookies Details‎
+Marketing Cookies
+Marketing Cookies
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. If you do not allow these cookies, you will experience less targeted advertising.
+Cookies Details‎
+Back Button
+Vendor Search
+Filter Button
+Consent Leg.Interest
+checkbox label
+checkbox label
+checkbox label
+View Third Party CookiesNamecookie name.
+checkbox label
+Confirm My Choices
+Reject All
+Allow All
+We use cookies to enhance your browsing experience, personalize content and to help us better understand how you use our sites. To set your own preferences and to learn more about the cookies we use click "Cookie Settings" in the footer.Privacy Policy
+Cookies Settings
+Reject All
+Accept All Cookies

@@ -1,0 +1,9 @@
+Data, IP Address. Details, Network request sender IP addresses.
+Data, User product interactions. Details, Counting requests, impressions, viewability and clicks data.
+Data, Diagnostic information. Details, Collecting sampled and anonymous information related to the performance of your app and the SDK such as crash logs.
+Data, Device and Account identifiers. Details, Collects  Android advertising (ad) ID.
+Data, Device and App information. Details, Bundle ID, Taboola SDK type and version, connection type (wifi/cellular), Device Model | OS and version, App name, locale, estimated location (Optional). Taboola SDK does not engage or performs any fingerprinting activity with this information.
+Action Details.
+Data encryption For the collected end-user data listed on this page, Taboola encrypts the data in transit using HTTPS.
+Data sharing For the collected end-user data listed on this page, Taboola does not transfer this data to third parties except as outlined in Taboola's  privacy policy.
+Data deletion Taboola allows end-users to delete personal data collected through the  Data Access Portal.

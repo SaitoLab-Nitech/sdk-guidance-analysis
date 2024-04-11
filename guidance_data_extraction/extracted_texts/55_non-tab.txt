@@ -1,0 +1,62 @@
+Contact Support, Log In, Sign Up, Download SDK, ENG English 中文 한국어 日本語.
+Contact Support, Log In, Sign Up, Download SDK, ENG English 中文 한국어 日本語.
+Home     Monetization     Google Data Safety Form Information
+Home     Monetization     Google Data Safety Form Information
+Getting Started
+View All
+AdColony Android SDK
+AdColony iOS SDK
+AdColony SDK Unity Plugin
+Instant-Play™ HD Technology
+AdColony AIR Native Extension
+View All
+Google Data Safety Form Information
+Getting Started with SDK Integration
+Network IDs for SKAdNetwork (iOS only)
+Completing Apple’s App Privacy Details for AdColony SDK
+Publisher Earnings & Payments F.A.Q.
+Web Dashboard – Reporting
+COPPA F.A.Q
+SDK Platforms & OS Support
+Unity Plugin Overview
+Ad Zone Placement
+Using Multiple Video Ad Zones
+Web Dashboard – Publisher Apps & Zones Setup
+Rewarded Video (V4VC™) Best Practices
+Rewarded Video (V4VC™)
+Rewarded Video (V4VC™) Security
+Certified Mediation Partners & Documentation
+Publisher Reporting API
+App Reports by Geo
+SDK User Metadata Pass-through
+Web Dashboard – Sign Up & Accounts
+iOS 9 – ATS Support Skip to end of metadata
+Error in showing video even when topmost viewController is passed
+Publisher/Developer F.A.Q.
+View All
+Audience Integration Guide
+AdColony BidSheet Reporting API v1.0
+BidSheet for SKAdNetwork
+Receiving SKAN Postbacks from AdColony
+BidSheet – Advertisers
+Attributed Install Reporting API
+Web Dashboard – Reporting
+SDK Device Data for Tracking URLs
+Supported Post Install Events
+Set Up Post Install Events
+Set Up a Postback
+Post Install Event Postbacks for Top Tracking Partners
+Enable View-Thru Attribution
+Campaign Reports by Geo
+Enable Full Install Feed
+User-Acquisition Advertising F.A.Q.
+Advertiser Reporting API
+View All
+Google Data Safety Form Information
+By July 20, 2022, Google Play is mandating all developers to define which data is collected by their apps and third-party libraries or SDKs integrated within these apps through the Google Play Data Safety section form.
+To assist with meeting this requirement, AdColony is providing developers with an easy-to-use guide on our data collection practices in the context of Google’s Play Data Safety details requirement. For each data type, we provide guidance if AdColony collects this data, and if so, how and for what purpose.
+The following table specifies the data that is collected by AdColony’s SDK, and can be used to correctly and accurately answer Google’s data safety questionnaire.
+The information provided here is intended to assist AdColony’s customers in answering the Google Safety Section Questionnaire to the extent that AdColony processes relevant data on behalf of customers. This information does not represent legal advice and customers are required to work with their own professional advisors to determine exactly if and how Google policies apply to them and should adapt responses with the customer’s specific use case and configuration in mind.
+Data Use
+In relevance to Data Collection and Security questions,
+[[[{ENC}Is all of the user data collected by your app encrypted in transit?]]] [[[{ENC}Yes, AdColony’s SDK encrypts all data collected in transit]]]. , [[[{DEL}Do you provide a way for users to request that their data be deleted?]]] [[[{DEL}Go to adcolony.com/privacy-policy/ and select from the options at the bottom of the page]]].

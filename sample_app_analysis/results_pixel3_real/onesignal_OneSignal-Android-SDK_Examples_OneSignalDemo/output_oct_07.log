@@ -1,0 +1,28 @@
+project.emulator.get_num_leaks() = 2
+Sources
+[{'clss': 'Lcom/onesignal/LocationController;',
+  'method': 'fireCompleteForLocation(Landroid/location/Location;)V',
+  'name': ['Location'],
+  'num': 530,
+  'source_class': 'Landroid/location/Location;',
+  'source_method': 'getLatitude()D'},
+ {'clss': 'Lcom/onesignal/LocationController;',
+  'method': 'fireCompleteForLocation(Landroid/location/Location;)V',
+  'name': ['Location'],
+  'num': 541,
+  'source_class': 'Landroid/location/Location;',
+  'source_method': 'getLongitude()D'},
+ {'clss': 'Lcom/onesignal/LocationController;',
+  'method': 'fireCompleteForLocation(Landroid/location/Location;)V',
+  'name': ['Location'],
+  'num': 530,
+  'source_class': 'Landroid/location/Location;',
+  'source_method': 'getLatitude()D'},
+ {'clss': 'Lcom/onesignal/LocationController;',
+  'method': 'fireCompleteForLocation(Landroid/location/Location;)V',
+  'name': ['Location'],
+  'num': 541,
+  'source_class': 'Landroid/location/Location;',
+  'source_method': 'getLongitude()D'}]
+Sinks
+[{"smali_tag": "5199_381", "clss": "Lcom/onesignal/OneSignalRestClient;", "method": "newHttpURLConnection(Ljava/lang/String;)Ljava/net/HttpURLConnection;", "num": 381, "sink_class": "Ljava/net/URL;", "sink_method": "<init>(Ljava/lang/String;)V", "sink_values": ["https://api.onesignal.com/players/efb82b51-dd0d-4741-9d00-fc87f2ec5e87"], "sources": ["Location"], "returned_value": null}, {"smali_tag": "5199_713", "clss": "Lcom/onesignal/OneSignalRestClient;", "method": "startHTTPConnection(Ljava/lang/String;Ljava/lang/String;Lorg/json/JSONObject;Lcom/onesignal/OneSignalRestClient$ResponseHandler;ILjava/lang/String;)Ljava/lang/Thread;", "num": 713, "sink_class": "Ljava/io/OutputStream;", "sink_method": "write([B)V", "sink_values": [[123, 34, 108, 111, 99, 95, 97, 99, 99, 34, 58, 49, 48, 48, 44, 34, 108, 111, 99, 95, 116, 121, 112, 101, 34, 58, 49, 44, 34, 108, 97, 116, 34, 58, 51, 53, 46, 49, 53, 55, 57, 54, 53, 44, 34, 108, 111, 110, 103, 34, 58, 49, 51, 54, 46, 57, 50, 54, 56, 49, 53, 57, 44, 34, 108, 111, 99, 95, 98, 103, 34, 58, 102, 97, 108, 115, 101, 44, 34, 108, 111, 99, 95, 116, 105, 109, 101, 95, 115, 116, 97, 109, 112, 34, 58, 49, 54, 57, 55, 49, 55, 53, 50, 56, 54, 56, 53, 49, 44, 34, 97, 112, 112, 95, 105, 100, 34, 58, 34, 55, 55, 101, 51, 50, 48, 56, 50, 45, 101, 97, 50, 55, 45, 52, 50, 101, 51, 45, 97, 56, 57, 56, 45, 99, 55, 50, 101, 49, 52, 49, 56, 50, 52, 101, 102, 34, 125]], "sources": ["Location"], "returned_value": null}]

@@ -1,0 +1,22 @@
+project.emulator.get_num_leaks() = 0
+Sources
+[{'clss': 'Lcom/appsflyer/internal/AFa1cSDK$AFa1ySDK;',
+  'method': 'values()Ljava/lang/String;',
+  'name': ['AAID'],
+  'num': 166,
+  'source_class': 'Landroid/os/Parcel;',
+  'source_method': 'readString()Ljava/lang/String;'},
+ {'clss': 'Lcom/appsflyer/internal/AFa1cSDK$AFa1ySDK;',
+  'method': 'values()Ljava/lang/String;',
+  'name': ['AAID'],
+  'num': 166,
+  'source_class': 'Landroid/os/Parcel;',
+  'source_method': 'readString()Ljava/lang/String;'},
+ {'clss': 'Lcom/appsflyer/internal/AFa1cSDK$AFa1ySDK;',
+  'method': 'values()Ljava/lang/String;',
+  'name': ['AAID'],
+  'num': 166,
+  'source_class': 'Landroid/os/Parcel;',
+  'source_method': 'readString()Ljava/lang/String;'}]
+Sinks
+[]

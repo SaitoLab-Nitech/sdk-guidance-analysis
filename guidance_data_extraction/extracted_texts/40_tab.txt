@@ -1,0 +1,42 @@
+Questions Answers for Braze SDK.
+Does your app collect or share any of the required user data types? Yes, the Braze Android SDK collects data as configured by the app developer.
+[[[{ENC}Is all of the user data collected by your app encrypted in transit?]]] [[[{ENC}Yes]]].
+[[[{DEL}Do you provide a way for users to request that their data be deleted?]]] [[[{DEL}Yes]]].
+[[[{DAT}Category]]], [[[{DAT}Location]]]. [[[{DAT}Data type]]], [[[{DAT}Approximate location]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected by default]]].
+[[[{DAT}Category]]], [[[{DAT}Location]]]. [[[{DAT}Data type]]], [[[{DAT}Precise location]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected by default]]].
+[[[{DAT}Category]]], [[[{DAT}Personal Info]]]. [[[{DAT}Data type]]], [[[{DAT}Name]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected by default]]].
+[[[{DAT}Category]]], [[[{DAT}Personal Info]]]. [[[{DAT}Data type]]], [[[{DAT}Email address]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected by default]]].
+[[[{DAT}Category]]], [[[{DAT}Personal Info]]]. [[[{DAT}Data type]]], [[[{DAT}User IDs]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected by default]]].
+[[[{DAT}Category]]], [[[{DAT}Personal Info]]]. [[[{DAT}Data type]]], [[[{DAT}Address]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected by default]]].
+[[[{DAT}Category]]], [[[{DAT}Personal Info]]]. [[[{DAT}Data type]]], [[[{DAT}Phone number]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected by default]]].
+[[[{DAT}Category]]], [[[{DAT}Personal Info]]]. [[[{DAT}Data type]]], [[[{DAT}Race and ethnicity]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected by default]]].
+[[[{DAT}Category]]], [[[{DAT}Personal Info]]]. [[[{DAT}Data type]]], [[[{DAT}Political or religious beliefs]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected by default]]].
+[[[{DAT}Category]]], [[[{DAT}Personal Info]]]. [[[{DAT}Data type]]], [[[{DAT}Sexual orientation]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected by default]]].
+[[[{DAT}Category]]], [[[{DAT}Personal Info]]]. [[[{DAT}Data type]]], [[[{DAT}Other info]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected by default]]].
+[[[{DAT}Category]]], [[[{DAT}Financial info]]]. [[[{DAT}Data type]]], [[[{DAT}User payment info]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected by default]]].
+[[[{DAT}Category]]], [[[{DAT}Financial info]]]. [[[{DAT}Data type]]], [[[{DAT}Purchase history]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected by default]]].
+[[[{DAT}Category]]], [[[{DAT}Financial info]]]. [[[{DAT}Data type]]], [[[{DAT}Credit score]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected by default]]].
+[[[{DAT}Category]]], [[[{DAT}Financial info]]]. [[[{DAT}Data type]]], [[[{DAT}Other financial info]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected by default]]].
+[[[{DAT}Category]]], [[[{DAT}Health and fitness]]]. [[[{DAT}Data type]]], [[[{DAT}Health info]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected by default]]].
+[[[{DAT}Category]]], [[[{DAT}Health and fitness]]]. [[[{DAT}Data type]]], [[[{DAT}Fitness info]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected by default]]].
+[[[{DAT}Category]]], [[[{DAT}Messages]]]. [[[{DAT}Data type]]], [[[{DAT}Emails]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected by default]]].
+[[[{DAT}Category]]], [[[{DAT}Messages]]]. [[[{DAT}Data type]]], [[[{DAT}SMS or MMS]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected by default]]].
+[[[{DAT}Category]]], [[[{DAT}Messages]]]. [[[{DAT}Data type]]], [[[{DAT}Other in-app messages]]]. [[[{PRA}Braze Usage]]], [[[{CON}If you send In-app messages or push notifications through Braze, we collect information on when users have opened or read these messages]]].
+[[[{DAT}Category]]], [[[{DAT}Photos and videos]]]. [[[{DAT}Data type]]], [[[{DAT}Photos]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected]]].
+[[[{DAT}Category]]], [[[{DAT}Photos and videos]]]. [[[{DAT}Data type]]], [[[{DAT}Videos]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected]]].
+[[[{DAT}Category]]], [[[{DAT}Audio files]]]. [[[{DAT}Data type]]], [[[{DAT}Voice or sound recordings]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected]]].
+[[[{DAT}Category]]], [[[{DAT}Audio files]]]. [[[{DAT}Data type]]], [[[{DAT}Music files]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected]]].
+[[[{DAT}Category]]], [[[{DAT}Audio files]]]. [[[{DAT}Data type]]], [[[{DAT}Other audio files]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected]]].
+[[[{DAT}Category]]], [[[{DAT}Files and docs]]]. [[[{DAT}Data type]]], [[[{DAT}Files and docs]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected]]].
+[[[{DAT}Category]]], [[[{DAT}Calendar]]]. [[[{DAT}Data type]]], [[[{DAT}Calendar events]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected]]].
+[[[{DAT}Category]]], [[[{DAT}Contacts]]]. [[[{DAT}Data type]]], [[[{DAT}Contacts]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected]]].
+[[[{DAT}Category]]], [[[{DAT}App activity]]]. [[[{DAT}Data type]]], [[[{DAT}App interactions]]]. [[[{PRA}Braze Usage]]], [[[{CON}Braze collects session activity data by default. All other interactions and activity is determined by your app's custom integration]]].
+[[[{DAT}Category]]], [[[{DAT}App activity]]]. [[[{DAT}Data type]]], [[[{DAT}In-app search history]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected]]].
+[[[{DAT}Category]]], [[[{DAT}App activity]]]. [[[{DAT}Data type]]], [[[{DAT}Installed apps]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected]]].
+[[[{DAT}Category]]], [[[{DAT}App activity]]]. [[[{DAT}Data type]]], [[[{DAT}Other user-generated content]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected by default]]].
+[[[{DAT}Category]]], [[[{DAT}App activity]]]. [[[{DAT}Data type]]], [[[{DAT}Other actions]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected by default]]].
+[[[{DAT}Category]]], [[[{DAT}Web browsing]]]. [[[{DAT}Data type]]], [[[{DAT}Web browsing history]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected]]].
+[[[{DAT}Category]]], [[[{DAT}App info and performance]]]. [[[{DAT}Data type]]], [[[{DAT}Crash logs]]]. [[[{PRA}Braze Usage]]], [[[{CON}Braze collects crash logs for errors that occur within the SDK. This contains the user's phone model and OS level, along with a Braze specific user ID]]].
+[[[{DAT}Category]]], [[[{DAT}App info and performance]]]. [[[{DAT}Data type]]], [[[{DAT}Diagnostics]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected]]].
+[[[{DAT}Category]]], [[[{DAT}App info and performance]]]. [[[{DAT}Data type]]], [[[{DAT}Other app performance data]]]. [[[{PRA}Braze Usage]]], [[[{PRA}Not collected]]].
+[[[{DAT}Category]]], [[[{DAT}Device or other IDs]]]. [[[{DAT}Data type]]], [[[{DAT}Device or other IDs]]]. [[[{PRA}Braze Usage]]], [[[{CON}Braze generates a device ID to differentiate users' devices, and ensure messages are sent to the correct intended device]]].

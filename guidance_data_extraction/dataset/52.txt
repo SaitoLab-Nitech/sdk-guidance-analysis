@@ -1,0 +1,18 @@
+Questions Answers related to Batch SDK.
+Does your app collect or share any of the required user data types? (  see more here on data types  ) Yes, data is collected via Batch SDK based on choices made by the developer.
+Is all of the user data collected by your app encrypted in transit? Yes, data collected via Batch SDK and sent to Batch servers is encrypted in transit.
+Do you provide a way for users to request that their data be deleted? Yes, data collected via Batch SDK can be deleted. You will find more details on that point in the "Actionable features for GDPR compliance" part of our  GDPR compliance  article.
+Category, Location. Answers related to Batch SDK, Approximate location  : By default, Batch uses IP geolocation to determine approximately the city where users are located.  Precise location  : Not collected by default. Only collected if the app uses Batch SDK methods to share precise locations with Batch (  see documentation  ).
+Category, Personal info. Answers related to Batch SDK, Not collected by default.  Only collected if the app uses Batch SDK methods to send user IDs, attributes, etc (  see documentation  ).
+Category, Financial info. Answers related to Batch SDK, Not collected by default.  Only collected if the app uses Batch SDK methods to send data on purchase history (  see documentation  ).
+Category, Health and Fitness. Answers related to Batch SDK, Not collected by default.  Only collected if the app uses Batch SDK methods to send data on fitness habits via attributes or events (  see documentation  ).
+Category, Messages. Answers related to Batch SDK, Other in-app messages:  By default, Batch SDK will track user activity related to push notifications and In-App messages for analytics and segmentation purposes:  Push notifications: push received/opened..  In-App messages: displays, clicks on In-App buttons and on the close button.
+Category, Photo and videos. Answers related to Batch SDK, Not collected.
+Category, Audio files. Answers related to Batch SDK, Not collected.
+Category, Files and docs. Answers related to Batch SDK, Not collected.
+Category, Calendar. Answers related to Batch SDK, Not collected.
+Category, Contacts. Answers related to Batch SDK, Not collected.
+Category, App activity. Answers related to Batch SDK, App interactions:  Batch SDK collects some app activity data like lifecycle events, In-App messages interactions, Inbox messages interactions or push opt-in status.  Other data subcategories  : Not collected by default. Only collected if the app uses Batch SDK methods to track user interactions (  see documentation  ).
+Category, Web browsing. Answers related to Batch SDK, Not collected.
+Category, App info and performance. Answers related to Batch SDK, Diagnostics:  Batch SDK tracks internal metrics on the performance of Batch web services.
+Category, Device or other IDs. Answers related to Batch SDK, Batch SDK generates an anonymous ID the first it starts, the "installation id" (  see more here  ).  Other IDs, attached to the installation, can be collected:  A push token is required to send push notifications to the device..  Advertising ID, if the app can share it with Batch SDK. The collection of this data can be deactivated (  see documentation  ).

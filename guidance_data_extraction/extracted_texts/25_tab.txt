@@ -1,0 +1,23 @@
+Question Answer.
+Does your app collect any user data that is sent off the user's device? YES  (as part of your use of the Branch Services, the Branch SDK will pass the data listed below, as further disclosed in the  Branch Privacy Policy  ).
+[[[{ENC}Is this data encrypted in transit?]]] [[[{ENC}YES]]].
+[[[{DEL}Can users request to delete this data?]]] [[[{DEL}YES]]].
+[[[{DAT}Data Type]]], [[[{DAT}Location]]]. [[[{PRA}Collected?]]], [[[{DAT}Approximate Location]]]:  [[[{PRA}NO]]].  [[[{DAT}Precise Location]]]:  [[[{PRA}NO]]].
+[[[{DAT}Data Type]]], [[[{DAT}Personal Information]]]. [[[{PRA}Collected?]]], [[[{DAT}Name]]]:  [[[{PRA}NO]]].  [[[{DAT}Email Address]]]:  [[[{PRA}NO]]].  [[[{DAT}Personal Identifiers]]]:  [[[{PRA}NO]]].  [[[{DAT}Address]]]:  [[[{PRA}NO]]].  [[[{DAT}Phone Number]]]:  [[[{PRA}NO]]].  [[[{DAT}Race and Ethnicity]]]:  [[[{PRA}NO]]].  [[[{DAT}Political or Religious Beliefs]]]:  [[[{PRA}NO]]].  [[[{DAT}Sexual Orientation]]]:  [[[{PRA}NO]]].  [[[{DAT}Other Personal Information]]]:  [[[{PRA}NO]]].
+[[[{DAT}Data Type]]], [[[{DAT}Financial Information]]]. [[[{PRA}Collected?]]], [[[{DAT}Credit/Debit Card/Bank Number]]]:  [[[{PRA}NO]]].  [[[{DAT}Purchase History]]]:  [[[{PRA}NO]]].  [[[{DAT}Credit Information]]]:  [[[{PRA}NO]]].  [[[{DAT}Other Financial Information]]]:  [[[{PRA}NO]]].
+[[[{DAT}Data Type]]], [[[{DAT}Health and Fitness]]]. [[[{PRA}Collected?]]], [[[{DAT}Health Information]]]:  [[[{PRA}NO]]].  [[[{DAT}Fitness Information]]]:  [[[{PRA}NO]]].
+[[[{DAT}Data Type]]], [[[{DAT}Messages]]]. [[[{PRA}Collected?]]], [[[{DAT}Emails]]]:  [[[{PRA}NO]]].  [[[{DAT}SMS or MMS]]]:  [[[{PRA}NO]]].  [[[{DAT}Other in-app messages]]]:  [[[{PRA}NO]]].  [[[{DAT}Photos or Videos]]]:  [[[{PRA}NO]]].
+[[[{DAT}Data Type]]], [[[{DAT}Audio Files]]]. [[[{PRA}Collected?]]], [[[{DAT}Voice or Sound Recordings]]]:  [[[{PRA}NO]]].  [[[{DAT}Music Files]]]:  [[[{PRA}NO]]].  [[[{DAT}Other Audio Files]]]:  [[[{PRA}NO]]].
+[[[{DAT}Data Type]]], [[[{DAT}Files and Docs]]]. [[[{PRA}Collected?]]], [[[{PRA}NO]]].
+[[[{DAT}Data Type]]], [[[{DAT}Calendar]]]. [[[{PRA}Collected?]]], [[[{PRA}NO]]].
+[[[{DAT}Data Type]]], [[[{DAT}Contacts]]]. [[[{PRA}Collected?]]], [[[{PRA}NO]]].
+[[[{DAT}Data Type]]], [[[{DAT}App Activity]]]. [[[{PRA}Collected?]]], [[[{DAT}Page Views and Taps in App]]]:  [[[{PRA}YES  (  OPTIONAL  - You can use Branch's SDK privacy controls to prevent data collection by default until the end-user opted in]]]).  [[[{DAT}In-App Search History]]]:  [[[{PRA}NO]]].  [[[{DAT}Installed Apps]]]:  [[[{PRA}NO]]].  [[[{DAT}Other User-Generated Content]]]:  [[[{PRA}OPTIONAL  , if we are measuring in-app purchases for you for instance]]].  [[[{DAT}Other Actions]]]:  [[[{PRA}OPTIONAL  , Branch can collect this data on your behalf (i.e. clicks, installs, purchases)]]].
+[[[{DAT}Data Type]]], [[[{DAT}Web Browsing History]]]. [[[{PRA}Collected?]]], [[[{PRA}YES  (  OPTIONAL  ).
+[[[{DAT}Data Type]]], App Info and Performance]]]. [[[{PRA}Collected?]]], [[[{DAT}Crash Logs]]]:  [[[{PRA}NO]]].  [[[{DAT}Diagnostics]]]:  [[[{PRA}NO]]].  [[[{DAT}Other App Performance Data]]]:  [[[{PRA}NO]]].
+[[[{DAT}Data Type]]], [[[{DAT}Device or Other Identifiers]]]. [[[{PRA}Collected?]]], [[[{PRA}YES  (  OPTIONAL]]]  ).
+[[[{DAT}Data Type]]], [[[{DAT}Other Data]]]. [[[{PRA}Collected?]]], [[[{PRA}YES  (  OPTIONAL  -  Branch collects this data on your behalf]]] [[[{DES}(e.g. engagement data and device metadata features such as screen size and operating system version]]]  ).
+Question Answer.
+Is data Collected and/or Shared YES  to both.
+[[[{EPH}Is data “processed ephemerally”?]]] [[[{EPH}NO]]]  (see Play Store Safety Section for definition).
+Is the collection of data necessary to the use of the app or can users choose whether data is collected? [[[{CON}Users can choose to turn off this data collection]]] (See:  https://help.branch.io/developers-hub/docs/honoring-opt-out-of-processing-requests  ).
+[[[{PUR}Why is the user data collected?]]] [[[{PUR}App Functionality]]]:  [[[{PUR}YES]]].  [[[{PUR}Analytics]]]:  [[[{PUR}YES]]].  [[[{PUR}Developer Communications]]]:  [[[{PUR}NO]]].  [[[{PUR}Fraud Prevention, Security, or Compliance]]]:  [[[{PUR}NO]]].  [[[{PUR}Advertising or Marketing]]]:  [[[{PUR}YES]]].  [[[{PUR}(Product) Personalization]]]:  [[[{PUR}YES]]].  [[[{PUR}Account Management]]]:  [[[{PUR}NO]]].

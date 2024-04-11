@@ -1,0 +1,11 @@
+guidance_id = 16
+taint_sources = {'ID'}
+i = 0, taint_source = 'ID', data_types = {'Device and other identifiers', 'Device and other IDs', 'AAID', 'User-ID', 'Device or other IDs', 'installation id', 'Device ID', 'Device and Account identifiers', 'Device IDs or other ID', 'App-instance ID', 'ad id', 'Advertising ID', 'Device identifiers', 'Android ID', 'other identifiers related to signed - in accounts', 'Custom device key', 'Crashlytics installation UUID', 'Firebase installation ID', 'Firebase Android App ID', 'Custom device key - values', 'Device or other identifiers', 'device - level ID', 'Android advertising ( ad ) ID'}
+    practices = [{'PRA': '', 'CON': ''}, {'PRA': 'Col. By', 'CON': '##lected. Instabug,. Instabug collects device make and model data, operating system data, cell carrier type were available and application information.. For further details check Crashes and APM.'}]
+    sa_result = None
+    used_text = None
+    final_result = 'Consistent'
+    sa_result = [{'label': 'POSITIVE', 'score': 0.9957460761070251}]
+    used_text = 'Instabug collects device make and model data, operating system data, cell carrier type were available and application information.'
+    final_result = 'Inconsistent'
+[NER_EVAL] detection_result = 'Consistent', ans = 'Consistent', True

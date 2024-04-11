@@ -1,0 +1,38 @@
+[[[{DAT}Category]]], [[[{DAT}Location]]]. [[[{DAT}Data type]]], [[[{DAT}Approximate location]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect approximate location]]].
+[[[{DAT}Data type]]], [[[{DAT}Precise location]]]. [[[{PRA}Required?]]], [[[{PRA}💡]]] [[[{CON}OneSignal does not collect location data unless your app asks for it and receives permission. You can also control whether location data is sent to OneSignal or not when initializing the OneSignal SDK. See  Handling Personal Data]]]  .
+[[[{DAT}Category]]], [[[{DAT}Personal info]]]. [[[{DAT}Data type]]], [[[{DAT}Name]]]. [[[{PRA}Required?]]], [[[{PRA}💡]]] [[[{CON}If you use Data Tags or Outcomes to collect name]]].
+[[[{DAT}Data type]]], [[[{DAT}Email address]]]. [[[{PRA}Required?]]], [[[{PRA}💡]]] [[[{CON}If you add email address to OneSignal]]].
+[[[{DAT}Data type]]], [[[{DAT}User IDs]]]. [[[{PRA}Required?]]], [[[{PRA}💡]]] [[[{CON}If you use Data Tags or Outcomes to collect user IDs]]].
+[[[{DAT}Data type]]], [[[{DAT}Address]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect address]]].
+[[[{DAT}Data type]]], [[[{DAT}Phone number]]]. [[[{PRA}Required?]]], [[[{PRA}💡]]] [[[{CON}If you add phone number to OneSignal]]].
+[[[{DAT}Data type]]], [[[{DAT}Race and ethnicity]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect race or ethnicity]]].
+[[[{DAT}Data type]]], [[[{DAT}Political or religious beliefs]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect political or religious beliefs]]].
+[[[{DAT}Data type]]], [[[{DAT}Sexual orientation]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect sexual orientation]]].
+[[[{DAT}Data type]]], [[[{DAT}Other info]]]. [[[{PRA}Required?]]], [[[{PRA}💡]]] [[[{CON}If you use Data Tags or Outcomes to collect other info]]].
+[[[{DAT}Category]]], [[[{DAT}Financial info]]]. [[[{DAT}Data type]]], [[[{DAT}User payment info]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect user payment info]]].
+[[[{DAT}Data type]]], [[[{DAT}Purchase history]]]. [[[{PRA}Required?]]], [[[{PRA}✅]]] [[[{CON}OneSignal collects Consumable in-app purchase data while our SDK is active]]].
+[[[{DAT}Data type]]], [[[{DAT}Credit score]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect credit score]]].
+[[[{DAT}Data type]]], [[[{DAT}Other financial info]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect other financial info]]].
+[[[{DAT}Category]]], [[[{DAT}Health and fitness]]]. [[[{DAT}Data type]]], [[[{DAT}Health info]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect health info]]].
+[[[{DAT}Data type]]], [[[{DAT}Fitness info]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect fitness info]]].
+[[[{DAT}Category]]], [[[{DAT}Messages]]]. [[[{DAT}Data type]]], [[[{DAT}Emails]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect emails]]].
+[[[{DAT}Data type]]], [[[{DAT}SMS or MMS]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect SMS or MMS]]].
+[[[{DAT}Data type]]], [[[{DAT}Other in-app messages]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect other in-app messages]]].
+[[[{DAT}Category]]], [[[{DAT}Photos and videos]]]. [[[{DAT}Data type]]], [[[{DAT}Photos]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect photos]]].
+[[[{DAT}Data type]]], [[[{DAT}Videos]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect videos]]].
+[[[{DAT}Category]]], [[[{DAT}Audio files]]]. [[[{DAT}Data type]]], Voice or sound recordings]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect voice or sound recordings]]].
+[[[{DAT}Data type]]], [[[{DAT}Music files]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect music files]]].
+[[[{DAT}Data type]]], [[[{DAT}Other audio files]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect other audio files]]].
+[[[{DAT}Category]]], [[[{DAT}Files and docs]]]. [[[{DAT}Data type]]], [[[{DAT}Files and docs]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect files and docs]]].
+[[[{DAT}Category]]], [[[{DAT}Calendar]]]. [[[{DAT}Data type]]], [[[{DAT}Calendar]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect calendar events]]].
+[[[{DAT}Category]]], [[[{DAT}Contacts]]]. [[[{DAT}Data type]]], [[[{DAT}Contacts]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect contacts]]].
+[[[{DAT}Category]]], [[[{DAT}App activity]]]. [[[{DAT}Data type]]], [[[{DAT}App interactions]]]. [[[{PRA}Required?]]], [[[{PRA}✅]]] [[[{CON}OneSignal collects user First Session, Last Session, Session Count, Total Usage Duration, and Notification Clicks]]].
+[[[{DAT}Data type]]], [[[{DAT}In-app search history]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect in-app search history]]].
+[[[{DAT}Data type]]], [[[{DAT}Installed apps]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect installed apps]]].
+[[[{DAT}Data type]]], [[[{DAT}Other user-generated content]]]. [[[{PRA}Required?]]], [[[{PRA}💡]]] [[[{CON}If you use Data Tags or Outcomes to collect user-generated content]]].
+[[[{DAT}Data type]]], [[[{DAT}Other actions]]]. [[[{PRA}Required?]]], [[[{PRA}💡]]] [[[{CON}If you use Data Tags or Outcomes to collect other actions]]].
+[[[{DAT}Category]]], [[[{DAT}Web browsing]]]. [[[{DAT}Data type]]], [[[{DAT}Web browsing history]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect collect web browsing history]]].
+[[[{DAT}Category]]], [[[{DAT}App info and performance]]]. [[[{DAT}Data type]]], [[[{DAT}Crash logs]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect crash logs]]].
+[[[{DAT}Data type]]], [[[{DAT}Diagnostics]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect diagnostics]]].
+[[[{DAT}Data type]]], [[[{DAT}Other app performance data]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect other app performance data]]].
+[[[{DAT}Category]]], [[[{DAT}Device or other IDs]]]. [[[{DAT}Data type]]], [[[{DAT}Device or other IDs]]]. [[[{PRA}Required?]]], [[[{PRA}❌]]] [[[{CON}OneSignal does not collect Google Advertising ID as of OneSignal Android Native SDK 4.0+ *]]]  [[[{PRA}💡]]] [[[{CON}If you configure External User IDs to link identifiers to OneSignal Player IDs]]].

@@ -1,0 +1,41 @@
+SDK,DAT,PRA,DES,CON,PUR,text
+,"T } Data type ',. } Location ',. } Personal info ',. } Financial info ',. } Health and fitness ',. } Messages ',. } Photos or videos ',. } Audio files ',. } Files and docs ',. } Calendar ',. } Contacts ',. } App activity ',. } Web browsing ',. } App info and performance ',. } Device or other IDs ' )","A } MyTracker data collection ( default configuration ) ',",,,,
+,"} Location ',. } Personal info ',. } Financial info ',. } Health and fitness ',. } Messages ',. } Photos or videos ',. } Audio files ',. } Files and docs ',. } Calendar ',. } Contacts ',. } App activity ',. } Web browsing ',. } App info and performance ',. } Device or other IDs ' ). } Location ',. } Personal info ',. } Financial info ',. } Health and fitness ',. } Messages ',. } Photos or videos ',. } Audio files ',. } Files and docs ',. } Calendar ',. } Contacts ',. } App activity ',. } Web browsing ',. } App info and performance ',. } Device or other IDs ' ).",,,,,"T}Data type', }Location', }Personal info', }Financial info', }Health and fitness', }Messages', }Photos or videos', }Audio files', }Files and docs', }Calendar', }Contacts', }App activity', }Web browsing', }App info and performance', }Device or other IDs') A}MyTracker data collection (default configuration)', }Location', }Personal info', }Financial info', }Health and fitness', }Messages', }Photos or videos', }Audio files', }Files and docs', }Calendar', }Contacts', }App activity', }Web browsing', }App info and performance', }Device or other IDs') ('Comment', }Location', }Personal info', }Financial info', }Health and fitness', }Messages', }Photos or videos', }Audio files', }Files and docs', }Calendar', }Contacts', }App activity', }Web browsing', }App info and performance', }Device or other IDs')."
+,Approximate location,No Collection of this data is disabled by default in all SDK versions starting 3. 0. 9. App developers may configure the transmission of this data by enabling TrackingLocationEnabled.,,,,Approximate location ? No  Collection of this data is disabled by default  in all SDK versions starting 3.0.9 App developers may configure  the transmission of this data  by enabling  TrackingLocationEnabled.
+,Precise location,No Collection of this data is disabled by default in all SDK versions starting 3. 0. 9. App developers may configure the transmission of this data by enabling TrackingLocationEnabled.,,,,Precise location ? No  Collection of this data is disabled by default  in all SDK versions starting 3.0.9 App developers may configure  the transmission of this data  by enabling  TrackingLocationEnabled.
+,Name,No,,,,Name No nan.
+,Email address,No,,,,Email address No nan.
+,User IDs,No. App developers may configure the transmission of this data.,,,,User IDs ? No App developers may configure the transmission of this data.
+,Address,No,,,,Address No nan.
+,Phone number,No,,,,Phone number No nan.
+,Race and ethnicity,No,,,,Race and ethnicity No nan.
+,Political or religious beliefs,No,,,,Political or religious beliefs No nan.
+,Sexual orientation,No,,,,Sexual orientation No nan.
+,Other info,No,,,,Other info No nan.
+,User payment info,No,,,,User payment info No nan.
+,Purchase history,No. App developers may configure the transmission of this data.,,,,Purchase history No App developers may configure the transmission of this data.
+,Credit score,No,,,,Credit score No nan.
+,Other financial info,No,,,,Other financial info No nan.
+,Health info,No,,,,Health info No nan.
+,Fitness info,No,,,,Fitness info No nan.
+,Emails,No,,,,Emails No nan.
+,SMS or MMS,No,,,,SMS or MMS No nan.
+,Other in - app messages,No,,,,Other in-app messages No nan.
+,Photos,No,,,,Photos No nan.
+,Videos,No,,,,Videos No nan.
+,Voice or sound recordings,No,,,,Voice or sound recordings No nan.
+,Music files,No,,,,Music files No nan.
+,Other audio files,No,,,,Other audio files No nan.
+,Files and docs,No,,,,Files and docs No nan.
+,Calendar events,No,,,,Calendar events No nan.
+,Contacts,No,,,,Contacts No nan.
+,App interactions,No. App developers may configure the transmission of this data using custom events.,,,,App interactions ? No App developers may configure the transmission of this data  using custom events.
+,In - app search history,No. App developers may configure the transmission of this data using custom events.,,,,In-app search history No App developers may configure the transmission of this data  using custom events.
+,Installed apps,No,,,,Installed apps No nan.
+,Other user - generated content,No. App developers may configure the transmission of this data using custom events.,,,,Other user-generated content ? No App developers may configure the transmission of this data  using custom events.
+,Other actions,No. App developers may configure the transmission of this data using custom events.,,,,Other actions ? No App developers may configure the transmission of this data  using custom events.
+,Web browsing history,No,,,,Web browsing history No nan.
+,Crash logs,No,,,,Crash logs No nan.
+,Diagnostics,Yes. MyTracker can collect on battery levels,,,for fraud detection purposes.,Diagnostics Yes MyTracker can collect on battery levels for fraud detection purposes.
+,Other app performance data,"Yes. MyTracker can collect additional data,","for example, device info such as an OS version, screen type, and so on.",,,"Other app performance data Yes MyTracker can collect additional data, for example,  device info such as an OS version, screen type, and so on."
+,Device or other IDs,"Yes, if the app received the user ’ s permission",,,"Purpose,. App functionality.. Data use,. Optional. Select if you use data to enable app features, or authenticate users.. Purpose,. Analytics.. Data use,. Yes.. Purpose,. Developer communications.. Data use,. Optional. Select if you use data for sending a push notification to inform users about an important security update, or informing users about new features of the app.. Purpose,. Advertising or marketing.. Data use,. Optional. Select if you display ads in your app, send push notifications to promote other products or services, or share data with advertising partners.. Purpose,. Fraud prevention, security, and compliance.. Data use,. Yes.. Purpose,. Personalization.. Data use,. Optional. Select if you use data for product personalization, such as suggesting playlists or news based on the user ' s habits.. Purpose,. Account management.. Data use,. Optional. Select if you use data the setup or management of a user ’ s account with the developer.","Device or other IDs ? Yes, if the app received the user’s permission nan.. Purpose, App functionality. Data use, Optional. Select if you use data to enable app features,  or authenticate users.. Purpose, Analytics. Data use, Yes.. Purpose, Developer communications. Data use, Optional. Select if you use data for sending a push notification  to inform users about an important security update,  or informing users about new features of the app.. Purpose, Advertising or marketing. Data use, Optional. Select if you display ads in your app,  send push notifications to promote other products or services,  or share data with advertising partners.. Purpose, Fraud prevention, security, and compliance. Data use, Yes.. Purpose, Personalization. Data use, Optional. Select if you use data for product personalization,  such as suggesting playlists or news based on the user's habits.. Purpose, Account management. Data use, Optional. Select if you use data the setup or management  of a user’s account with the developer."
