@@ -1,7 +1,7 @@
 # Data and Code Used in Our Study
 
-Paper: Detection of Inconsistencies between Guidance Pages and Actual Data Collection of Third-party SDKs in Android Apps
-Conference: 11th International Conference on Mobile Software Engineering and Systems 2024
+- Paper: Detection of Inconsistencies between Guidance Pages and Actual Data Collection of Third-party SDKs in Android Apps
+- Conference: 11th International Conference on Mobile Software Engineering and Systems 2024 (MOBILESoft 2024), 15 April 2024, Lisbon, Portugal
 
 Some data are redacted with consideration of respect for the SDK providers.
 
@@ -95,7 +95,7 @@ Related files are located at `sample_app_collection/`.
 ## SDK Sample App Analysis
 
 Related files are placed in `sample_app_analysis/`.
-Note that the dynamic taint tracker we used (i.e., T-Recs) is an open-sourced tool and is not included here.
+Note that the dynamic taint tracker we used (i.e., [T-Recs](https://github.com/SaitoLab-Nitech/T-Recs)) is an open-sourced tool and is not included here.
 
 ### Directory Structure
 
